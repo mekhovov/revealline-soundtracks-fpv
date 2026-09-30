@@ -1,0 +1,289 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta name="color-scheme" content="dark">
+  <meta name="description" content="Search and play every published RevealLine soundtrack recording in one continuous player.">
+  <title>RevealLine FPV · Soundtracks</title>
+  <link rel="stylesheet" href="style.css">
+  <script src="player.mjs?v=20260927-6" type="module"></script>
+  <script src="intake-browser.mjs?v=20260927-3" type="module"></script>
+</head>
+<body>
+  <a class="skip" href="#recordings">Skip to recordings</a>
+  <main>
+    <header>
+      <p class="eyebrow">REVEALLINE / SEPARATE FPV COLLECTION</p>
+      <h1>FPV music.<br><span>One player.</span></h1>
+      <p class="intro" id="catalogue-summary">Loading the complete published soundtrack catalogue…</p>
+      <p class="notice">This is a separate, explicitly selected FPV collection. Unknown licence labels remain unknown; uploader confirmation is not an open licence or permission for others to reuse a recording. The main RevealLine archive stays licensed-only.</p>
+      <nav>
+        <a href="#recordings">Browse all songs</a>
+        <a href="#add-music">Add music</a>
+        <a href="upload-guide/">Upload guide</a>
+        <a href="https://mekhovov.github.io/revealline/game/">Play RevealLine ↗</a>
+        <a href="https://github.com/mekhovov/revealline-soundtracks-fpv">Soundtrack repository ↗</a>
+        <a href="catalogue.json">Public catalogue JSON</a>
+      </nav>
+    </header>
+
+    <section class="player" aria-labelledby="player-heading">
+      <div class="player-copy">
+        <p class="eyebrow" id="player-heading">NOW PLAYING</p>
+        <p id="now-playing" aria-live="polite">Choose a recording, or play the current results.</p>
+        <p id="now-source"></p>
+      </div>
+      <audio id="audio" controls preload="metadata"></audio>
+      <div class="transport">
+        <button id="play-results" type="button">▶ Play results</button>
+        <button id="pause" type="button" disabled>Pause</button>
+        <button id="next" type="button" disabled>Next →</button>
+        <label>Order
+          <select id="order">
+            <option value="shuffle">Shuffle</option>
+            <option value="sequential">One after another</option>
+          </select>
+        </label>
+        <label>Repeat
+          <select id="repeat">
+            <option value="all">All selected songs</option>
+            <option value="one">Current song</option>
+            <option value="off">Stop at the end</option>
+          </select>
+        </label>
+      </div>
+      <p id="playback-status" role="status"></p>
+    </section>
+
+    <p id="review-notice" class="review-notice" role="status" hidden>This unlisted review view contains recordings held out of the public catalogue and every default playlist.</p>
+
+    <section id="featured-collection" class="featured-collection" aria-labelledby="foundation-heading">
+      <div>
+        <p class="eyebrow">FEATURED COLLECTION</p>
+        <h2 id="foundation-heading">FPV collection</h2>
+        <p><span id="foundation-count">0</span> FPV recordings in one continuous playlist. Choose shuffle or sequential order above, then keep listening without leaving this page.</p>
+      </div>
+      <div class="featured-actions">
+        <button id="play-foundation" type="button" disabled>▶ Play FPV collection</button>
+        <button id="browse-foundation" type="button" disabled>Browse FPV collection</button>
+      </div>
+    </section>
+
+    <section id="recordings" aria-label="All published recordings">
+      <div class="filters">
+        <label class="search-field">Find a song, artist, tag or collection
+          <input id="search" type="search" placeholder="Try an artist, title or collection" autocomplete="off">
+        </label>
+        <fieldset class="style-picker">
+          <legend>Music styles — choose any mix</legend>
+          <div id="styles"></div>
+          <div class="style-actions">
+            <button id="styles-all" type="button">All styles</button>
+            <button id="styles-none" type="button">Clear</button>
+          </div>
+          <p class="style-help">
+            Chiptune &amp; 8-bit uses vintage console and computer sound-chip timbres.
+            Detailed substyles and moods remain searchable.
+          </p>
+        </fieldset>
+        <label>Collection
+          <select id="collection"><option value="">All collections</option></select>
+        </label>
+        <div class="result-actions">
+          <p id="count" role="status">Loading…</p>
+          <button id="share-list" type="button">Share this list</button>
+        </div>
+        <p id="share-fallback" class="share-fallback" hidden tabindex="0"></p>
+      </div>
+      <div id="tracks" aria-busy="true"></div>
+      <p id="empty" hidden>No recordings match. Try another search, style or collection.</p>
+    </section>
+
+    <section class="guide" id="add-music">
+        <p class="eyebrow">CATALOGUE INTAKE</p>
+        <h2>Add music to this FPV collection</h2>
+        <p>
+          Prepare a rights-bound contribution entirely in this page. Files stay
+          on your device until you download the resulting
+          <code>.rlintake</code> package. The FPV archive accepts it only after the
+          exact recording source, licence and credits are verified.
+        </p>
+        <p>
+          Artist names, collections and reviewed styles become searchable,
+          clickable filters. After the archive pull request merges, publication
+          automation updates this page. The game can discover it through an explicitly
+          selected FPV/custom source on its next refresh. No game code change or game release is needed for
+          each new song.
+        </p>
+        <p>
+          <strong>Unknown</strong> preserves your uploader-confirmed rights assertion.
+          In this separate FPV collection, confirmed recordings are public.
+          Unknown is not an open licence; no reuse permission is implied.
+          Publication here does not add music to the main archive or game defaults.
+        </p>
+        <form id="browser-intake-form" class="intake-form">
+          <fieldset>
+            <legend>1. Choose the audio source</legend>
+            <label><input type="radio" name="intakeSource" value="files" checked /> Choose MP3 files</label>
+            <label><input type="radio" name="intakeSource" value="urls" /> Use hosted MP3 URLs</label>
+          </fieldset>
+          <fieldset id="intake-file-source">
+            <legend>Choose exact MP3s</legend>
+            <label
+              >One or more MP3 files
+              <input
+                id="intake-files"
+                type="file"
+                accept=".mp3,audio/mpeg"
+                multiple
+            /></label>
+            <label
+              >Or one folder
+              <input
+                id="intake-folder"
+                type="file"
+                accept=".mp3,audio/mpeg"
+                webkitdirectory
+                directory
+                multiple
+            /></label>
+          </fieldset>
+          <fieldset id="intake-url-source" hidden>
+            <legend>Hosted MP3 URLs</legend>
+            <p>Each URL must be a stable public HTTPS MP3 with CORS and byte-range support. Presigned and expiring URLs are rejected.</p>
+            <div id="intake-url-rows"></div>
+            <button id="intake-add-url" type="button">Add another URL</button>
+          </fieldset>
+          <fieldset>
+            <legend>2. Describe the recording and rights</legend>
+            <label
+              >Creator fallback <input name="artist" required maxlength="160" />
+              <span>Used only when an MP3 has no artist tag; existing artist tags are preserved.</span>
+            </label>
+            <label
+              >Exact creator/source page
+              <input name="source" type="url" required maxlength="2048" placeholder="https://…"
+            /></label>
+            <label
+              >Licence
+              <select name="license" required>
+                <option value="">Choose…</option>
+                <option value="cc0">CC0 1.0</option>
+                <option value="cc-by-3.0">CC BY 3.0</option>
+                <option value="cc-by-4.0">CC BY 4.0</option>
+                <option value="cc-by-sa-3.0">CC BY-SA 3.0</option>
+                <option value="cc-by-sa-4.0">CC BY-SA 4.0</option>
+                <option value="unknown">Unknown — uploader-confirmed rights (FPV source)</option>
+              </select>
+            </label>
+            <label
+              >Reviewed styles
+              <input
+                name="styles"
+                required
+                maxlength="1039"
+                placeholder="metal, ukrainian, gameplay"
+            /></label>
+            <label
+              >Collections
+              <input
+                name="collections"
+                maxlength="1039"
+                placeholder="TRENCH ORDERLY, ФПВ"
+            /><span>A song can appear in several collections. The batch title is added automatically.</span></label>
+            <label
+              >Exact rights evidence URL
+              <input
+                name="rightsEvidence"
+                type="url"
+                maxlength="2048"
+                placeholder="Defaults to source page"
+            /></label>
+            <label
+              >Shared required attribution
+              <textarea
+                name="attribution"
+                rows="3"
+                maxlength="1000"
+                placeholder="Only when the same text applies to every selected file"
+              ></textarea>
+            </label>
+            <label
+              >Derivative/change notice
+              <textarea
+                name="derivativeNotice"
+                rows="3"
+                maxlength="1000"
+                placeholder="Required for CC BY-SA"
+              ></textarea>
+            </label>
+          </fieldset>
+          <fieldset>
+            <legend>3. Name the public audition batch</legend>
+            <label
+              >Collection title
+              <input
+                name="batchTitle"
+                maxlength="160"
+                placeholder="Derived from the selected file when empty"
+            /></label>
+            <label
+              >Stable batch ID
+              <input
+                name="batchId"
+                maxlength="64"
+                pattern="[a-z0-9][a-z0-9-]{0,63}"
+                placeholder="lowercase-and-hyphens"
+            /></label>
+            <label
+              >Description <textarea name="description" rows="3" maxlength="1000"></textarea>
+            </label>
+          </fieldset>
+          <label class="rights-confirm"
+            ><input name="confirmRights" type="checkbox" required /> I verified
+            that the source, licence or uploader-confirmed permission, rights evidence and styles above apply to
+            every selected recording. Files with different rights belong in
+            separate packages.</label
+          >
+          <button type="submit">Verify and prepare package</button>
+          <p id="intake-status" role="status" aria-live="polite">
+            Nothing is uploaded by this page.
+          </p>
+          <a id="intake-download" class="button-link" hidden
+            >Download verified .rlintake package</a
+          >
+        </form>
+        <ol>
+          <li>
+            Choose files, a folder, or stable hosted MP3 URLs; enter the exact rights details and
+            download the verified package.
+          </li>
+          <li>
+            Run the single package-admission command from the checked-in guide.
+            No metadata flags are repeated.
+          </li>
+          <li>
+            Open the archive pull request. CI verifies exact bytes, metadata,
+            duplicate hashes and catalogue output.
+          </li>
+          <li>
+            After merge, automation publishes and verifies the versioned audio volume and
+            deploys Pages. The recording then appears here and in every game
+            release that includes the custom-source catalogue integration.
+          </li>
+        </ol>
+        <p>
+          <a href="UPLOAD_GUIDE.md"
+            >Open the complete step-by-step upload guide →</a
+          >
+        </p>
+      </section>
+
+    <footer>
+      <p>Third-party recordings remain credited to their creators. Public availability is separate from listening approval and from the game’s standard playlists.</p>
+      <p>Audio uses versioned SHA-256 object paths. The player requests only the chosen recording; it does not download the whole catalogue.</p>
+    </footer>
+  </main>
+</body>
+</html>

@@ -1,0 +1,3709 @@
+{
+  "format": "revealline-public-soundtrack-catalogue.v1",
+  "archive": {
+    "id": "revealline-soundtracks-fpv",
+    "baseURL": "https://mekhovov.github.io/revealline-soundtracks-fpv/"
+  },
+  "sources": [
+    {
+      "id": "fpv-migration-20261001",
+      "path": "migration-inventory.json",
+      "status": "migrated",
+      "listeningApproval": "not-reviewed",
+      "gameCatalogueAdmission": false,
+      "declaredTracks": 73
+    }
+  ],
+  "counts": {
+    "declaredTracks": 73,
+    "uniqueRecordings": 73,
+    "duplicateAliases": 0,
+    "audioBytes": 207941311
+  },
+  "tracks": [
+    {
+      "id": "trench-orderly.soundtrack",
+      "title": "Збий дрон",
+      "artist": "TRENCH ORDERLY",
+      "durationSeconds": 164.861678,
+      "tags": [
+        "ФПВ",
+        "UA",
+        "audition",
+        "listening pending"
+      ],
+      "source": "https://www.youtube.com/@TRENCH_ORDERLY",
+      "license": "Unknown — uploader-confirmed rights",
+      "licenseURL": null,
+      "credit": "Збий дрон by TRENCH ORDERLY. Rights confirmed by uploader for public redistribution and web-game playback. Source: https://www.youtube.com/@TRENCH_ORDERLY",
+      "rights": {
+        "licenseId": "UNKNOWN",
+        "licenseVersion": null,
+        "licenseURL": null,
+        "rightsEvidenceURL": "https://www.youtube.com/@TRENCH_ORDERLY",
+        "attribution": "Збий дрон by TRENCH ORDERLY. Rights confirmed by uploader for public redistribution and web-game playback. Source: https://www.youtube.com/@TRENCH_ORDERLY",
+        "derivativeChangeNotice": "Exact submitted MP3 bytes retained; no archive changes declared.",
+        "permissionBasis": "uploader-confirmed-public-redistribution-and-web-playback",
+        "shareAlike": {
+          "required": null,
+          "deliveryLicenseId": null,
+          "deliveryLicenseVersion": null,
+          "deliveryLicenseURL": null
+        }
+      },
+      "fileName": "TRENCH ORDERLY -  Збий дрон.mp3",
+      "archiveId": "trench-orderly-20260927",
+      "collection": "TRENCH ORDERLY",
+      "status": "licensed-preview",
+      "listeningApproval": "not-reviewed",
+      "gameCatalogueAdmission": false,
+      "contentId": "unknown",
+      "recordingModeEligible": false,
+      "default": false,
+      "audio": {
+        "path": "objects/8ddb7eb4f274fa64e1ccc8f438f6483d80b755a04cc903079fd13474db11f0c7.mp3",
+        "bytes": 2851069,
+        "sha256": "8ddb7eb4f274fa64e1ccc8f438f6483d80b755a04cc903079fd13474db11f0c7"
+      },
+      "aliases": [],
+      "collections": [
+        "TRENCH ORDERLY",
+        "ФПВ"
+      ]
+    },
+    {
+      "id": "trench-orderly.drones-hunter",
+      "title": "Drones hunter",
+      "artist": "TRENCH ORDERLY",
+      "durationSeconds": 127.80263,
+      "tags": [
+        "ФПВ",
+        "UA",
+        "audition",
+        "listening pending"
+      ],
+      "source": "https://www.youtube.com/@TRENCH_ORDERLY",
+      "license": "Unknown — uploader-confirmed rights",
+      "licenseURL": null,
+      "credit": "Drones hunter by TRENCH ORDERLY. Rights confirmed by uploader for public redistribution and web-game playback. Source: https://www.youtube.com/@TRENCH_ORDERLY",
+      "rights": {
+        "licenseId": "UNKNOWN",
+        "licenseVersion": null,
+        "licenseURL": null,
+        "rightsEvidenceURL": "https://www.youtube.com/@TRENCH_ORDERLY",
+        "attribution": "Drones hunter by TRENCH ORDERLY. Rights confirmed by uploader for public redistribution and web-game playback. Source: https://www.youtube.com/@TRENCH_ORDERLY",
+        "derivativeChangeNotice": "Exact submitted MP3 bytes retained; no archive changes declared.",
+        "permissionBasis": "uploader-confirmed-public-redistribution-and-web-playback",
+        "shareAlike": {
+          "required": null,
+          "deliveryLicenseId": null,
+          "deliveryLicenseVersion": null,
+          "deliveryLicenseURL": null
+        }
+      },
+      "fileName": "TRENCH ORDERLY - Drones hunter.mp3",
+      "archiveId": "trench-orderly-20260927",
+      "collection": "TRENCH ORDERLY",
+      "status": "licensed-preview",
+      "listeningApproval": "not-reviewed",
+      "gameCatalogueAdmission": false,
+      "contentId": "unknown",
+      "recordingModeEligible": false,
+      "default": false,
+      "audio": {
+        "path": "objects/5e7b33426088ade0a9345102d3ceb1ec38c43c09535e2288c6e1e032e1cee5a0.mp3",
+        "bytes": 2070360,
+        "sha256": "5e7b33426088ade0a9345102d3ceb1ec38c43c09535e2288c6e1e032e1cee5a0"
+      },
+      "aliases": [],
+      "collections": [
+        "TRENCH ORDERLY",
+        "ФПВ"
+      ]
+    },
+    {
+      "id": "trench-orderly.vampire",
+      "title": "Vampire",
+      "artist": "TRENCH ORDERLY",
+      "durationSeconds": 164.977778,
+      "tags": [
+        "ФПВ",
+        "UA",
+        "audition",
+        "listening pending"
+      ],
+      "source": "https://www.youtube.com/@TRENCH_ORDERLY",
+      "license": "Unknown — uploader-confirmed rights",
+      "licenseURL": null,
+      "credit": "Vampire by TRENCH ORDERLY. Rights confirmed by uploader for public redistribution and web-game playback. Source: https://www.youtube.com/@TRENCH_ORDERLY",
+      "rights": {
+        "licenseId": "UNKNOWN",
+        "licenseVersion": null,
+        "licenseURL": null,
+        "rightsEvidenceURL": "https://www.youtube.com/@TRENCH_ORDERLY",
+        "attribution": "Vampire by TRENCH ORDERLY. Rights confirmed by uploader for public redistribution and web-game playback. Source: https://www.youtube.com/@TRENCH_ORDERLY",
+        "derivativeChangeNotice": "Exact submitted MP3 bytes retained; no archive changes declared.",
+        "permissionBasis": "uploader-confirmed-public-redistribution-and-web-playback",
+        "shareAlike": {
+          "required": null,
+          "deliveryLicenseId": null,
+          "deliveryLicenseVersion": null,
+          "deliveryLicenseURL": null
+        }
+      },
+      "fileName": "TRENCH ORDERLY - Vampire.mp3",
+      "archiveId": "trench-orderly-20260927",
+      "collection": "TRENCH ORDERLY",
+      "status": "licensed-preview",
+      "listeningApproval": "not-reviewed",
+      "gameCatalogueAdmission": false,
+      "contentId": "unknown",
+      "recordingModeEligible": false,
+      "default": false,
+      "audio": {
+        "path": "objects/9d7e478a3682783da745f96b6c44864c2639a468bce7a24e8f5a8e7c6bf70e77.mp3",
+        "bytes": 2771102,
+        "sha256": "9d7e478a3682783da745f96b6c44864c2639a468bce7a24e8f5a8e7c6bf70e77"
+      },
+      "aliases": [],
+      "collections": [
+        "TRENCH ORDERLY",
+        "ФПВ"
+      ]
+    },
+    {
+      "id": "trench-orderly.soundtrack.2",
+      "title": "Літунам",
+      "artist": "TRENCH ORDERLY",
+      "durationSeconds": 158.56907,
+      "tags": [
+        "ФПВ",
+        "UA",
+        "audition",
+        "listening pending"
+      ],
+      "source": "https://www.youtube.com/@TRENCH_ORDERLY",
+      "license": "Unknown — uploader-confirmed rights",
+      "licenseURL": null,
+      "credit": "Літунам by TRENCH ORDERLY. Rights confirmed by uploader for public redistribution and web-game playback. Source: https://www.youtube.com/@TRENCH_ORDERLY",
+      "rights": {
+        "licenseId": "UNKNOWN",
+        "licenseVersion": null,
+        "licenseURL": null,
+        "rightsEvidenceURL": "https://www.youtube.com/@TRENCH_ORDERLY",
+        "attribution": "Літунам by TRENCH ORDERLY. Rights confirmed by uploader for public redistribution and web-game playback. Source: https://www.youtube.com/@TRENCH_ORDERLY",
+        "derivativeChangeNotice": "Exact submitted MP3 bytes retained; no archive changes declared.",
+        "permissionBasis": "uploader-confirmed-public-redistribution-and-web-playback",
+        "shareAlike": {
+          "required": null,
+          "deliveryLicenseId": null,
+          "deliveryLicenseVersion": null,
+          "deliveryLicenseURL": null
+        }
+      },
+      "fileName": "TRENCH ORDERLY - Літунам.mp3",
+      "archiveId": "trench-orderly-20260927",
+      "collection": "TRENCH ORDERLY",
+      "status": "licensed-preview",
+      "listeningApproval": "not-reviewed",
+      "gameCatalogueAdmission": false,
+      "contentId": "unknown",
+      "recordingModeEligible": false,
+      "default": false,
+      "audio": {
+        "path": "objects/1d2614956debbbd54ce30bca449315f7771e84ac487d525333e23630ed54d9e3.mp3",
+        "bytes": 2817204,
+        "sha256": "1d2614956debbbd54ce30bca449315f7771e84ac487d525333e23630ed54d9e3"
+      },
+      "aliases": [],
+      "collections": [
+        "TRENCH ORDERLY",
+        "ФПВ"
+      ]
+    },
+    {
+      "id": "trench-orderly.soundtrack.3",
+      "title": "Пройобщик мавіків",
+      "artist": "TRENCH ORDERLY",
+      "durationSeconds": 203.662222,
+      "tags": [
+        "ФПВ",
+        "UA",
+        "audition",
+        "listening pending"
+      ],
+      "source": "https://www.youtube.com/@TRENCH_ORDERLY",
+      "license": "Unknown — uploader-confirmed rights",
+      "licenseURL": null,
+      "credit": "Пройобщик мавіків by TRENCH ORDERLY. Rights confirmed by uploader for public redistribution and web-game playback. Source: https://www.youtube.com/@TRENCH_ORDERLY",
+      "rights": {
+        "licenseId": "UNKNOWN",
+        "licenseVersion": null,
+        "licenseURL": null,
+        "rightsEvidenceURL": "https://www.youtube.com/@TRENCH_ORDERLY",
+        "attribution": "Пройобщик мавіків by TRENCH ORDERLY. Rights confirmed by uploader for public redistribution and web-game playback. Source: https://www.youtube.com/@TRENCH_ORDERLY",
+        "derivativeChangeNotice": "Exact submitted MP3 bytes retained; no archive changes declared.",
+        "permissionBasis": "uploader-confirmed-public-redistribution-and-web-playback",
+        "shareAlike": {
+          "required": null,
+          "deliveryLicenseId": null,
+          "deliveryLicenseVersion": null,
+          "deliveryLicenseURL": null
+        }
+      },
+      "fileName": "TRENCH ORDERLY - Пройобщик мавіків.mp3",
+      "archiveId": "trench-orderly-20260927",
+      "collection": "TRENCH ORDERLY",
+      "status": "licensed-preview",
+      "listeningApproval": "not-reviewed",
+      "gameCatalogueAdmission": false,
+      "contentId": "unknown",
+      "recordingModeEligible": false,
+      "default": false,
+      "audio": {
+        "path": "objects/9eef10e0b20b4ef35341fd9f906a615a9f94c327ec7e57d25c939b13b9ec98f9.mp3",
+        "bytes": 3314294,
+        "sha256": "9eef10e0b20b4ef35341fd9f906a615a9f94c327ec7e57d25c939b13b9ec98f9"
+      },
+      "aliases": [],
+      "collections": [
+        "TRENCH ORDERLY",
+        "ФПВ"
+      ]
+    },
+    {
+      "id": "trench-orderly.soundtrack.4",
+      "title": "РЕБ",
+      "artist": "TRENCH ORDERLY",
+      "durationSeconds": 194.4439,
+      "tags": [
+        "ФПВ",
+        "UA",
+        "audition",
+        "listening pending"
+      ],
+      "source": "https://www.youtube.com/@TRENCH_ORDERLY",
+      "license": "Unknown — uploader-confirmed rights",
+      "licenseURL": null,
+      "credit": "РЕБ by TRENCH ORDERLY. Rights confirmed by uploader for public redistribution and web-game playback. Source: https://www.youtube.com/@TRENCH_ORDERLY",
+      "rights": {
+        "licenseId": "UNKNOWN",
+        "licenseVersion": null,
+        "licenseURL": null,
+        "rightsEvidenceURL": "https://www.youtube.com/@TRENCH_ORDERLY",
+        "attribution": "РЕБ by TRENCH ORDERLY. Rights confirmed by uploader for public redistribution and web-game playback. Source: https://www.youtube.com/@TRENCH_ORDERLY",
+        "derivativeChangeNotice": "Exact submitted MP3 bytes retained; no archive changes declared.",
+        "permissionBasis": "uploader-confirmed-public-redistribution-and-web-playback",
+        "shareAlike": {
+          "required": null,
+          "deliveryLicenseId": null,
+          "deliveryLicenseVersion": null,
+          "deliveryLicenseURL": null
+        }
+      },
+      "fileName": "TRENCH ORDERLY - РЕБ.mp3",
+      "archiveId": "trench-orderly-20260927",
+      "collection": "TRENCH ORDERLY",
+      "status": "licensed-preview",
+      "listeningApproval": "not-reviewed",
+      "gameCatalogueAdmission": false,
+      "contentId": "unknown",
+      "recordingModeEligible": false,
+      "default": false,
+      "audio": {
+        "path": "objects/515f5806573a0737f3c609b48895a09137289e1510e673b66ecca72c574f7aa2.mp3",
+        "bytes": 2947481,
+        "sha256": "515f5806573a0737f3c609b48895a09137289e1510e673b66ecca72c574f7aa2"
+      },
+      "aliases": [],
+      "collections": [
+        "TRENCH ORDERLY",
+        "ФПВ"
+      ]
+    },
+    {
+      "id": "trench-orderly.soundtrack.5",
+      "title": "Шахеди",
+      "artist": "TRENCH ORDERLY",
+      "durationSeconds": 170.179048,
+      "tags": [
+        "ФПВ",
+        "UA",
+        "audition",
+        "listening pending"
+      ],
+      "source": "https://www.youtube.com/@TRENCH_ORDERLY",
+      "license": "Unknown — uploader-confirmed rights",
+      "licenseURL": null,
+      "credit": "Шахеди by TRENCH ORDERLY. Rights confirmed by uploader for public redistribution and web-game playback. Source: https://www.youtube.com/@TRENCH_ORDERLY",
+      "rights": {
+        "licenseId": "UNKNOWN",
+        "licenseVersion": null,
+        "licenseURL": null,
+        "rightsEvidenceURL": "https://www.youtube.com/@TRENCH_ORDERLY",
+        "attribution": "Шахеди by TRENCH ORDERLY. Rights confirmed by uploader for public redistribution and web-game playback. Source: https://www.youtube.com/@TRENCH_ORDERLY",
+        "derivativeChangeNotice": "Exact submitted MP3 bytes retained; no archive changes declared.",
+        "permissionBasis": "uploader-confirmed-public-redistribution-and-web-playback",
+        "shareAlike": {
+          "required": null,
+          "deliveryLicenseId": null,
+          "deliveryLicenseVersion": null,
+          "deliveryLicenseURL": null
+        }
+      },
+      "fileName": "TRENCH ORDERLY - Шахеди.mp3",
+      "archiveId": "trench-orderly-20260927",
+      "collection": "TRENCH ORDERLY",
+      "status": "licensed-preview",
+      "listeningApproval": "not-reviewed",
+      "gameCatalogueAdmission": false,
+      "contentId": "unknown",
+      "recordingModeEligible": false,
+      "default": false,
+      "audio": {
+        "path": "objects/f8d1c2797031fdf2f673c798b0bb19b0ff0a0ba72212e9d8f577c5b625db0c6e.mp3",
+        "bytes": 2693052,
+        "sha256": "f8d1c2797031fdf2f673c798b0bb19b0ff0a0ba72212e9d8f577c5b625db0c6e"
+      },
+      "aliases": [],
+      "collections": [
+        "TRENCH ORDERLY",
+        "ФПВ"
+      ]
+    },
+    {
+      "id": "probass-hardi.probass-hardi-drone",
+      "title": "PROBASS ∆ HARDI - DRONE (ВЕЛИКИЙ ЗБІР на 💯 ударних дронів камікадзе!)",
+      "artist": "PROBASS ∆ HARDI",
+      "durationSeconds": 179.11873,
+      "tags": [
+        "ФПВ",
+        "UA",
+        "audition",
+        "listening pending"
+      ],
+      "source": "https://www.youtube.com/@PROBASSHARDI",
+      "license": "Unknown — uploader-confirmed rights",
+      "licenseURL": null,
+      "credit": "PROBASS ∆ HARDI - DRONE (ВЕЛИКИЙ ЗБІР на 💯 ударних дронів камікадзе!) by PROBASS ∆ HARDI. Rights confirmed by uploader for public redistribution and web-game playback. Source: https://www.youtube.com/@PROBASSHARDI",
+      "rights": {
+        "licenseId": "UNKNOWN",
+        "licenseVersion": null,
+        "licenseURL": null,
+        "rightsEvidenceURL": "https://www.youtube.com/@PROBASSHARDI",
+        "attribution": "PROBASS ∆ HARDI - DRONE (ВЕЛИКИЙ ЗБІР на 💯 ударних дронів камікадзе!) by PROBASS ∆ HARDI. Rights confirmed by uploader for public redistribution and web-game playback. Source: https://www.youtube.com/@PROBASSHARDI",
+        "derivativeChangeNotice": "Exact submitted MP3 bytes retained; no archive changes declared.",
+        "shareAlike": {
+          "required": null,
+          "deliveryLicenseId": null,
+          "deliveryLicenseVersion": null,
+          "deliveryLicenseURL": null
+        },
+        "permissionBasis": "uploader-confirmed-public-redistribution-and-web-playback"
+      },
+      "fileName": "PROBASS ∆ HARDI - DRONE (ВЕЛИКИЙ ЗБІР на 100_ ударних дронів камікадзе!).mp3",
+      "archiveId": "probass-hardi-20260927",
+      "collection": "PROBASS ∆ HARDI",
+      "collections": [
+        "PROBASS ∆ HARDI",
+        "ФПВ"
+      ],
+      "status": "licensed-preview",
+      "listeningApproval": "not-reviewed",
+      "gameCatalogueAdmission": false,
+      "contentId": "unknown",
+      "recordingModeEligible": false,
+      "default": false,
+      "audio": {
+        "path": "objects/de54b41d16ff268fd61663a7d885efee321b25fcf5157bf9dbc6332d1f84a69c.mp3",
+        "bytes": 3219003,
+        "sha256": "de54b41d16ff268fd61663a7d885efee321b25fcf5157bf9dbc6332d1f84a69c"
+      },
+      "aliases": []
+    },
+    {
+      "id": "probass-hardi.singing-drones",
+      "title": "Singing Drones",
+      "artist": "PROBASS ∆ HARDI",
+      "durationSeconds": 96.060952,
+      "tags": [
+        "ФПВ",
+        "UA",
+        "audition",
+        "listening pending"
+      ],
+      "source": "https://www.youtube.com/@PROBASSHARDI",
+      "license": "Unknown — uploader-confirmed rights",
+      "licenseURL": null,
+      "credit": "Singing Drones by PROBASS ∆ HARDI. Rights confirmed by uploader for public redistribution and web-game playback. Source: https://www.youtube.com/@PROBASSHARDI",
+      "rights": {
+        "licenseId": "UNKNOWN",
+        "licenseVersion": null,
+        "licenseURL": null,
+        "rightsEvidenceURL": "https://www.youtube.com/@PROBASSHARDI",
+        "attribution": "Singing Drones by PROBASS ∆ HARDI. Rights confirmed by uploader for public redistribution and web-game playback. Source: https://www.youtube.com/@PROBASSHARDI",
+        "derivativeChangeNotice": "Exact submitted MP3 bytes retained; no archive changes declared.",
+        "shareAlike": {
+          "required": null,
+          "deliveryLicenseId": null,
+          "deliveryLicenseVersion": null,
+          "deliveryLicenseURL": null
+        },
+        "permissionBasis": "uploader-confirmed-public-redistribution-and-web-playback"
+      },
+      "fileName": "PROBASS ∆ HARDI - Singing Drones · Ubrave · Oleksandr Seleznov.mp3",
+      "archiveId": "probass-hardi-20260927",
+      "collection": "PROBASS ∆ HARDI",
+      "collections": [
+        "PROBASS ∆ HARDI",
+        "ФПВ"
+      ],
+      "status": "licensed-preview",
+      "listeningApproval": "not-reviewed",
+      "gameCatalogueAdmission": false,
+      "contentId": "unknown",
+      "recordingModeEligible": false,
+      "default": false,
+      "audio": {
+        "path": "objects/22b22397afb79f27beb3af592a7e9c078b65c02df1b57865aeefb2a754d6e87a.mp3",
+        "bytes": 1827181,
+        "sha256": "22b22397afb79f27beb3af592a7e9c078b65c02df1b57865aeefb2a754d6e87a"
+      },
+      "aliases": []
+    },
+    {
+      "id": "ribson.ribson-fpv",
+      "title": "Ribson -  FPV у справі",
+      "artist": "Ribson",
+      "durationSeconds": 240.55873,
+      "tags": [
+        "ФПВ",
+        "UA",
+        "audition",
+        "listening pending"
+      ],
+      "source": "https://www.youtube.com/@ribson.official",
+      "license": "Unknown — uploader-confirmed rights",
+      "licenseURL": null,
+      "credit": "Ribson -  FPV у справі by Ribson. Rights confirmed by uploader for public redistribution and web-game playback. Source: https://www.youtube.com/@ribson.official",
+      "rights": {
+        "licenseId": "UNKNOWN",
+        "licenseVersion": null,
+        "licenseURL": null,
+        "rightsEvidenceURL": "https://www.youtube.com/@ribson.official",
+        "attribution": "Ribson -  FPV у справі by Ribson. Rights confirmed by uploader for public redistribution and web-game playback. Source: https://www.youtube.com/@ribson.official",
+        "derivativeChangeNotice": "Exact submitted MP3 bytes retained; no archive changes declared.",
+        "shareAlike": {
+          "required": null,
+          "deliveryLicenseId": null,
+          "deliveryLicenseVersion": null,
+          "deliveryLicenseURL": null
+        },
+        "permissionBasis": "uploader-confirmed-public-redistribution-and-web-playback"
+      },
+      "fileName": "Ribson - FPV у справі.mp3",
+      "archiveId": "ribson-20260927",
+      "collection": "Ribson",
+      "collections": [
+        "Ribson",
+        "ФПВ"
+      ],
+      "status": "licensed-preview",
+      "listeningApproval": "not-reviewed",
+      "gameCatalogueAdmission": false,
+      "contentId": "unknown",
+      "recordingModeEligible": false,
+      "default": false,
+      "audio": {
+        "path": "objects/bd3c7a30c774c1265cc5a45b89f6c874291d01769bc5a010a039833928c54ae6.mp3",
+        "bytes": 3854407,
+        "sha256": "bd3c7a30c774c1265cc5a45b89f6c874291d01769bc5a010a039833928c54ae6"
+      },
+      "aliases": []
+    },
+    {
+      "id": "ribson.ribson",
+      "title": "Ribson - Дрони",
+      "artist": "Ribson",
+      "durationSeconds": 240.53551,
+      "tags": [
+        "ФПВ",
+        "UA",
+        "audition",
+        "listening pending"
+      ],
+      "source": "https://www.youtube.com/@ribson.official",
+      "license": "Unknown — uploader-confirmed rights",
+      "licenseURL": null,
+      "credit": "Ribson - Дрони by Ribson. Rights confirmed by uploader for public redistribution and web-game playback. Source: https://www.youtube.com/@ribson.official",
+      "rights": {
+        "licenseId": "UNKNOWN",
+        "licenseVersion": null,
+        "licenseURL": null,
+        "rightsEvidenceURL": "https://www.youtube.com/@ribson.official",
+        "attribution": "Ribson - Дрони by Ribson. Rights confirmed by uploader for public redistribution and web-game playback. Source: https://www.youtube.com/@ribson.official",
+        "derivativeChangeNotice": "Exact submitted MP3 bytes retained; no archive changes declared.",
+        "shareAlike": {
+          "required": null,
+          "deliveryLicenseId": null,
+          "deliveryLicenseVersion": null,
+          "deliveryLicenseURL": null
+        },
+        "permissionBasis": "uploader-confirmed-public-redistribution-and-web-playback"
+      },
+      "fileName": "Ribson - Дрони.mp3",
+      "archiveId": "ribson-20260927",
+      "collection": "Ribson",
+      "collections": [
+        "Ribson",
+        "ФПВ"
+      ],
+      "status": "licensed-preview",
+      "listeningApproval": "not-reviewed",
+      "gameCatalogueAdmission": false,
+      "contentId": "unknown",
+      "recordingModeEligible": false,
+      "default": false,
+      "audio": {
+        "path": "objects/17185c9266ed947e97ce954986eacdf2da36c836528945af2e41db0e7a5982f2.mp3",
+        "bytes": 3742554,
+        "sha256": "17185c9266ed947e97ce954986eacdf2da36c836528945af2e41db0e7a5982f2"
+      },
+      "aliases": []
+    },
+    {
+      "id": "tarko.tarko-fpv-official-video",
+      "title": "Tarko - FPV (official video)",
+      "artist": "Tarko",
+      "durationSeconds": 196.649796,
+      "tags": [
+        "ФПВ",
+        "UA",
+        "audition",
+        "listening pending"
+      ],
+      "source": "https://www.youtube.com/@tarko_music",
+      "license": "Unknown — uploader-confirmed rights",
+      "licenseURL": null,
+      "credit": "Tarko - FPV (official video) by Tarko. Rights confirmed by uploader for public redistribution and web-game playback. Source: https://www.youtube.com/@tarko_music",
+      "rights": {
+        "licenseId": "UNKNOWN",
+        "licenseVersion": null,
+        "licenseURL": null,
+        "rightsEvidenceURL": "https://www.youtube.com/@tarko_music",
+        "attribution": "Tarko - FPV (official video) by Tarko. Rights confirmed by uploader for public redistribution and web-game playback. Source: https://www.youtube.com/@tarko_music",
+        "derivativeChangeNotice": "Exact submitted MP3 bytes retained; no archive changes declared.",
+        "shareAlike": {
+          "required": null,
+          "deliveryLicenseId": null,
+          "deliveryLicenseVersion": null,
+          "deliveryLicenseURL": null
+        },
+        "permissionBasis": "uploader-confirmed-public-redistribution-and-web-playback"
+      },
+      "fileName": "Tarko - FPV official video.mp3",
+      "archiveId": "tarko-20260927",
+      "collection": "Tarko",
+      "collections": [
+        "Tarko",
+        "ФПВ"
+      ],
+      "status": "licensed-preview",
+      "listeningApproval": "not-reviewed",
+      "gameCatalogueAdmission": false,
+      "contentId": "unknown",
+      "recordingModeEligible": false,
+      "default": false,
+      "audio": {
+        "path": "objects/500f1c35200fa3f5e89d5125770a7a64f55078e6c542530d5cda27386bf90b1f.mp3",
+        "bytes": 3230410,
+        "sha256": "500f1c35200fa3f5e89d5125770a7a64f55078e6c542530d5cda27386bf90b1f"
+      },
+      "aliases": []
+    },
+    {
+      "id": "tarko.fpv",
+      "title": "FPV",
+      "artist": "Tarko",
+      "durationSeconds": 183.576961,
+      "tags": [
+        "ФПВ",
+        "UA",
+        "audition",
+        "listening pending"
+      ],
+      "source": "https://www.youtube.com/@tarko_music",
+      "license": "Unknown — uploader-confirmed rights",
+      "licenseURL": null,
+      "credit": "FPV by Tarko. Rights confirmed by uploader for public redistribution and web-game playback. Source: https://www.youtube.com/@tarko_music",
+      "rights": {
+        "licenseId": "UNKNOWN",
+        "licenseVersion": null,
+        "licenseURL": null,
+        "rightsEvidenceURL": "https://www.youtube.com/@tarko_music",
+        "attribution": "FPV by Tarko. Rights confirmed by uploader for public redistribution and web-game playback. Source: https://www.youtube.com/@tarko_music",
+        "derivativeChangeNotice": "Exact submitted MP3 bytes retained; no archive changes declared.",
+        "shareAlike": {
+          "required": null,
+          "deliveryLicenseId": null,
+          "deliveryLicenseVersion": null,
+          "deliveryLicenseURL": null
+        },
+        "permissionBasis": "uploader-confirmed-public-redistribution-and-web-playback"
+      },
+      "fileName": "Tarko - FPV.mp3",
+      "archiveId": "tarko-20260927",
+      "collection": "Tarko",
+      "collections": [
+        "Tarko",
+        "ФПВ"
+      ],
+      "status": "licensed-preview",
+      "listeningApproval": "not-reviewed",
+      "gameCatalogueAdmission": false,
+      "contentId": "unknown",
+      "recordingModeEligible": false,
+      "default": false,
+      "audio": {
+        "path": "objects/4f70b5eccd5d055badc2a520e4e22c1d7019446486924cdd6347545a1f458d65.mp3",
+        "bytes": 3147678,
+        "sha256": "4f70b5eccd5d055badc2a520e4e22c1d7019446486924cdd6347545a1f458d65"
+      },
+      "aliases": []
+    },
+    {
+      "id": "the-bloger-ua.the-bloger-ua-official-video",
+      "title": "The Bloger UA - Останнє Фото (Official Video) | Саркастичний рок",
+      "artist": "The Bloger UA",
+      "durationSeconds": 139.737687,
+      "tags": [
+        "ФПВ",
+        "UA",
+        "audition",
+        "listening pending"
+      ],
+      "source": "https://www.youtube.com/@TheBlogerUA",
+      "license": "Unknown — uploader-confirmed rights",
+      "licenseURL": null,
+      "credit": "The Bloger UA - Останнє Фото (Official Video) | Саркастичний рок by The Bloger UA. Rights confirmed by uploader for public redistribution and web-game playback. Source: https://www.youtube.com/@TheBlogerUA",
+      "rights": {
+        "licenseId": "UNKNOWN",
+        "licenseVersion": null,
+        "licenseURL": null,
+        "rightsEvidenceURL": "https://www.youtube.com/@TheBlogerUA",
+        "attribution": "The Bloger UA - Останнє Фото (Official Video) | Саркастичний рок by The Bloger UA. Rights confirmed by uploader for public redistribution and web-game playback. Source: https://www.youtube.com/@TheBlogerUA",
+        "derivativeChangeNotice": "Exact submitted MP3 bytes retained; no archive changes declared.",
+        "shareAlike": {
+          "required": null,
+          "deliveryLicenseId": null,
+          "deliveryLicenseVersion": null,
+          "deliveryLicenseURL": null
+        },
+        "permissionBasis": "uploader-confirmed-public-redistribution-and-web-playback"
+      },
+      "fileName": "The Bloger UA - Останнє Фото (Official Video) _ Саркастичний рок.mp3",
+      "archiveId": "the-bloger-ua-20260927",
+      "collection": "The Bloger UA",
+      "collections": [
+        "The Bloger UA",
+        "ФПВ"
+      ],
+      "status": "licensed-preview",
+      "listeningApproval": "not-reviewed",
+      "gameCatalogueAdmission": false,
+      "contentId": "unknown",
+      "recordingModeEligible": false,
+      "default": false,
+      "audio": {
+        "path": "objects/bef1cece660fe28d3bcfcb0e11f7e1adfd47bb7f56948b836560056123a00094.mp3",
+        "bytes": 2250538,
+        "sha256": "bef1cece660fe28d3bcfcb0e11f7e1adfd47bb7f56948b836560056123a00094"
+      },
+      "aliases": []
+    },
+    {
+      "id": "the-bloger-ua.the-bloger-ua-fpv",
+      "title": "The Bloger UA - Пісенька про москаля | СКІНЧИЛАСЯ ГАСТРОЛЬ (FPV Кліп)",
+      "artist": "The Bloger UA",
+      "durationSeconds": 168.83229,
+      "tags": [
+        "ФПВ",
+        "UA",
+        "audition",
+        "listening pending"
+      ],
+      "source": "https://www.youtube.com/@TheBlogerUA",
+      "license": "Unknown — uploader-confirmed rights",
+      "licenseURL": null,
+      "credit": "The Bloger UA - Пісенька про москаля | СКІНЧИЛАСЯ ГАСТРОЛЬ (FPV Кліп) by The Bloger UA. Rights confirmed by uploader for public redistribution and web-game playback. Source: https://www.youtube.com/@TheBlogerUA",
+      "rights": {
+        "licenseId": "UNKNOWN",
+        "licenseVersion": null,
+        "licenseURL": null,
+        "rightsEvidenceURL": "https://www.youtube.com/@TheBlogerUA",
+        "attribution": "The Bloger UA - Пісенька про москаля | СКІНЧИЛАСЯ ГАСТРОЛЬ (FPV Кліп) by The Bloger UA. Rights confirmed by uploader for public redistribution and web-game playback. Source: https://www.youtube.com/@TheBlogerUA",
+        "derivativeChangeNotice": "Exact submitted MP3 bytes retained; no archive changes declared.",
+        "shareAlike": {
+          "required": null,
+          "deliveryLicenseId": null,
+          "deliveryLicenseVersion": null,
+          "deliveryLicenseURL": null
+        },
+        "permissionBasis": "uploader-confirmed-public-redistribution-and-web-playback"
+      },
+      "fileName": "The Bloger UA - Пісенька про москаля _ СКІНЧИЛАСЯ ГАСТРОЛЬ (FPV Кліп).mp3",
+      "archiveId": "the-bloger-ua-20260927",
+      "collection": "The Bloger UA",
+      "collections": [
+        "The Bloger UA",
+        "ФПВ"
+      ],
+      "status": "licensed-preview",
+      "listeningApproval": "not-reviewed",
+      "gameCatalogueAdmission": false,
+      "contentId": "unknown",
+      "recordingModeEligible": false,
+      "default": false,
+      "audio": {
+        "path": "objects/a108d139434b5cc6254cc25718ddf5059733e4d05d334ccabf3bedce87c68e71.mp3",
+        "bytes": 2586467,
+        "sha256": "a108d139434b5cc6254cc25718ddf5059733e4d05d334ccabf3bedce87c68e71"
+      },
+      "aliases": []
+    },
+    {
+      "id": "the-bloger-ua.the-bloger-ua-official-music-video",
+      "title": "The Bloger UA - Птахи СБС (Official Music Video) Присвята Силам безпілотних систем України",
+      "artist": "The Bloger UA",
+      "durationSeconds": 273.902585,
+      "tags": [
+        "ФПВ",
+        "UA",
+        "audition",
+        "listening pending"
+      ],
+      "source": "https://www.youtube.com/@TheBlogerUA",
+      "license": "Unknown — uploader-confirmed rights",
+      "licenseURL": null,
+      "credit": "The Bloger UA - Птахи СБС (Official Music Video) Присвята Силам безпілотних систем України by The Bloger UA. Rights confirmed by uploader for public redistribution and web-game playback. Source: https://www.youtube.com/@TheBlogerUA",
+      "rights": {
+        "licenseId": "UNKNOWN",
+        "licenseVersion": null,
+        "licenseURL": null,
+        "rightsEvidenceURL": "https://www.youtube.com/@TheBlogerUA",
+        "attribution": "The Bloger UA - Птахи СБС (Official Music Video) Присвята Силам безпілотних систем України by The Bloger UA. Rights confirmed by uploader for public redistribution and web-game playback. Source: https://www.youtube.com/@TheBlogerUA",
+        "derivativeChangeNotice": "Exact submitted MP3 bytes retained; no archive changes declared.",
+        "shareAlike": {
+          "required": null,
+          "deliveryLicenseId": null,
+          "deliveryLicenseVersion": null,
+          "deliveryLicenseURL": null
+        },
+        "permissionBasis": "uploader-confirmed-public-redistribution-and-web-playback"
+      },
+      "fileName": "The Bloger UA - Птахи СБС (Official Music Video) Присвята Силам безпілотних систем України.mp3",
+      "archiveId": "the-bloger-ua-20260927",
+      "collection": "The Bloger UA",
+      "collections": [
+        "The Bloger UA",
+        "ФПВ"
+      ],
+      "status": "licensed-preview",
+      "listeningApproval": "not-reviewed",
+      "gameCatalogueAdmission": false,
+      "contentId": "unknown",
+      "recordingModeEligible": false,
+      "default": false,
+      "audio": {
+        "path": "objects/4a0d62a1a78201a923f112dc0e695ac5537ae1444a96b4665fab62976c853dd7.mp3",
+        "bytes": 4092272,
+        "sha256": "4a0d62a1a78201a923f112dc0e695ac5537ae1444a96b4665fab62976c853dd7"
+      },
+      "aliases": []
+    },
+    {
+      "id": "the-bloger-ua.the-bloger-ua-official-music-video.2",
+      "title": "The Bloger UA – Боги Небесних Трас (Official Music Video) | Гімн воїнів неба",
+      "artist": "The Bloger UA",
+      "durationSeconds": 191.332426,
+      "tags": [
+        "ФПВ",
+        "UA",
+        "audition",
+        "listening pending"
+      ],
+      "source": "https://www.youtube.com/@TheBlogerUA",
+      "license": "Unknown — uploader-confirmed rights",
+      "licenseURL": null,
+      "credit": "The Bloger UA – Боги Небесних Трас (Official Music Video) | Гімн воїнів неба by The Bloger UA. Rights confirmed by uploader for public redistribution and web-game playback. Source: https://www.youtube.com/@TheBlogerUA",
+      "rights": {
+        "licenseId": "UNKNOWN",
+        "licenseVersion": null,
+        "licenseURL": null,
+        "rightsEvidenceURL": "https://www.youtube.com/@TheBlogerUA",
+        "attribution": "The Bloger UA – Боги Небесних Трас (Official Music Video) | Гімн воїнів неба by The Bloger UA. Rights confirmed by uploader for public redistribution and web-game playback. Source: https://www.youtube.com/@TheBlogerUA",
+        "derivativeChangeNotice": "Exact submitted MP3 bytes retained; no archive changes declared.",
+        "shareAlike": {
+          "required": null,
+          "deliveryLicenseId": null,
+          "deliveryLicenseVersion": null,
+          "deliveryLicenseURL": null
+        },
+        "permissionBasis": "uploader-confirmed-public-redistribution-and-web-playback"
+      },
+      "fileName": "The Bloger UA – Боги Небесних Трас (Official Music Video) _ Гімн воїнів неба.mp3",
+      "archiveId": "the-bloger-ua-20260927",
+      "collection": "The Bloger UA",
+      "collections": [
+        "The Bloger UA",
+        "ФПВ"
+      ],
+      "status": "licensed-preview",
+      "listeningApproval": "not-reviewed",
+      "gameCatalogueAdmission": false,
+      "contentId": "unknown",
+      "recordingModeEligible": false,
+      "default": false,
+      "audio": {
+        "path": "objects/f12db6a6b9b12cfe55f47fd8f7643a37a2cab275918a0eb5870a4806d43934dd.mp3",
+        "bytes": 3008964,
+        "sha256": "f12db6a6b9b12cfe55f47fd8f7643a37a2cab275918a0eb5870a4806d43934dd"
+      },
+      "aliases": []
+    },
+    {
+      "id": "the-bloger-ua.the-bloger-ua-2026-fpv",
+      "title": "The Bloger UA – ЙОБЛИК (Прем'єра 2026) | Гімн операторів FPV",
+      "artist": "The Bloger UA",
+      "durationSeconds": 234.428662,
+      "tags": [
+        "ФПВ",
+        "UA",
+        "audition",
+        "listening pending"
+      ],
+      "source": "https://www.youtube.com/@TheBlogerUA",
+      "license": "Unknown — uploader-confirmed rights",
+      "licenseURL": null,
+      "credit": "The Bloger UA – ЙОБЛИК (Прем'єра 2026) | Гімн операторів FPV by The Bloger UA. Rights confirmed by uploader for public redistribution and web-game playback. Source: https://www.youtube.com/@TheBlogerUA",
+      "rights": {
+        "licenseId": "UNKNOWN",
+        "licenseVersion": null,
+        "licenseURL": null,
+        "rightsEvidenceURL": "https://www.youtube.com/@TheBlogerUA",
+        "attribution": "The Bloger UA – ЙОБЛИК (Прем'єра 2026) | Гімн операторів FPV by The Bloger UA. Rights confirmed by uploader for public redistribution and web-game playback. Source: https://www.youtube.com/@TheBlogerUA",
+        "derivativeChangeNotice": "Exact submitted MP3 bytes retained; no archive changes declared.",
+        "shareAlike": {
+          "required": null,
+          "deliveryLicenseId": null,
+          "deliveryLicenseVersion": null,
+          "deliveryLicenseURL": null
+        },
+        "permissionBasis": "uploader-confirmed-public-redistribution-and-web-playback"
+      },
+      "fileName": "The Bloger UA – ЙОБЛИК (Прем_єра 2026) _ Гімн операторів FPV.mp3",
+      "archiveId": "the-bloger-ua-20260927",
+      "collection": "The Bloger UA",
+      "collections": [
+        "The Bloger UA",
+        "ФПВ"
+      ],
+      "status": "licensed-preview",
+      "listeningApproval": "not-reviewed",
+      "gameCatalogueAdmission": false,
+      "contentId": "unknown",
+      "recordingModeEligible": false,
+      "default": false,
+      "audio": {
+        "path": "objects/561e17ea45775729d4c164f62c9c9188fa75e18c14749c87e354d76028d59d0c.mp3",
+        "bytes": 3260192,
+        "sha256": "561e17ea45775729d4c164f62c9c9188fa75e18c14749c87e354d76028d59d0c"
+      },
+      "aliases": []
+    },
+    {
+      "id": "the-bloger-ua.the-bloger-ua",
+      "title": "The Bloger UA — Птахи назавжди. Присвята полеглим Героям",
+      "artist": "The Bloger UA",
+      "durationSeconds": 292.617868,
+      "tags": [
+        "ФПВ",
+        "UA",
+        "audition",
+        "listening pending"
+      ],
+      "source": "https://www.youtube.com/@TheBlogerUA",
+      "license": "Unknown — uploader-confirmed rights",
+      "licenseURL": null,
+      "credit": "The Bloger UA — Птахи назавжди. Присвята полеглим Героям by The Bloger UA. Rights confirmed by uploader for public redistribution and web-game playback. Source: https://www.youtube.com/@TheBlogerUA",
+      "rights": {
+        "licenseId": "UNKNOWN",
+        "licenseVersion": null,
+        "licenseURL": null,
+        "rightsEvidenceURL": "https://www.youtube.com/@TheBlogerUA",
+        "attribution": "The Bloger UA — Птахи назавжди. Присвята полеглим Героям by The Bloger UA. Rights confirmed by uploader for public redistribution and web-game playback. Source: https://www.youtube.com/@TheBlogerUA",
+        "derivativeChangeNotice": "Exact submitted MP3 bytes retained; no archive changes declared.",
+        "shareAlike": {
+          "required": null,
+          "deliveryLicenseId": null,
+          "deliveryLicenseVersion": null,
+          "deliveryLicenseURL": null
+        },
+        "permissionBasis": "uploader-confirmed-public-redistribution-and-web-playback"
+      },
+      "fileName": "The Bloger UA — Птахи назавжди. Присвята полеглим Героям.mp3",
+      "archiveId": "the-bloger-ua-20260927",
+      "collection": "The Bloger UA",
+      "collections": [
+        "The Bloger UA",
+        "ФПВ"
+      ],
+      "status": "licensed-preview",
+      "listeningApproval": "not-reviewed",
+      "gameCatalogueAdmission": false,
+      "contentId": "unknown",
+      "recordingModeEligible": false,
+      "default": false,
+      "audio": {
+        "path": "objects/28468f6e00c8cff1e8932cc3942a5f66b2d6dde33642b9016d62bc3dd3e8e9b8.mp3",
+        "bytes": 4630848,
+        "sha256": "28468f6e00c8cff1e8932cc3942a5f66b2d6dde33642b9016d62bc3dd3e8e9b8"
+      },
+      "aliases": []
+    },
+    {
+      "id": "the-bloger-ua.the-bloger-ua-official-music-video.3",
+      "title": "The Bloger UA — СТАЛЕВИЙ ПТАХ (Official Music Video) | Очі та Жало",
+      "artist": "The Bloger UA",
+      "durationSeconds": 253.840544,
+      "tags": [
+        "ФПВ",
+        "UA",
+        "audition",
+        "listening pending"
+      ],
+      "source": "https://www.youtube.com/@TheBlogerUA",
+      "license": "Unknown — uploader-confirmed rights",
+      "licenseURL": null,
+      "credit": "The Bloger UA — СТАЛЕВИЙ ПТАХ (Official Music Video) | Очі та Жало by The Bloger UA. Rights confirmed by uploader for public redistribution and web-game playback. Source: https://www.youtube.com/@TheBlogerUA",
+      "rights": {
+        "licenseId": "UNKNOWN",
+        "licenseVersion": null,
+        "licenseURL": null,
+        "rightsEvidenceURL": "https://www.youtube.com/@TheBlogerUA",
+        "attribution": "The Bloger UA — СТАЛЕВИЙ ПТАХ (Official Music Video) | Очі та Жало by The Bloger UA. Rights confirmed by uploader for public redistribution and web-game playback. Source: https://www.youtube.com/@TheBlogerUA",
+        "derivativeChangeNotice": "Exact submitted MP3 bytes retained; no archive changes declared.",
+        "shareAlike": {
+          "required": null,
+          "deliveryLicenseId": null,
+          "deliveryLicenseVersion": null,
+          "deliveryLicenseURL": null
+        },
+        "permissionBasis": "uploader-confirmed-public-redistribution-and-web-playback"
+      },
+      "fileName": "The Bloger UA — СТАЛЕВИЙ ПТАХ (Official Music Video) _ Очі та Жало.mp3",
+      "archiveId": "the-bloger-ua-20260927",
+      "collection": "The Bloger UA",
+      "collections": [
+        "The Bloger UA",
+        "ФПВ"
+      ],
+      "status": "licensed-preview",
+      "listeningApproval": "not-reviewed",
+      "gameCatalogueAdmission": false,
+      "contentId": "unknown",
+      "recordingModeEligible": false,
+      "default": false,
+      "audio": {
+        "path": "objects/49f1008bd27695434a717695b4bcc30bbab3e85f306bdb2b79462135db1760cc.mp3",
+        "bytes": 4060647,
+        "sha256": "49f1008bd27695434a717695b4bcc30bbab3e85f306bdb2b79462135db1760cc"
+      },
+      "aliases": []
+    },
+    {
+      "id": "the-bloger-ua.the-bloger-ua-official-music-video.4",
+      "title": "The Bloger UA — ХРОБАЧНЯ (Official Music Video) | Дрони, ЗСУ і Зимове Сафарі 🔞",
+      "artist": "The Bloger UA",
+      "durationSeconds": 237.168617,
+      "tags": [
+        "ФПВ",
+        "UA",
+        "audition",
+        "listening pending"
+      ],
+      "source": "https://www.youtube.com/@TheBlogerUA",
+      "license": "Unknown — uploader-confirmed rights",
+      "licenseURL": null,
+      "credit": "The Bloger UA — ХРОБАЧНЯ (Official Music Video) | Дрони, ЗСУ і Зимове Сафарі 🔞 by The Bloger UA. Rights confirmed by uploader for public redistribution and web-game playback. Source: https://www.youtube.com/@TheBlogerUA",
+      "rights": {
+        "licenseId": "UNKNOWN",
+        "licenseVersion": null,
+        "licenseURL": null,
+        "rightsEvidenceURL": "https://www.youtube.com/@TheBlogerUA",
+        "attribution": "The Bloger UA — ХРОБАЧНЯ (Official Music Video) | Дрони, ЗСУ і Зимове Сафарі 🔞 by The Bloger UA. Rights confirmed by uploader for public redistribution and web-game playback. Source: https://www.youtube.com/@TheBlogerUA",
+        "derivativeChangeNotice": "Exact submitted MP3 bytes retained; no archive changes declared.",
+        "shareAlike": {
+          "required": null,
+          "deliveryLicenseId": null,
+          "deliveryLicenseVersion": null,
+          "deliveryLicenseURL": null
+        },
+        "permissionBasis": "uploader-confirmed-public-redistribution-and-web-playback"
+      },
+      "fileName": "The Bloger UA — ХРОБАЧНЯ (Official Music Video) _ Дрони, ЗСУ і Зимове Сафарі.mp3",
+      "archiveId": "the-bloger-ua-20260927",
+      "collection": "The Bloger UA",
+      "collections": [
+        "The Bloger UA",
+        "ФПВ"
+      ],
+      "status": "licensed-preview",
+      "listeningApproval": "not-reviewed",
+      "gameCatalogueAdmission": false,
+      "contentId": "unknown",
+      "recordingModeEligible": false,
+      "default": false,
+      "audio": {
+        "path": "objects/328ef348415efca85f5323f380559ed42ab6b1904464f0331b9c6ec1fbac4802.mp3",
+        "bytes": 3601638,
+        "sha256": "328ef348415efca85f5323f380559ed42ab6b1904464f0331b9c6ec1fbac4802"
+      },
+      "aliases": []
+    },
+    {
+      "id": "s.s",
+      "title": "Гайs — Орки-помідорки (двісті тисяч)",
+      "artist": "Гайs",
+      "durationSeconds": 142.733061,
+      "tags": [
+        "ФПВ",
+        "UA",
+        "audition",
+        "listening pending"
+      ],
+      "source": "https://www.youtube.com/@GuysUA",
+      "license": "Unknown — uploader-confirmed rights",
+      "licenseURL": null,
+      "credit": "Гайs — Орки-помідорки (двісті тисяч) by Гайs. Rights confirmed by uploader for public redistribution and web-game playback. Source: https://www.youtube.com/@GuysUA",
+      "rights": {
+        "licenseId": "UNKNOWN",
+        "licenseVersion": null,
+        "licenseURL": null,
+        "rightsEvidenceURL": "https://www.youtube.com/@GuysUA",
+        "attribution": "Гайs — Орки-помідорки (двісті тисяч) by Гайs. Rights confirmed by uploader for public redistribution and web-game playback. Source: https://www.youtube.com/@GuysUA",
+        "derivativeChangeNotice": "Exact submitted MP3 bytes retained; no archive changes declared.",
+        "shareAlike": {
+          "required": null,
+          "deliveryLicenseId": null,
+          "deliveryLicenseVersion": null,
+          "deliveryLicenseURL": null
+        },
+        "permissionBasis": "uploader-confirmed-public-redistribution-and-web-playback"
+      },
+      "fileName": "Гайs — Орки-помідорки (двісті тисяч).mp3",
+      "archiveId": "s-20260927",
+      "collection": "Гайs",
+      "collections": [
+        "Гайs",
+        "ФПВ"
+      ],
+      "status": "licensed-preview",
+      "listeningApproval": "not-reviewed",
+      "gameCatalogueAdmission": false,
+      "contentId": "unknown",
+      "recordingModeEligible": false,
+      "default": false,
+      "audio": {
+        "path": "objects/ed464d7cad5793b7c0197331644c52af6b614ee98e193ab7e30544790a35bdd9.mp3",
+        "bytes": 2463072,
+        "sha256": "ed464d7cad5793b7c0197331644c52af6b614ee98e193ab7e30544790a35bdd9"
+      },
+      "aliases": []
+    },
+    {
+      "id": "s.s.2",
+      "title": "Гайs — ППО (Сам не літаю і москалям не даю)",
+      "artist": "Гайs",
+      "durationSeconds": 130.565805,
+      "tags": [
+        "ФПВ",
+        "UA",
+        "audition",
+        "listening pending"
+      ],
+      "source": "https://www.youtube.com/@GuysUA",
+      "license": "Unknown — uploader-confirmed rights",
+      "licenseURL": null,
+      "credit": "Гайs — ППО (Сам не літаю і москалям не даю) by Гайs. Rights confirmed by uploader for public redistribution and web-game playback. Source: https://www.youtube.com/@GuysUA",
+      "rights": {
+        "licenseId": "UNKNOWN",
+        "licenseVersion": null,
+        "licenseURL": null,
+        "rightsEvidenceURL": "https://www.youtube.com/@GuysUA",
+        "attribution": "Гайs — ППО (Сам не літаю і москалям не даю) by Гайs. Rights confirmed by uploader for public redistribution and web-game playback. Source: https://www.youtube.com/@GuysUA",
+        "derivativeChangeNotice": "Exact submitted MP3 bytes retained; no archive changes declared.",
+        "shareAlike": {
+          "required": null,
+          "deliveryLicenseId": null,
+          "deliveryLicenseVersion": null,
+          "deliveryLicenseURL": null
+        },
+        "permissionBasis": "uploader-confirmed-public-redistribution-and-web-playback"
+      },
+      "fileName": "Гайs — ППО (Сам не літаю і москалям не даю).mp3",
+      "archiveId": "s-20260927",
+      "collection": "Гайs",
+      "collections": [
+        "Гайs",
+        "ФПВ"
+      ],
+      "status": "licensed-preview",
+      "listeningApproval": "not-reviewed",
+      "gameCatalogueAdmission": false,
+      "contentId": "unknown",
+      "recordingModeEligible": false,
+      "default": false,
+      "audio": {
+        "path": "objects/c73191d9e1a388fc8d0a42031e95d6722848c9a53e1ba585f32e32fc3e78cab8.mp3",
+        "bytes": 2064046,
+        "sha256": "c73191d9e1a388fc8d0a42031e95d6722848c9a53e1ba585f32e32fc3e78cab8"
+      },
+      "aliases": []
+    },
+    {
+      "id": "soundtrack.414",
+      "title": "Експрес-доставка квитків до кобзона на концерт. Знімкують пілоти 414 бригади «Птахи Мадяра».",
+      "artist": "МАДЯР",
+      "durationSeconds": 246.131519,
+      "tags": [
+        "ФПВ",
+        "UA",
+        "audition",
+        "listening pending"
+      ],
+      "source": "https://www.youtube.com/@MAGYARBIRDS",
+      "license": "Unknown — uploader-confirmed rights",
+      "licenseURL": null,
+      "credit": "Експрес-доставка квитків до кобзона на концерт. Знімкують пілоти 414 бригади «Птахи Мадяра». by МАДЯР. Rights confirmed by uploader for public redistribution and web-game playback. Source: https://www.youtube.com/@MAGYARBIRDS",
+      "rights": {
+        "licenseId": "UNKNOWN",
+        "licenseVersion": null,
+        "licenseURL": null,
+        "rightsEvidenceURL": "https://www.youtube.com/@MAGYARBIRDS",
+        "attribution": "Експрес-доставка квитків до кобзона на концерт. Знімкують пілоти 414 бригади «Птахи Мадяра». by МАДЯР. Rights confirmed by uploader for public redistribution and web-game playback. Source: https://www.youtube.com/@MAGYARBIRDS",
+        "derivativeChangeNotice": "Exact submitted MP3 bytes retained; no archive changes declared.",
+        "shareAlike": {
+          "required": null,
+          "deliveryLicenseId": null,
+          "deliveryLicenseVersion": null,
+          "deliveryLicenseURL": null
+        },
+        "permissionBasis": "uploader-confirmed-public-redistribution-and-web-playback"
+      },
+      "fileName": "МАДЯР - Експрес-доставка квитків до кобзона на концерт. Знімкують пілоти 414 бригади «Птахи Мадяра».mp3",
+      "archiveId": "soundtrack-20260927",
+      "collection": "МАДЯР",
+      "collections": [
+        "МАДЯР",
+        "ФПВ"
+      ],
+      "status": "licensed-preview",
+      "listeningApproval": "not-reviewed",
+      "gameCatalogueAdmission": false,
+      "contentId": "unknown",
+      "recordingModeEligible": false,
+      "default": false,
+      "audio": {
+        "path": "objects/0462b8ef82a8a9f86f20c2d36b191c9827a139185b87cd455346e576bc1af4fd.mp3",
+        "bytes": 3788242,
+        "sha256": "0462b8ef82a8a9f86f20c2d36b191c9827a139185b87cd455346e576bc1af4fd"
+      },
+      "aliases": []
+    },
+    {
+      "id": "soundtrack.soundtrack",
+      "title": "«Не хробаки, а тупо йоблики, ваша страна вас зняла з обліку».",
+      "artist": "МАДЯР",
+      "durationSeconds": 242.532426,
+      "tags": [
+        "ФПВ",
+        "UA",
+        "audition",
+        "listening pending"
+      ],
+      "source": "https://www.youtube.com/@MAGYARBIRDS",
+      "license": "Unknown — uploader-confirmed rights",
+      "licenseURL": null,
+      "credit": "«Не хробаки, а тупо йоблики, ваша страна вас зняла з обліку». by МАДЯР. Rights confirmed by uploader for public redistribution and web-game playback. Source: https://www.youtube.com/@MAGYARBIRDS",
+      "rights": {
+        "licenseId": "UNKNOWN",
+        "licenseVersion": null,
+        "licenseURL": null,
+        "rightsEvidenceURL": "https://www.youtube.com/@MAGYARBIRDS",
+        "attribution": "«Не хробаки, а тупо йоблики, ваша страна вас зняла з обліку». by МАДЯР. Rights confirmed by uploader for public redistribution and web-game playback. Source: https://www.youtube.com/@MAGYARBIRDS",
+        "derivativeChangeNotice": "Exact submitted MP3 bytes retained; no archive changes declared.",
+        "shareAlike": {
+          "required": null,
+          "deliveryLicenseId": null,
+          "deliveryLicenseVersion": null,
+          "deliveryLicenseURL": null
+        },
+        "permissionBasis": "uploader-confirmed-public-redistribution-and-web-playback"
+      },
+      "fileName": "МАДЯР - Не хробаки, а тупо йоблики, ваша страна вас зняла з обліку.mp3",
+      "archiveId": "soundtrack-20260927",
+      "collection": "МАДЯР",
+      "collections": [
+        "МАДЯР",
+        "ФПВ"
+      ],
+      "status": "licensed-preview",
+      "listeningApproval": "not-reviewed",
+      "gameCatalogueAdmission": false,
+      "contentId": "unknown",
+      "recordingModeEligible": false,
+      "default": false,
+      "audio": {
+        "path": "objects/5069168cc6e90c16c7765afb56fbce180e8144b63775ee2e0d839de4b85a80fe.mp3",
+        "bytes": 3562982,
+        "sha256": "5069168cc6e90c16c7765afb56fbce180e8144b63775ee2e0d839de4b85a80fe"
+      },
+      "aliases": []
+    },
+    {
+      "id": "soundtrack.bloger-414",
+      "title": "Пташині коломийки про хробаків.Трек «Коломийки», текст Bloger (414 обр ПМ)",
+      "artist": "МАДЯР",
+      "durationSeconds": 113.313379,
+      "tags": [
+        "ФПВ",
+        "UA",
+        "audition",
+        "listening pending"
+      ],
+      "source": "https://www.youtube.com/@MAGYARBIRDS",
+      "license": "Unknown — uploader-confirmed rights",
+      "licenseURL": null,
+      "credit": "Пташині коломийки про хробаків.Трек «Коломийки», текст Bloger (414 обр ПМ) by МАДЯР. Rights confirmed by uploader for public redistribution and web-game playback. Source: https://www.youtube.com/@MAGYARBIRDS",
+      "rights": {
+        "licenseId": "UNKNOWN",
+        "licenseVersion": null,
+        "licenseURL": null,
+        "rightsEvidenceURL": "https://www.youtube.com/@MAGYARBIRDS",
+        "attribution": "Пташині коломийки про хробаків.Трек «Коломийки», текст Bloger (414 обр ПМ) by МАДЯР. Rights confirmed by uploader for public redistribution and web-game playback. Source: https://www.youtube.com/@MAGYARBIRDS",
+        "derivativeChangeNotice": "Exact submitted MP3 bytes retained; no archive changes declared.",
+        "shareAlike": {
+          "required": null,
+          "deliveryLicenseId": null,
+          "deliveryLicenseVersion": null,
+          "deliveryLicenseURL": null
+        },
+        "permissionBasis": "uploader-confirmed-public-redistribution-and-web-playback"
+      },
+      "fileName": "МАДЯР, Bloger - Пташині коломийки про хробаків. Трек «Коломийки» (414 обр ПМ).mp3",
+      "archiveId": "soundtrack-20260927",
+      "collection": "МАДЯР",
+      "collections": [
+        "МАДЯР",
+        "ФПВ"
+      ],
+      "status": "licensed-preview",
+      "listeningApproval": "not-reviewed",
+      "gameCatalogueAdmission": false,
+      "contentId": "unknown",
+      "recordingModeEligible": false,
+      "default": false,
+      "audio": {
+        "path": "objects/48b4cfb0075837a93fd0703dc28fbc19157f1d69e5ef69abed8ce0e833607f30.mp3",
+        "bytes": 1731778,
+        "sha256": "48b4cfb0075837a93fd0703dc28fbc19157f1d69e5ef69abed8ce0e833607f30"
+      },
+      "aliases": []
+    },
+    {
+      "id": "soundtrack.soundtrack.2",
+      "title": "Нелегка доля хробака. Трек «Жест доброї волі» (автор Мос)",
+      "artist": "МАДЯР",
+      "durationSeconds": 105.581134,
+      "tags": [
+        "ФПВ",
+        "UA",
+        "audition",
+        "listening pending"
+      ],
+      "source": "https://www.youtube.com/@MAGYARBIRDS",
+      "license": "Unknown — uploader-confirmed rights",
+      "licenseURL": null,
+      "credit": "Нелегка доля хробака. Трек «Жест доброї волі» (автор Мос) by МАДЯР. Rights confirmed by uploader for public redistribution and web-game playback. Source: https://www.youtube.com/@MAGYARBIRDS",
+      "rights": {
+        "licenseId": "UNKNOWN",
+        "licenseVersion": null,
+        "licenseURL": null,
+        "rightsEvidenceURL": "https://www.youtube.com/@MAGYARBIRDS",
+        "attribution": "Нелегка доля хробака. Трек «Жест доброї волі» (автор Мос) by МАДЯР. Rights confirmed by uploader for public redistribution and web-game playback. Source: https://www.youtube.com/@MAGYARBIRDS",
+        "derivativeChangeNotice": "Exact submitted MP3 bytes retained; no archive changes declared.",
+        "shareAlike": {
+          "required": null,
+          "deliveryLicenseId": null,
+          "deliveryLicenseVersion": null,
+          "deliveryLicenseURL": null
+        },
+        "permissionBasis": "uploader-confirmed-public-redistribution-and-web-playback"
+      },
+      "fileName": "МАДЯР, Мос - Нелегка доля хробака. Трек «Жест доброї волі» (автор Мос).mp3",
+      "archiveId": "soundtrack-20260927",
+      "collection": "МАДЯР",
+      "collections": [
+        "МАДЯР",
+        "ФПВ"
+      ],
+      "status": "licensed-preview",
+      "listeningApproval": "not-reviewed",
+      "gameCatalogueAdmission": false,
+      "contentId": "unknown",
+      "recordingModeEligible": false,
+      "default": false,
+      "audio": {
+        "path": "objects/9cf9912bbd80d3e304e555f45a33a94dc9cd0b8924e4bc4771e659e133422cc8.mp3",
+        "bytes": 1800709,
+        "sha256": "9cf9912bbd80d3e304e555f45a33a94dc9cd0b8924e4bc4771e659e133422cc8"
+      },
+      "aliases": []
+    },
+    {
+      "id": "mos.mos-kloun",
+      "title": "Мос - Клоун",
+      "artist": "Мос",
+      "durationSeconds": 168.553651,
+      "tags": [
+        "ФПВ",
+        "UA",
+        "audition",
+        "listening pending"
+      ],
+      "source": "https://www.youtube.com/@Mos_18000",
+      "license": "Unknown — uploader-confirmed rights",
+      "licenseURL": null,
+      "credit": "Мос - Клоун by Мос. Rights confirmed by uploader for public redistribution and web-game playback. Source: https://www.youtube.com/@Mos_18000",
+      "rights": {
+        "licenseId": "UNKNOWN",
+        "licenseVersion": null,
+        "licenseURL": null,
+        "rightsEvidenceURL": "https://www.youtube.com/@Mos_18000",
+        "attribution": "Мос - Клоун by Мос. Rights confirmed by uploader for public redistribution and web-game playback. Source: https://www.youtube.com/@Mos_18000",
+        "derivativeChangeNotice": "Exact submitted MP3 bytes retained; no archive changes declared.",
+        "shareAlike": {
+          "required": null,
+          "deliveryLicenseId": null,
+          "deliveryLicenseVersion": null,
+          "deliveryLicenseURL": null
+        },
+        "permissionBasis": "uploader-confirmed-public-redistribution-and-web-playback"
+      },
+      "fileName": "Мос - Клоун.mp3",
+      "archiveId": "mos-20260927-0093e7e9",
+      "collection": "Мос - Клоун",
+      "collections": [
+        "Мос - Клоун",
+        "Мос",
+        "ФПВ"
+      ],
+      "status": "licensed-preview",
+      "listeningApproval": "not-reviewed",
+      "gameCatalogueAdmission": false,
+      "contentId": "unknown",
+      "recordingModeEligible": false,
+      "default": false,
+      "audio": {
+        "path": "objects/0093e7e90c9f7d771707c0920f3a61abc8070cda6ca42da4b11054c61268b10c.mp3",
+        "bytes": 3003695,
+        "sha256": "0093e7e90c9f7d771707c0920f3a61abc8070cda6ca42da4b11054c61268b10c"
+      },
+      "aliases": []
+    },
+    {
+      "id": "neyronnyy-hupach.neyronnyy-hupach-litaly-litaly-polka",
+      "title": "НЕЙРОННИЙ ГУПАЧ - Літали-літали (полька)",
+      "artist": "НЕЙРОННИЙ ГУПАЧ",
+      "durationSeconds": 143.011701,
+      "tags": [
+        "ФПВ",
+        "UA",
+        "audition",
+        "listening pending"
+      ],
+      "source": "https://www.youtube.com/@gupach",
+      "license": "Unknown — uploader-confirmed rights",
+      "licenseURL": null,
+      "credit": "НЕЙРОННИЙ ГУПАЧ - Літали-літали (полька) by НЕЙРОННИЙ ГУПАЧ. Rights confirmed by uploader for public redistribution and web-game playback. Source: https://www.youtube.com/@gupach",
+      "rights": {
+        "licenseId": "UNKNOWN",
+        "licenseVersion": null,
+        "licenseURL": null,
+        "rightsEvidenceURL": "https://www.youtube.com/@gupach",
+        "attribution": "НЕЙРОННИЙ ГУПАЧ - Літали-літали (полька) by НЕЙРОННИЙ ГУПАЧ. Rights confirmed by uploader for public redistribution and web-game playback. Source: https://www.youtube.com/@gupach",
+        "derivativeChangeNotice": "Exact submitted MP3 bytes retained; no archive changes declared.",
+        "shareAlike": {
+          "required": null,
+          "deliveryLicenseId": null,
+          "deliveryLicenseVersion": null,
+          "deliveryLicenseURL": null
+        },
+        "permissionBasis": "uploader-confirmed-public-redistribution-and-web-playback"
+      },
+      "fileName": "НЕЙРОННИЙ ГУПАЧ - Літали-літали (полька).mp3",
+      "archiveId": "neyronnyy-hupach-20260927-0e70cd80",
+      "collection": "НЕЙРОННИЙ ГУПАЧ",
+      "collections": [
+        "НЕЙРОННИЙ ГУПАЧ",
+        "ФПВ"
+      ],
+      "status": "licensed-preview",
+      "listeningApproval": "not-reviewed",
+      "gameCatalogueAdmission": false,
+      "contentId": "unknown",
+      "recordingModeEligible": false,
+      "default": false,
+      "audio": {
+        "path": "objects/0e70cd808403487bce3b3898a3798099fd9b7b1e4477937603c816e7f3591b9c.mp3",
+        "bytes": 2484053,
+        "sha256": "0e70cd808403487bce3b3898a3798099fd9b7b1e4477937603c816e7f3591b9c"
+      },
+      "aliases": []
+    },
+    {
+      "id": "neyronnyy-hupach.neyronnyy-hupach-litaly-litaly-ii",
+      "title": "НЕЙРОННИЙ ГУПАЧ - Літали-літали II",
+      "artist": "НЕЙРОННИЙ ГУПАЧ",
+      "durationSeconds": 157.640272,
+      "tags": [
+        "ФПВ",
+        "UA",
+        "audition",
+        "listening pending"
+      ],
+      "source": "https://www.youtube.com/@gupach",
+      "license": "Unknown — uploader-confirmed rights",
+      "licenseURL": null,
+      "credit": "НЕЙРОННИЙ ГУПАЧ - Літали-літали II by НЕЙРОННИЙ ГУПАЧ. Rights confirmed by uploader for public redistribution and web-game playback. Source: https://www.youtube.com/@gupach",
+      "rights": {
+        "licenseId": "UNKNOWN",
+        "licenseVersion": null,
+        "licenseURL": null,
+        "rightsEvidenceURL": "https://www.youtube.com/@gupach",
+        "attribution": "НЕЙРОННИЙ ГУПАЧ - Літали-літали II by НЕЙРОННИЙ ГУПАЧ. Rights confirmed by uploader for public redistribution and web-game playback. Source: https://www.youtube.com/@gupach",
+        "derivativeChangeNotice": "Exact submitted MP3 bytes retained; no archive changes declared.",
+        "shareAlike": {
+          "required": null,
+          "deliveryLicenseId": null,
+          "deliveryLicenseVersion": null,
+          "deliveryLicenseURL": null
+        },
+        "permissionBasis": "uploader-confirmed-public-redistribution-and-web-playback"
+      },
+      "fileName": "НЕЙРОННИЙ ГУПАЧ - Літали-літали II.mp3",
+      "archiveId": "neyronnyy-hupach-20260927-0e70cd80",
+      "collection": "НЕЙРОННИЙ ГУПАЧ",
+      "collections": [
+        "НЕЙРОННИЙ ГУПАЧ",
+        "ФПВ"
+      ],
+      "status": "licensed-preview",
+      "listeningApproval": "not-reviewed",
+      "gameCatalogueAdmission": false,
+      "contentId": "unknown",
+      "recordingModeEligible": false,
+      "default": false,
+      "audio": {
+        "path": "objects/a7326eabe93d54a2d8606e978517034ba242fe30d39973fb24deea49c44c733d.mp3",
+        "bytes": 2708134,
+        "sha256": "a7326eabe93d54a2d8606e978517034ba242fe30d39973fb24deea49c44c733d"
+      },
+      "aliases": []
+    },
+    {
+      "id": "neyronnyy-hupach.neyronnyy-hupach-litaly-litaly",
+      "title": "НЕЙРОННИЙ ГУПАЧ - Літали-літали",
+      "artist": "НЕЙРОННИЙ ГУПАЧ",
+      "durationSeconds": 106.556372,
+      "tags": [
+        "ФПВ",
+        "UA",
+        "audition",
+        "listening pending"
+      ],
+      "source": "https://www.youtube.com/@gupach",
+      "license": "Unknown — uploader-confirmed rights",
+      "licenseURL": null,
+      "credit": "НЕЙРОННИЙ ГУПАЧ - Літали-літали by НЕЙРОННИЙ ГУПАЧ. Rights confirmed by uploader for public redistribution and web-game playback. Source: https://www.youtube.com/@gupach",
+      "rights": {
+        "licenseId": "UNKNOWN",
+        "licenseVersion": null,
+        "licenseURL": null,
+        "rightsEvidenceURL": "https://www.youtube.com/@gupach",
+        "attribution": "НЕЙРОННИЙ ГУПАЧ - Літали-літали by НЕЙРОННИЙ ГУПАЧ. Rights confirmed by uploader for public redistribution and web-game playback. Source: https://www.youtube.com/@gupach",
+        "derivativeChangeNotice": "Exact submitted MP3 bytes retained; no archive changes declared.",
+        "shareAlike": {
+          "required": null,
+          "deliveryLicenseId": null,
+          "deliveryLicenseVersion": null,
+          "deliveryLicenseURL": null
+        },
+        "permissionBasis": "uploader-confirmed-public-redistribution-and-web-playback"
+      },
+      "fileName": "НЕЙРОННИЙ ГУПАЧ - Літали-літали.mp3",
+      "archiveId": "neyronnyy-hupach-20260927-0e70cd80",
+      "collection": "НЕЙРОННИЙ ГУПАЧ",
+      "collections": [
+        "НЕЙРОННИЙ ГУПАЧ",
+        "ФПВ"
+      ],
+      "status": "licensed-preview",
+      "listeningApproval": "not-reviewed",
+      "gameCatalogueAdmission": false,
+      "contentId": "unknown",
+      "recordingModeEligible": false,
+      "default": false,
+      "audio": {
+        "path": "objects/c98d235cb99ff5d4fb471c2b8377f135c9b7a82f1ec91a7c4df632c2aede59b6.mp3",
+        "bytes": 1870781,
+        "sha256": "c98d235cb99ff5d4fb471c2b8377f135c9b7a82f1ec91a7c4df632c2aede59b6"
+      },
+      "aliases": []
+    },
+    {
+      "id": "neyronnyy-hupach.neyronnyy-hupach-pisenka-madyara-z-multfilmu-pro-barmaleyiv",
+      "title": "НЕЙРОННИЙ ГУПАЧ - Пісенька Мадяра з мультфільму про бармалеїв",
+      "artist": "НЕЙРОННИЙ ГУПАЧ",
+      "durationSeconds": 76.92771,
+      "tags": [
+        "ФПВ",
+        "UA",
+        "audition",
+        "listening pending"
+      ],
+      "source": "https://www.youtube.com/@gupach",
+      "license": "Unknown — uploader-confirmed rights",
+      "licenseURL": null,
+      "credit": "НЕЙРОННИЙ ГУПАЧ - Пісенька Мадяра з мультфільму про бармалеїв by НЕЙРОННИЙ ГУПАЧ. Rights confirmed by uploader for public redistribution and web-game playback. Source: https://www.youtube.com/@gupach",
+      "rights": {
+        "licenseId": "UNKNOWN",
+        "licenseVersion": null,
+        "licenseURL": null,
+        "rightsEvidenceURL": "https://www.youtube.com/@gupach",
+        "attribution": "НЕЙРОННИЙ ГУПАЧ - Пісенька Мадяра з мультфільму про бармалеїв by НЕЙРОННИЙ ГУПАЧ. Rights confirmed by uploader for public redistribution and web-game playback. Source: https://www.youtube.com/@gupach",
+        "derivativeChangeNotice": "Exact submitted MP3 bytes retained; no archive changes declared.",
+        "shareAlike": {
+          "required": null,
+          "deliveryLicenseId": null,
+          "deliveryLicenseVersion": null,
+          "deliveryLicenseURL": null
+        },
+        "permissionBasis": "uploader-confirmed-public-redistribution-and-web-playback"
+      },
+      "fileName": "НЕЙРОННИЙ ГУПАЧ - Пісенька Мадяра з мультфільму про бармалеїв.mp3",
+      "archiveId": "neyronnyy-hupach-20260927-0e70cd80",
+      "collection": "НЕЙРОННИЙ ГУПАЧ",
+      "collections": [
+        "НЕЙРОННИЙ ГУПАЧ",
+        "ФПВ"
+      ],
+      "status": "licensed-preview",
+      "listeningApproval": "not-reviewed",
+      "gameCatalogueAdmission": false,
+      "contentId": "unknown",
+      "recordingModeEligible": false,
+      "default": false,
+      "audio": {
+        "path": "objects/7fc1d588e5027bd4a1df5f7ff9b37d128a528300878e288b16a7da38c0f25ac9.mp3",
+        "bytes": 1392123,
+        "sha256": "7fc1d588e5027bd4a1df5f7ff9b37d128a528300878e288b16a7da38c0f25ac9"
+      },
+      "aliases": []
+    },
+    {
+      "id": "neyronnyy-hupach.neyronnyy-hupach-povitryana-tryvoha",
+      "title": "НЕЙРОННИЙ ГУПАЧ - Повітряна тривога",
+      "artist": "НЕЙРОННИЙ ГУПАЧ",
+      "durationSeconds": 201.479546,
+      "tags": [
+        "ФПВ",
+        "UA",
+        "audition",
+        "listening pending"
+      ],
+      "source": "https://www.youtube.com/@gupach",
+      "license": "Unknown — uploader-confirmed rights",
+      "licenseURL": null,
+      "credit": "НЕЙРОННИЙ ГУПАЧ - Повітряна тривога by НЕЙРОННИЙ ГУПАЧ. Rights confirmed by uploader for public redistribution and web-game playback. Source: https://www.youtube.com/@gupach",
+      "rights": {
+        "licenseId": "UNKNOWN",
+        "licenseVersion": null,
+        "licenseURL": null,
+        "rightsEvidenceURL": "https://www.youtube.com/@gupach",
+        "attribution": "НЕЙРОННИЙ ГУПАЧ - Повітряна тривога by НЕЙРОННИЙ ГУПАЧ. Rights confirmed by uploader for public redistribution and web-game playback. Source: https://www.youtube.com/@gupach",
+        "derivativeChangeNotice": "Exact submitted MP3 bytes retained; no archive changes declared.",
+        "shareAlike": {
+          "required": null,
+          "deliveryLicenseId": null,
+          "deliveryLicenseVersion": null,
+          "deliveryLicenseURL": null
+        },
+        "permissionBasis": "uploader-confirmed-public-redistribution-and-web-playback"
+      },
+      "fileName": "НЕЙРОННИЙ ГУПАЧ - Повітряна тривога.mp3",
+      "archiveId": "neyronnyy-hupach-20260927-0e70cd80",
+      "collection": "НЕЙРОННИЙ ГУПАЧ",
+      "collections": [
+        "НЕЙРОННИЙ ГУПАЧ",
+        "ФПВ"
+      ],
+      "status": "licensed-preview",
+      "listeningApproval": "not-reviewed",
+      "gameCatalogueAdmission": false,
+      "contentId": "unknown",
+      "recordingModeEligible": false,
+      "default": false,
+      "audio": {
+        "path": "objects/a45cb366d97648fa810a535dd29024cd45b929299b388d66d8007fd84795c49d.mp3",
+        "bytes": 3053566,
+        "sha256": "a45cb366d97648fa810a535dd29024cd45b929299b388d66d8007fd84795c49d"
+      },
+      "aliases": []
+    },
+    {
+      "id": "neyronnyy-hupach.neyronnyy-hupach-khrobaky-rozshyrena-dzhaha-dzhaha",
+      "title": "НЕЙРОННИЙ ГУПАЧ - Хробаки (розширена джага-джага)",
+      "artist": "НЕЙРОННИЙ ГУПАЧ",
+      "durationSeconds": 81.014422,
+      "tags": [
+        "ФПВ",
+        "UA",
+        "audition",
+        "listening pending"
+      ],
+      "source": "https://www.youtube.com/@gupach",
+      "license": "Unknown — uploader-confirmed rights",
+      "licenseURL": null,
+      "credit": "НЕЙРОННИЙ ГУПАЧ - Хробаки (розширена джага-джага) by НЕЙРОННИЙ ГУПАЧ. Rights confirmed by uploader for public redistribution and web-game playback. Source: https://www.youtube.com/@gupach",
+      "rights": {
+        "licenseId": "UNKNOWN",
+        "licenseVersion": null,
+        "licenseURL": null,
+        "rightsEvidenceURL": "https://www.youtube.com/@gupach",
+        "attribution": "НЕЙРОННИЙ ГУПАЧ - Хробаки (розширена джага-джага) by НЕЙРОННИЙ ГУПАЧ. Rights confirmed by uploader for public redistribution and web-game playback. Source: https://www.youtube.com/@gupach",
+        "derivativeChangeNotice": "Exact submitted MP3 bytes retained; no archive changes declared.",
+        "shareAlike": {
+          "required": null,
+          "deliveryLicenseId": null,
+          "deliveryLicenseVersion": null,
+          "deliveryLicenseURL": null
+        },
+        "permissionBasis": "uploader-confirmed-public-redistribution-and-web-playback"
+      },
+      "fileName": "НЕЙРОННИЙ ГУПАЧ - Хробаки (розширена джага-джага).mp3",
+      "archiveId": "neyronnyy-hupach-20260927-0e70cd80",
+      "collection": "НЕЙРОННИЙ ГУПАЧ",
+      "collections": [
+        "НЕЙРОННИЙ ГУПАЧ",
+        "ФПВ"
+      ],
+      "status": "licensed-preview",
+      "listeningApproval": "not-reviewed",
+      "gameCatalogueAdmission": false,
+      "contentId": "unknown",
+      "recordingModeEligible": false,
+      "default": false,
+      "audio": {
+        "path": "objects/bbc8d3e40202d66388cabc8c3e416cf08af0b7b8531531361704323ba85b748c.mp3",
+        "bytes": 1369404,
+        "sha256": "bbc8d3e40202d66388cabc8c3e416cf08af0b7b8531531361704323ba85b748c"
+      },
+      "aliases": []
+    },
+    {
+      "id": "nytso-potvorno.nytso-potvorno-rusni-pizda",
+      "title": "Ницо Потворно — русні пізда",
+      "artist": "Ницо Потворно",
+      "durationSeconds": 245.086621,
+      "tags": [
+        "ФПВ",
+        "UA",
+        "audition",
+        "listening pending"
+      ],
+      "source": "https://www.youtube.com/@potvorno",
+      "license": "Unknown — uploader-confirmed rights",
+      "licenseURL": null,
+      "credit": "Ницо Потворно — русні пізда by Ницо Потворно. Rights confirmed by uploader for public redistribution and web-game playback. Source: https://www.youtube.com/@potvorno",
+      "rights": {
+        "licenseId": "UNKNOWN",
+        "licenseVersion": null,
+        "licenseURL": null,
+        "rightsEvidenceURL": "https://www.youtube.com/@potvorno",
+        "attribution": "Ницо Потворно — русні пізда by Ницо Потворно. Rights confirmed by uploader for public redistribution and web-game playback. Source: https://www.youtube.com/@potvorno",
+        "derivativeChangeNotice": "Exact submitted MP3 bytes retained; no archive changes declared.",
+        "shareAlike": {
+          "required": null,
+          "deliveryLicenseId": null,
+          "deliveryLicenseVersion": null,
+          "deliveryLicenseURL": null
+        },
+        "permissionBasis": "uploader-confirmed-public-redistribution-and-web-playback"
+      },
+      "fileName": "Ницо Потворно — русні пізда.mp3",
+      "archiveId": "nytso-potvorno-20260927-edad4597",
+      "collection": "Ницо Потворно — русні пізда",
+      "collections": [
+        "Ницо Потворно — русні пізда",
+        "Ницо Потворно",
+        "ФПВ"
+      ],
+      "status": "licensed-preview",
+      "listeningApproval": "not-reviewed",
+      "gameCatalogueAdmission": false,
+      "contentId": "unknown",
+      "recordingModeEligible": false,
+      "default": false,
+      "audio": {
+        "path": "objects/edad4597c38ca22d295658d4cbe23bcf50399f0c16244b850a9383fe939124d1.mp3",
+        "bytes": 4079611,
+        "sha256": "edad4597c38ca22d295658d4cbe23bcf50399f0c16244b850a9383fe939124d1"
+      },
+      "aliases": []
+    },
+    {
+      "id": "pivnich.pivnich-fpv",
+      "title": "Північ - FPV",
+      "artist": "Північ",
+      "durationSeconds": 166.533515,
+      "tags": [
+        "ФПВ",
+        "UA",
+        "audition",
+        "listening pending"
+      ],
+      "source": "https://www.youtube.com/@EmmaPivnich",
+      "license": "Unknown — uploader-confirmed rights",
+      "licenseURL": null,
+      "credit": "Північ - FPV by Північ. Rights confirmed by uploader for public redistribution and web-game playback. Source: https://www.youtube.com/@EmmaPivnich",
+      "rights": {
+        "licenseId": "UNKNOWN",
+        "licenseVersion": null,
+        "licenseURL": null,
+        "rightsEvidenceURL": "https://www.youtube.com/@EmmaPivnich",
+        "attribution": "Північ - FPV by Північ. Rights confirmed by uploader for public redistribution and web-game playback. Source: https://www.youtube.com/@EmmaPivnich",
+        "derivativeChangeNotice": "Exact submitted MP3 bytes retained; no archive changes declared.",
+        "shareAlike": {
+          "required": null,
+          "deliveryLicenseId": null,
+          "deliveryLicenseVersion": null,
+          "deliveryLicenseURL": null
+        },
+        "permissionBasis": "uploader-confirmed-public-redistribution-and-web-playback"
+      },
+      "fileName": " Північ - FPV.mp3",
+      "archiveId": "pivnich-20260927-9641f728",
+      "collection": "Північ - FPV",
+      "collections": [
+        "Північ - FPV",
+        "Північ",
+        "ФПВ"
+      ],
+      "status": "licensed-preview",
+      "listeningApproval": "not-reviewed",
+      "gameCatalogueAdmission": false,
+      "contentId": "unknown",
+      "recordingModeEligible": false,
+      "default": false,
+      "audio": {
+        "path": "objects/9641f728119b657b46d2e7b668e0d34d511fee75447cc133652cf98106992357.mp3",
+        "bytes": 2848859,
+        "sha256": "9641f728119b657b46d2e7b668e0d34d511fee75447cc133652cf98106992357"
+      },
+      "aliases": []
+    },
+    {
+      "id": "pisnya-dnya.boyovyy-p1-sun-pisnya-dnya-povna-versiya",
+      "title": "🦅 Бойовий P1-Sun — Пісня дня (повна версія)",
+      "artist": "Пісня дня",
+      "durationSeconds": 261.31737,
+      "tags": [
+        "ФПВ",
+        "UA",
+        "audition",
+        "listening pending"
+      ],
+      "source": "https://www.youtube.com/@pisnyadnya",
+      "license": "Unknown — uploader-confirmed rights",
+      "licenseURL": null,
+      "credit": "🦅 Бойовий P1-Sun — Пісня дня (повна версія) by Пісня дня. Rights confirmed by uploader for public redistribution and web-game playback. Source: https://www.youtube.com/@pisnyadnya",
+      "rights": {
+        "licenseId": "UNKNOWN",
+        "licenseVersion": null,
+        "licenseURL": null,
+        "rightsEvidenceURL": "https://www.youtube.com/@pisnyadnya",
+        "attribution": "🦅 Бойовий P1-Sun — Пісня дня (повна версія) by Пісня дня. Rights confirmed by uploader for public redistribution and web-game playback. Source: https://www.youtube.com/@pisnyadnya",
+        "derivativeChangeNotice": "Exact submitted MP3 bytes retained; no archive changes declared.",
+        "shareAlike": {
+          "required": null,
+          "deliveryLicenseId": null,
+          "deliveryLicenseVersion": null,
+          "deliveryLicenseURL": null
+        },
+        "permissionBasis": "uploader-confirmed-public-redistribution-and-web-playback"
+      },
+      "fileName": "Пісня дня - Бойовий P1-Sun.mp3",
+      "archiveId": "pisnya-dnya-20260927-bb25de89",
+      "collection": "Пісня дня",
+      "collections": [
+        "Пісня дня",
+        "ФПВ"
+      ],
+      "status": "licensed-preview",
+      "listeningApproval": "not-reviewed",
+      "gameCatalogueAdmission": false,
+      "contentId": "unknown",
+      "recordingModeEligible": false,
+      "default": false,
+      "audio": {
+        "path": "objects/bb25de89589df1a6623e80f71bc19137abe26b1b14796b3ff75af1a63d96cbd0.mp3",
+        "bytes": 3980495,
+        "sha256": "bb25de89589df1a6623e80f71bc19137abe26b1b14796b3ff75af1a63d96cbd0"
+      },
+      "aliases": []
+    },
+    {
+      "id": "pisnya-dnya.na-krok-poperedu-himn-syl-bezpilotnykh-system-sbs-pisnya-dnya-povna-ve",
+      "title": "🔥 На крок попереду - Гімн Сил безпілотних систем (СБС) — Пісня дня (повна версія)",
+      "artist": "Пісня дня",
+      "durationSeconds": 255.442721,
+      "tags": [
+        "ФПВ",
+        "UA",
+        "audition",
+        "listening pending"
+      ],
+      "source": "https://www.youtube.com/@pisnyadnya",
+      "license": "Unknown — uploader-confirmed rights",
+      "licenseURL": null,
+      "credit": "🔥 На крок попереду - Гімн Сил безпілотних систем (СБС) — Пісня дня (повна версія) by Пісня дня. Rights confirmed by uploader for public redistribution and web-game playback. Source: https://www.youtube.com/@pisnyadnya",
+      "rights": {
+        "licenseId": "UNKNOWN",
+        "licenseVersion": null,
+        "licenseURL": null,
+        "rightsEvidenceURL": "https://www.youtube.com/@pisnyadnya",
+        "attribution": "🔥 На крок попереду - Гімн Сил безпілотних систем (СБС) — Пісня дня (повна версія) by Пісня дня. Rights confirmed by uploader for public redistribution and web-game playback. Source: https://www.youtube.com/@pisnyadnya",
+        "derivativeChangeNotice": "Exact submitted MP3 bytes retained; no archive changes declared.",
+        "shareAlike": {
+          "required": null,
+          "deliveryLicenseId": null,
+          "deliveryLicenseVersion": null,
+          "deliveryLicenseURL": null
+        },
+        "permissionBasis": "uploader-confirmed-public-redistribution-and-web-playback"
+      },
+      "fileName": "Пісня дня - На крок попереду - Гімн Сил безпілотних систем (СБС).mp3",
+      "archiveId": "pisnya-dnya-20260927-bb25de89",
+      "collection": "Пісня дня",
+      "collections": [
+        "Пісня дня",
+        "ФПВ"
+      ],
+      "status": "licensed-preview",
+      "listeningApproval": "not-reviewed",
+      "gameCatalogueAdmission": false,
+      "contentId": "unknown",
+      "recordingModeEligible": false,
+      "default": false,
+      "audio": {
+        "path": "objects/a9c490400466be36b63133248b81910c5028ed297ab59f1a8e06609e421da469.mp3",
+        "bytes": 3903859,
+        "sha256": "a9c490400466be36b63133248b81910c5028ed297ab59f1a8e06609e421da469"
+      },
+      "aliases": []
+    },
+    {
+      "id": "pisnya-dnya.pavutyna-malyuka-pisnya-dnya-povna-versiya",
+      "title": "🕸️ \"Павутина\" Малюка — Пісня дня (повна версія)",
+      "artist": "Пісня дня",
+      "durationSeconds": 184.900499,
+      "tags": [
+        "ФПВ",
+        "UA",
+        "audition",
+        "listening pending"
+      ],
+      "source": "https://www.youtube.com/@pisnyadnya",
+      "license": "Unknown — uploader-confirmed rights",
+      "licenseURL": null,
+      "credit": "🕸️ \"Павутина\" Малюка — Пісня дня (повна версія) by Пісня дня. Rights confirmed by uploader for public redistribution and web-game playback. Source: https://www.youtube.com/@pisnyadnya",
+      "rights": {
+        "licenseId": "UNKNOWN",
+        "licenseVersion": null,
+        "licenseURL": null,
+        "rightsEvidenceURL": "https://www.youtube.com/@pisnyadnya",
+        "attribution": "🕸️ \"Павутина\" Малюка — Пісня дня (повна версія) by Пісня дня. Rights confirmed by uploader for public redistribution and web-game playback. Source: https://www.youtube.com/@pisnyadnya",
+        "derivativeChangeNotice": "Exact submitted MP3 bytes retained; no archive changes declared.",
+        "shareAlike": {
+          "required": null,
+          "deliveryLicenseId": null,
+          "deliveryLicenseVersion": null,
+          "deliveryLicenseURL": null
+        },
+        "permissionBasis": "uploader-confirmed-public-redistribution-and-web-playback"
+      },
+      "fileName": "Пісня дня - Павутина Малюка.mp3",
+      "archiveId": "pisnya-dnya-20260927-bb25de89",
+      "collection": "Пісня дня",
+      "collections": [
+        "Пісня дня",
+        "ФПВ"
+      ],
+      "status": "licensed-preview",
+      "listeningApproval": "not-reviewed",
+      "gameCatalogueAdmission": false,
+      "contentId": "unknown",
+      "recordingModeEligible": false,
+      "default": false,
+      "audio": {
+        "path": "objects/674925a9446876e6bd6a56e6019b854072e263b7975c3f2a59725f0fc10ea917.mp3",
+        "bytes": 3099933,
+        "sha256": "674925a9446876e6bd6a56e6019b854072e263b7975c3f2a59725f0fc10ea917"
+      },
+      "aliases": []
+    },
+    {
+      "id": "pisnya-dnya.retsept-bavovny-vidpovid-tym-khto-smiyavsya-z-nashoho-leho-pisnya-dnya",
+      "title": "💥 Рецепт Бавовни - Відповідь тим, хто сміявся з нашого \"Лего\" — Пісня дня (повна версія)",
+      "artist": "Пісня дня",
+      "durationSeconds": 287.788118,
+      "tags": [
+        "ФПВ",
+        "UA",
+        "audition",
+        "listening pending"
+      ],
+      "source": "https://www.youtube.com/@pisnyadnya",
+      "license": "Unknown — uploader-confirmed rights",
+      "licenseURL": null,
+      "credit": "💥 Рецепт Бавовни - Відповідь тим, хто сміявся з нашого \"Лего\" — Пісня дня (повна версія) by Пісня дня. Rights confirmed by uploader for public redistribution and web-game playback. Source: https://www.youtube.com/@pisnyadnya",
+      "rights": {
+        "licenseId": "UNKNOWN",
+        "licenseVersion": null,
+        "licenseURL": null,
+        "rightsEvidenceURL": "https://www.youtube.com/@pisnyadnya",
+        "attribution": "💥 Рецепт Бавовни - Відповідь тим, хто сміявся з нашого \"Лего\" — Пісня дня (повна версія) by Пісня дня. Rights confirmed by uploader for public redistribution and web-game playback. Source: https://www.youtube.com/@pisnyadnya",
+        "derivativeChangeNotice": "Exact submitted MP3 bytes retained; no archive changes declared.",
+        "shareAlike": {
+          "required": null,
+          "deliveryLicenseId": null,
+          "deliveryLicenseVersion": null,
+          "deliveryLicenseURL": null
+        },
+        "permissionBasis": "uploader-confirmed-public-redistribution-and-web-playback"
+      },
+      "fileName": "Пісня дня - Рецепт Бавовни - Відповідь тим, хто сміявся з нашого Лего.mp3",
+      "archiveId": "pisnya-dnya-20260927-bb25de89",
+      "collection": "Пісня дня",
+      "collections": [
+        "Пісня дня",
+        "ФПВ"
+      ],
+      "status": "licensed-preview",
+      "listeningApproval": "not-reviewed",
+      "gameCatalogueAdmission": false,
+      "contentId": "unknown",
+      "recordingModeEligible": false,
+      "default": false,
+      "audio": {
+        "path": "objects/c63b1118e49911fbf4a0091ea54867817c5dd6ff0a3f0877481ba1544ea8a7d3.mp3",
+        "bytes": 4889833,
+        "sha256": "c63b1118e49911fbf4a0091ea54867817c5dd6ff0a3f0877481ba1544ea8a7d3"
+      },
+      "aliases": []
+    },
+    {
+      "id": "pisnya-dnya.shou-madyara-pisnya-dnya-povna-versiya",
+      "title": "🔥 Шоу Мадяра — Пісня дня (повна версія)",
+      "artist": "Пісня дня",
+      "durationSeconds": 308.593197,
+      "tags": [
+        "ФПВ",
+        "UA",
+        "audition",
+        "listening pending"
+      ],
+      "source": "https://www.youtube.com/@pisnyadnya",
+      "license": "Unknown — uploader-confirmed rights",
+      "licenseURL": null,
+      "credit": "🔥 Шоу Мадяра — Пісня дня (повна версія) by Пісня дня. Rights confirmed by uploader for public redistribution and web-game playback. Source: https://www.youtube.com/@pisnyadnya",
+      "rights": {
+        "licenseId": "UNKNOWN",
+        "licenseVersion": null,
+        "licenseURL": null,
+        "rightsEvidenceURL": "https://www.youtube.com/@pisnyadnya",
+        "attribution": "🔥 Шоу Мадяра — Пісня дня (повна версія) by Пісня дня. Rights confirmed by uploader for public redistribution and web-game playback. Source: https://www.youtube.com/@pisnyadnya",
+        "derivativeChangeNotice": "Exact submitted MP3 bytes retained; no archive changes declared.",
+        "shareAlike": {
+          "required": null,
+          "deliveryLicenseId": null,
+          "deliveryLicenseVersion": null,
+          "deliveryLicenseURL": null
+        },
+        "permissionBasis": "uploader-confirmed-public-redistribution-and-web-playback"
+      },
+      "fileName": "Пісня дня - Шоу Мадяра - бадабум, джага-джага.mp3",
+      "archiveId": "pisnya-dnya-20260927-bb25de89",
+      "collection": "Пісня дня",
+      "collections": [
+        "Пісня дня",
+        "ФПВ"
+      ],
+      "status": "licensed-preview",
+      "listeningApproval": "not-reviewed",
+      "gameCatalogueAdmission": false,
+      "contentId": "unknown",
+      "recordingModeEligible": false,
+      "default": false,
+      "audio": {
+        "path": "objects/4befd36da5e444577da89a12e58914695bcaaaf703a2ef788e3a675b2324f2a4.mp3",
+        "bytes": 5037982,
+        "sha256": "4befd36da5e444577da89a12e58914695bcaaaf703a2ef788e3a675b2324f2a4"
+      },
+      "aliases": []
+    },
+    {
+      "id": "prodyusyer-valyentin.prodyusyer-valyentin-i-hurt-mama-zlipy-snyezhku-z-pisneyu-zamoryly-mos",
+      "title": "Продюсєр Валєнтін і гурт\"Мама, зліпи снєжку\" з піснею 'Заморили москаля'",
+      "artist": "Продюсєр Валєнтін",
+      "durationSeconds": 173.82458,
+      "tags": [
+        "ФПВ",
+        "UA",
+        "audition",
+        "listening pending"
+      ],
+      "source": "https://www.youtube.com/@single_deck",
+      "license": "Unknown — uploader-confirmed rights",
+      "licenseURL": null,
+      "credit": "Продюсєр Валєнтін і гурт\"Мама, зліпи снєжку\" з піснею 'Заморили москаля' by Продюсєр Валєнтін. Rights confirmed by uploader for public redistribution and web-game playback. Source: https://www.youtube.com/@single_deck",
+      "rights": {
+        "licenseId": "UNKNOWN",
+        "licenseVersion": null,
+        "licenseURL": null,
+        "rightsEvidenceURL": "https://www.youtube.com/@single_deck",
+        "attribution": "Продюсєр Валєнтін і гурт\"Мама, зліпи снєжку\" з піснею 'Заморили москаля' by Продюсєр Валєнтін. Rights confirmed by uploader for public redistribution and web-game playback. Source: https://www.youtube.com/@single_deck",
+        "derivativeChangeNotice": "Exact submitted MP3 bytes retained; no archive changes declared.",
+        "shareAlike": {
+          "required": null,
+          "deliveryLicenseId": null,
+          "deliveryLicenseVersion": null,
+          "deliveryLicenseURL": null
+        },
+        "permissionBasis": "uploader-confirmed-public-redistribution-and-web-playback"
+      },
+      "fileName": "Продюсєр Валєнтін - і гурт_Мама, зліпи снєжку_ з піснею _Заморили москаля_.mp3",
+      "archiveId": "prodyusyer-valyentin-20260927-78d37bea",
+      "collection": "Продюсєр Валєнтін",
+      "collections": [
+        "Продюсєр Валєнтін",
+        "ФПВ"
+      ],
+      "status": "licensed-preview",
+      "listeningApproval": "not-reviewed",
+      "gameCatalogueAdmission": false,
+      "contentId": "unknown",
+      "recordingModeEligible": false,
+      "default": false,
+      "audio": {
+        "path": "objects/78d37bea0b64d2ee79a7818a737e98bd491d4bdcc8154e9e7e2edf0552c1bfd8.mp3",
+        "bytes": 2897664,
+        "sha256": "78d37bea0b64d2ee79a7818a737e98bd491d4bdcc8154e9e7e2edf0552c1bfd8"
+      },
+      "aliases": []
+    },
+    {
+      "id": "prodyusyer-valyentin.prodyuser-valyentiv-i-hurt-imeni-vitalika-z-novoyu-pisneyu-bila-lada-d",
+      "title": "Продюсер Валєнтів і Гурт імені Віталіка з новою піснею. 'Біла лада додається'",
+      "artist": "Продюсєр Валєнтін",
+      "durationSeconds": 186.433016,
+      "tags": [
+        "ФПВ",
+        "UA",
+        "audition",
+        "listening pending"
+      ],
+      "source": "https://www.youtube.com/@single_deck",
+      "license": "Unknown — uploader-confirmed rights",
+      "licenseURL": null,
+      "credit": "Продюсер Валєнтів і Гурт імені Віталіка з новою піснею. 'Біла лада додається' by Продюсєр Валєнтін. Rights confirmed by uploader for public redistribution and web-game playback. Source: https://www.youtube.com/@single_deck",
+      "rights": {
+        "licenseId": "UNKNOWN",
+        "licenseVersion": null,
+        "licenseURL": null,
+        "rightsEvidenceURL": "https://www.youtube.com/@single_deck",
+        "attribution": "Продюсер Валєнтів і Гурт імені Віталіка з новою піснею. 'Біла лада додається' by Продюсєр Валєнтін. Rights confirmed by uploader for public redistribution and web-game playback. Source: https://www.youtube.com/@single_deck",
+        "derivativeChangeNotice": "Exact submitted MP3 bytes retained; no archive changes declared.",
+        "shareAlike": {
+          "required": null,
+          "deliveryLicenseId": null,
+          "deliveryLicenseVersion": null,
+          "deliveryLicenseURL": null
+        },
+        "permissionBasis": "uploader-confirmed-public-redistribution-and-web-playback"
+      },
+      "fileName": "Продюсєр Валєнтін і Гурт імені Віталіка з новою піснею. _Біла лада додається_.mp3",
+      "archiveId": "prodyusyer-valyentin-20260927-78d37bea",
+      "collection": "Продюсєр Валєнтін",
+      "collections": [
+        "Продюсєр Валєнтін",
+        "ФПВ"
+      ],
+      "status": "licensed-preview",
+      "listeningApproval": "not-reviewed",
+      "gameCatalogueAdmission": false,
+      "contentId": "unknown",
+      "recordingModeEligible": false,
+      "default": false,
+      "audio": {
+        "path": "objects/7d85028cd248b4b990f653d7a7432b4d6b89ab919efd1bbe7b32a4e3f41abb63.mp3",
+        "bytes": 3152073,
+        "sha256": "7d85028cd248b4b990f653d7a7432b4d6b89ab919efd1bbe7b32a4e3f41abb63"
+      },
+      "aliases": []
+    },
+    {
+      "id": "prodyusyer-valyentin.prodyusyer-valyentin-ta-hurt-bavovna-bavovna-prezentuyus-tresh-surzhyk",
+      "title": "Продюсєр Валєнтін та гурт 'Бавовна-бавовна' презентуюсь треш-суржик-рок композицію. Нема бензину.",
+      "artist": "Продюсєр Валєнтін",
+      "durationSeconds": 142.895601,
+      "tags": [
+        "ФПВ",
+        "UA",
+        "audition",
+        "listening pending"
+      ],
+      "source": "https://www.youtube.com/@single_deck",
+      "license": "Unknown — uploader-confirmed rights",
+      "licenseURL": null,
+      "credit": "Продюсєр Валєнтін та гурт 'Бавовна-бавовна' презентуюсь треш-суржик-рок композицію. Нема бензину. by Продюсєр Валєнтін. Rights confirmed by uploader for public redistribution and web-game playback. Source: https://www.youtube.com/@single_deck",
+      "rights": {
+        "licenseId": "UNKNOWN",
+        "licenseVersion": null,
+        "licenseURL": null,
+        "rightsEvidenceURL": "https://www.youtube.com/@single_deck",
+        "attribution": "Продюсєр Валєнтін та гурт 'Бавовна-бавовна' презентуюсь треш-суржик-рок композицію. Нема бензину. by Продюсєр Валєнтін. Rights confirmed by uploader for public redistribution and web-game playback. Source: https://www.youtube.com/@single_deck",
+        "derivativeChangeNotice": "Exact submitted MP3 bytes retained; no archive changes declared.",
+        "shareAlike": {
+          "required": null,
+          "deliveryLicenseId": null,
+          "deliveryLicenseVersion": null,
+          "deliveryLicenseURL": null
+        },
+        "permissionBasis": "uploader-confirmed-public-redistribution-and-web-playback"
+      },
+      "fileName": "Продюсєр Валєнтін та гурт _Бавовна-бавовна_ презентуюсь треш-суржик-рок композицію. Нема бензину.mp3",
+      "archiveId": "prodyusyer-valyentin-20260927-78d37bea",
+      "collection": "Продюсєр Валєнтін",
+      "collections": [
+        "Продюсєр Валєнтін",
+        "ФПВ"
+      ],
+      "status": "licensed-preview",
+      "listeningApproval": "not-reviewed",
+      "gameCatalogueAdmission": false,
+      "contentId": "unknown",
+      "recordingModeEligible": false,
+      "default": false,
+      "audio": {
+        "path": "objects/d4c98f81662ac285e0c51bac2a4b3851d2c8d78b881df84c9cfdca5641b97239.mp3",
+        "bytes": 2262358,
+        "sha256": "d4c98f81662ac285e0c51bac2a4b3851d2c8d78b881df84c9cfdca5641b97239"
+      },
+      "aliases": []
+    },
+    {
+      "id": "telebachennya-toronto.nytso-potvorno-feat-telebachennya-toronto-fpv-letyt-rusakiv-bombyt-pre",
+      "title": "НИЦО ПОТВОРНО feat ТЕЛЕБАЧЕННЯ ТОРОНТО — FPV летить русаків бомбить💥 ПРЕМ’ЄРА КЛІПУ",
+      "artist": "Телебачення Торонто",
+      "durationSeconds": 115.008435,
+      "tags": [
+        "ФПВ",
+        "UA",
+        "audition",
+        "listening pending"
+      ],
+      "source": "https://www.youtube.com/@uttoronto",
+      "license": "Unknown — uploader-confirmed rights",
+      "licenseURL": null,
+      "credit": "НИЦО ПОТВОРНО feat ТЕЛЕБАЧЕННЯ ТОРОНТО — FPV летить русаків бомбить💥 ПРЕМ’ЄРА КЛІПУ by Телебачення Торонто. Rights confirmed by uploader for public redistribution and web-game playback. Source: https://www.youtube.com/@uttoronto",
+      "rights": {
+        "licenseId": "UNKNOWN",
+        "licenseVersion": null,
+        "licenseURL": null,
+        "rightsEvidenceURL": "https://www.youtube.com/@uttoronto",
+        "attribution": "НИЦО ПОТВОРНО feat ТЕЛЕБАЧЕННЯ ТОРОНТО — FPV летить русаків бомбить💥 ПРЕМ’ЄРА КЛІПУ by Телебачення Торонто. Rights confirmed by uploader for public redistribution and web-game playback. Source: https://www.youtube.com/@uttoronto",
+        "derivativeChangeNotice": "Exact submitted MP3 bytes retained; no archive changes declared.",
+        "shareAlike": {
+          "required": null,
+          "deliveryLicenseId": null,
+          "deliveryLicenseVersion": null,
+          "deliveryLicenseURL": null
+        },
+        "permissionBasis": "uploader-confirmed-public-redistribution-and-web-playback"
+      },
+      "fileName": "Ницо Потворно feat ТЕЛЕБАЧЕННЯ ТОРОНТО — FPV летить русаків бомбить.mp3",
+      "archiveId": "telebachennya-toronto-20260927-417eea94",
+      "collection": "Телебачення Торонто",
+      "collections": [
+        "Телебачення Торонто",
+        "ФПВ"
+      ],
+      "status": "licensed-preview",
+      "listeningApproval": "not-reviewed",
+      "gameCatalogueAdmission": false,
+      "contentId": "unknown",
+      "recordingModeEligible": false,
+      "default": false,
+      "audio": {
+        "path": "objects/417eea94faf4114996886dbcad58e158667df0dd94c497d847eabaf5fc64a9ba.mp3",
+        "bytes": 1923633,
+        "sha256": "417eea94faf4114996886dbcad58e158667df0dd94c497d847eabaf5fc64a9ba"
+      },
+      "aliases": []
+    },
+    {
+      "id": "telebachennya-toronto.shaleniy-fpv-versiya-nytso-potvorno-haytana-cover",
+      "title": "ШАЛЕНІЙ! (FPV-ВЕРСІЯ) — НИЦО ПОТВОРНО (ГАЙТАНА COVER)",
+      "artist": "Телебачення Торонто",
+      "durationSeconds": 142.895601,
+      "tags": [
+        "ФПВ",
+        "UA",
+        "audition",
+        "listening pending"
+      ],
+      "source": "https://www.youtube.com/@uttoronto",
+      "license": "Unknown — uploader-confirmed rights",
+      "licenseURL": null,
+      "credit": "ШАЛЕНІЙ! (FPV-ВЕРСІЯ) — НИЦО ПОТВОРНО (ГАЙТАНА COVER) by Телебачення Торонто. Rights confirmed by uploader for public redistribution and web-game playback. Source: https://www.youtube.com/@uttoronto",
+      "rights": {
+        "licenseId": "UNKNOWN",
+        "licenseVersion": null,
+        "licenseURL": null,
+        "rightsEvidenceURL": "https://www.youtube.com/@uttoronto",
+        "attribution": "ШАЛЕНІЙ! (FPV-ВЕРСІЯ) — НИЦО ПОТВОРНО (ГАЙТАНА COVER) by Телебачення Торонто. Rights confirmed by uploader for public redistribution and web-game playback. Source: https://www.youtube.com/@uttoronto",
+        "derivativeChangeNotice": "Exact submitted MP3 bytes retained; no archive changes declared.",
+        "shareAlike": {
+          "required": null,
+          "deliveryLicenseId": null,
+          "deliveryLicenseVersion": null,
+          "deliveryLicenseURL": null
+        },
+        "permissionBasis": "uploader-confirmed-public-redistribution-and-web-playback"
+      },
+      "fileName": "Телебачення Торонто -  ШАЛЕНІЙ! (FPV-ВЕРСІЯ) — НИЦО ПОТВОРНО (ГАЙТАНА COVER).mp3",
+      "archiveId": "telebachennya-toronto-20260927-417eea94",
+      "collection": "Телебачення Торонто",
+      "collections": [
+        "Телебачення Торонто",
+        "ФПВ"
+      ],
+      "status": "licensed-preview",
+      "listeningApproval": "not-reviewed",
+      "gameCatalogueAdmission": false,
+      "contentId": "unknown",
+      "recordingModeEligible": false,
+      "default": false,
+      "audio": {
+        "path": "objects/50869ac99f181aa46a0a8f0da99216bd45d342dc5fd5e9c8deba2c6f31c41555.mp3",
+        "bytes": 2407272,
+        "sha256": "50869ac99f181aa46a0a8f0da99216bd45d342dc5fd5e9c8deba2c6f31c41555"
+      },
+      "aliases": []
+    },
+    {
+      "id": "yuriy-hromovyy.la-la-la-letyt-miy-dron-bamper-yanovych-hromovyy-tymoshenko-baydak-lyk",
+      "title": "Ла-ла-ла летить мій дрон. Бампер, Янович, Громовий, Тимошенко, Байдак, Лиховида, Цимбалюк, Фелікс.",
+      "artist": "Юрій Громовий",
+      "durationSeconds": 60.000363,
+      "tags": [
+        "ФПВ",
+        "UA",
+        "audition",
+        "listening pending"
+      ],
+      "source": "https://www.youtube.com/@SuperGydron",
+      "license": "Unknown — uploader-confirmed rights",
+      "licenseURL": null,
+      "credit": "Ла-ла-ла летить мій дрон. Бампер, Янович, Громовий, Тимошенко, Байдак, Лиховида, Цимбалюк, Фелікс. by Юрій Громовий. Rights confirmed by uploader for public redistribution and web-game playback. Source: https://www.youtube.com/@SuperGydron",
+      "rights": {
+        "licenseId": "UNKNOWN",
+        "licenseVersion": null,
+        "licenseURL": null,
+        "rightsEvidenceURL": "https://www.youtube.com/@SuperGydron",
+        "attribution": "Ла-ла-ла летить мій дрон. Бампер, Янович, Громовий, Тимошенко, Байдак, Лиховида, Цимбалюк, Фелікс. by Юрій Громовий. Rights confirmed by uploader for public redistribution and web-game playback. Source: https://www.youtube.com/@SuperGydron",
+        "derivativeChangeNotice": "Exact submitted MP3 bytes retained; no archive changes declared.",
+        "shareAlike": {
+          "required": null,
+          "deliveryLicenseId": null,
+          "deliveryLicenseVersion": null,
+          "deliveryLicenseURL": null
+        },
+        "permissionBasis": "uploader-confirmed-public-redistribution-and-web-playback"
+      },
+      "fileName": "Юрій Громовий - Ла-ла-ла летить мій дрон. Бампер, Янович, Громовий, Тимошенко, Байдак, Лиховида, Цимбалюк, Фелікс.mp3",
+      "archiveId": "yuriy-hromovyy-20260927-e2b921d9",
+      "collection": "Ла-ла-ла летить мій дрон. Бампер, Янович, Громовий, Тимошенко, Байдак, Лиховида, Цимбалюк, Фелікс.",
+      "collections": [
+        "Ла-ла-ла летить мій дрон. Бампер, Янович, Громовий, Тимошенко, Байдак, Лиховида, Цимбалюк, Фелікс.",
+        "Юрій Громовий",
+        "ФПВ"
+      ],
+      "status": "licensed-preview",
+      "listeningApproval": "not-reviewed",
+      "gameCatalogueAdmission": false,
+      "contentId": "unknown",
+      "recordingModeEligible": false,
+      "default": false,
+      "audio": {
+        "path": "objects/e2b921d96d021eb8199309a5cd7baed82e5ad2405673f16ee43b0366332d317a.mp3",
+        "bytes": 1081178,
+        "sha256": "e2b921d96d021eb8199309a5cd7baed82e5ad2405673f16ee43b0366332d317a"
+      },
+      "aliases": []
+    },
+    {
+      "id": "414-ptakhy-madyara.414-ptakhy-madyara-lehendarni-stalevi-ptakhy-proty-khrobakiv",
+      "title": "414 Птахи Мадяра - легендарні Сталеві Птахи проти хробаків",
+      "artist": "414 Птахи Мадяра",
+      "durationSeconds": 258.902494,
+      "tags": [
+        "ФПВ",
+        "UA",
+        "audition",
+        "listening pending"
+      ],
+      "source": "https://www.youtube.com/@414pm",
+      "license": "Unknown — uploader-confirmed rights",
+      "licenseURL": null,
+      "credit": "414 Птахи Мадяра - легендарні Сталеві Птахи проти хробаків by 414 Птахи Мадяра. Rights confirmed by uploader for public redistribution and web-game playback. Source: https://www.youtube.com/@414pm",
+      "rights": {
+        "licenseId": "UNKNOWN",
+        "licenseVersion": null,
+        "licenseURL": null,
+        "rightsEvidenceURL": "https://www.youtube.com/@414pm",
+        "attribution": "414 Птахи Мадяра - легендарні Сталеві Птахи проти хробаків by 414 Птахи Мадяра. Rights confirmed by uploader for public redistribution and web-game playback. Source: https://www.youtube.com/@414pm",
+        "derivativeChangeNotice": "Exact submitted MP3 bytes retained; no archive changes declared.",
+        "shareAlike": {
+          "required": null,
+          "deliveryLicenseId": null,
+          "deliveryLicenseVersion": null,
+          "deliveryLicenseURL": null
+        },
+        "permissionBasis": "uploader-confirmed-public-redistribution-and-web-playback"
+      },
+      "fileName": "414 Птахи Мадяра - легендарні Сталеві Птахи проти хробаків.mp3",
+      "archiveId": "414-ptakhy-madyara-20260927-1b2bf1f9",
+      "collection": "414 Птахи Мадяра - легендарні Сталеві Птахи проти хробаків",
+      "collections": [
+        "414 Птахи Мадяра - легендарні Сталеві Птахи проти хробаків",
+        "414 Птахи Мадяра",
+        "ФПВ"
+      ],
+      "status": "licensed-preview",
+      "listeningApproval": "not-reviewed",
+      "gameCatalogueAdmission": false,
+      "contentId": "unknown",
+      "recordingModeEligible": false,
+      "default": false,
+      "audio": {
+        "path": "objects/1b2bf1f95d104f09b7a8ff0c176d40604210e7b4387ee5478d8b751af862ae03.mp3",
+        "bytes": 4232151,
+        "sha256": "1b2bf1f95d104f09b7a8ff0c176d40604210e7b4387ee5478d8b751af862ae03"
+      },
+      "aliases": []
+    },
+    {
+      "id": "a-m-ukrainian.ai-cover-fpv-dron-sonet",
+      "title": "(AI COVER) FPV  дрон. Сонет.",
+      "artist": "A'm Ukrainian",
+      "durationSeconds": 138.41415,
+      "tags": [
+        "ФПВ",
+        "UA",
+        "audition",
+        "listening pending"
+      ],
+      "source": "https://www.youtube.com/@amukrainian653",
+      "license": "Unknown — uploader-confirmed rights",
+      "licenseURL": null,
+      "credit": "(AI COVER) FPV  дрон. Сонет. by A'm Ukrainian. Rights confirmed by uploader for public redistribution and web-game playback. Source: https://www.youtube.com/@amukrainian653",
+      "rights": {
+        "licenseId": "UNKNOWN",
+        "licenseVersion": null,
+        "licenseURL": null,
+        "rightsEvidenceURL": "https://www.youtube.com/@amukrainian653",
+        "attribution": "(AI COVER) FPV  дрон. Сонет. by A'm Ukrainian. Rights confirmed by uploader for public redistribution and web-game playback. Source: https://www.youtube.com/@amukrainian653",
+        "derivativeChangeNotice": "Exact submitted MP3 bytes retained; no archive changes declared.",
+        "shareAlike": {
+          "required": null,
+          "deliveryLicenseId": null,
+          "deliveryLicenseVersion": null,
+          "deliveryLicenseURL": null
+        },
+        "permissionBasis": "uploader-confirmed-public-redistribution-and-web-playback"
+      },
+      "fileName": "A'm Ukrainian - Родвін - (AI COVER) FPV  дрон. Сонет. Пісня на вірш _FPV  дрон. Сонет.mp3",
+      "archiveId": "a-m-ukrainian-20260927-45812cca",
+      "collection": "(AI COVER) FPV  дрон. Сонет.",
+      "collections": [
+        "(AI COVER) FPV  дрон. Сонет.",
+        "A'm Ukrainian",
+        "ФПВ"
+      ],
+      "status": "licensed-preview",
+      "listeningApproval": "not-reviewed",
+      "gameCatalogueAdmission": false,
+      "contentId": "unknown",
+      "recordingModeEligible": false,
+      "default": false,
+      "audio": {
+        "path": "objects/45812cca6e1bf70fbf5f1df5f9c104730c9a88a89b26c284d83437d14c985b18.mp3",
+        "bytes": 2297760,
+        "sha256": "45812cca6e1bf70fbf5f1df5f9c104730c9a88a89b26c284d83437d14c985b18"
+      },
+      "aliases": []
+    },
+    {
+      "id": "alexbust-co.operator-fpv",
+      "title": "Оператор \"FPV\"",
+      "artist": "AlexBust & Co",
+      "durationSeconds": 184.52898,
+      "tags": [
+        "ФПВ",
+        "UA",
+        "audition",
+        "listening pending"
+      ],
+      "source": "https://www.youtube.com/@AlexBustCompany",
+      "license": "Unknown — uploader-confirmed rights",
+      "licenseURL": null,
+      "credit": "Оператор \"FPV\" by AlexBust & Co. Rights confirmed by uploader for public redistribution and web-game playback. Source: https://www.youtube.com/@AlexBustCompany",
+      "rights": {
+        "licenseId": "UNKNOWN",
+        "licenseVersion": null,
+        "licenseURL": null,
+        "rightsEvidenceURL": "https://www.youtube.com/@AlexBustCompany",
+        "attribution": "Оператор \"FPV\" by AlexBust & Co. Rights confirmed by uploader for public redistribution and web-game playback. Source: https://www.youtube.com/@AlexBustCompany",
+        "derivativeChangeNotice": "Exact submitted MP3 bytes retained; no archive changes declared.",
+        "shareAlike": {
+          "required": null,
+          "deliveryLicenseId": null,
+          "deliveryLicenseVersion": null,
+          "deliveryLicenseURL": null
+        },
+        "permissionBasis": "uploader-confirmed-public-redistribution-and-web-playback"
+      },
+      "fileName": "AlexBust & Co - Оператор FPV.mp3",
+      "archiveId": "alexbust-co-20260927-3935a131",
+      "collection": "Оператор \"FPV\"",
+      "collections": [
+        "Оператор \"FPV\"",
+        "AlexBust & Co",
+        "ФПВ"
+      ],
+      "status": "licensed-preview",
+      "listeningApproval": "not-reviewed",
+      "gameCatalogueAdmission": false,
+      "contentId": "unknown",
+      "recordingModeEligible": false,
+      "default": false,
+      "audio": {
+        "path": "objects/3935a1314f133f4b4e3029f27329e52eff72245e0961787cbdc2e48ad01b0783.mp3",
+        "bytes": 3205232,
+        "sha256": "3935a1314f133f4b4e3029f27329e52eff72245e0961787cbdc2e48ad01b0783"
+      },
+      "aliases": []
+    },
+    {
+      "id": "dushevniy.operator-fpv-drona-radio-edit",
+      "title": "Оператор FPV дрона (Radio Edit)",
+      "artist": "DUSHEVNIY",
+      "durationSeconds": 112.80254,
+      "tags": [
+        "ФПВ",
+        "UA",
+        "audition",
+        "listening pending"
+      ],
+      "source": "https://www.youtube.com/channel/UCyfhGVJeiO6Rha5nhUzdxjg",
+      "license": "Unknown — uploader-confirmed rights",
+      "licenseURL": null,
+      "credit": "Оператор FPV дрона (Radio Edit) by DUSHEVNIY. Rights confirmed by uploader for public redistribution and web-game playback. Source: https://www.youtube.com/channel/UCyfhGVJeiO6Rha5nhUzdxjg",
+      "rights": {
+        "licenseId": "UNKNOWN",
+        "licenseVersion": null,
+        "licenseURL": null,
+        "rightsEvidenceURL": "https://www.youtube.com/channel/UCyfhGVJeiO6Rha5nhUzdxjg",
+        "attribution": "Оператор FPV дрона (Radio Edit) by DUSHEVNIY. Rights confirmed by uploader for public redistribution and web-game playback. Source: https://www.youtube.com/channel/UCyfhGVJeiO6Rha5nhUzdxjg",
+        "derivativeChangeNotice": "Exact submitted MP3 bytes retained; no archive changes declared.",
+        "shareAlike": {
+          "required": null,
+          "deliveryLicenseId": null,
+          "deliveryLicenseVersion": null,
+          "deliveryLicenseURL": null
+        },
+        "permissionBasis": "uploader-confirmed-public-redistribution-and-web-playback"
+      },
+      "fileName": "DUSHEVNIY - Оператор FPV дрона (Radio Edit).mp3",
+      "archiveId": "dushevniy-20260927-e3de7914",
+      "collection": "Оператор FPV дрона (Radio Edit)",
+      "collections": [
+        "Оператор FPV дрона (Radio Edit)",
+        "DUSHEVNIY",
+        "ФПВ"
+      ],
+      "status": "licensed-preview",
+      "listeningApproval": "not-reviewed",
+      "gameCatalogueAdmission": false,
+      "contentId": "unknown",
+      "recordingModeEligible": false,
+      "default": false,
+      "audio": {
+        "path": "objects/e3de791418e27e1b0414ff0ff1973e94c86507a9ecfb3c8037a81e9f212cfac1.mp3",
+        "bytes": 1738417,
+        "sha256": "e3de791418e27e1b0414ff0ff1973e94c86507a9ecfb3c8037a81e9f212cfac1"
+      },
+      "aliases": []
+    },
+    {
+      "id": "expert-ukrainian-hits.dron-pes-ukrayinski-khity-ukrayinska-muzyka",
+      "title": "\"Дрон пес\" українські хіти 🇺🇦 українська музика",
+      "artist": "Expert-Ukrainian hits",
+      "durationSeconds": 73.049977,
+      "tags": [
+        "ФПВ",
+        "UA",
+        "audition",
+        "listening pending"
+      ],
+      "source": "https://www.youtube.com/@Expert-UkrainianHits",
+      "license": "Unknown — uploader-confirmed rights",
+      "licenseURL": null,
+      "credit": "\"Дрон пес\" українські хіти 🇺🇦 українська музика by Expert-Ukrainian hits. Rights confirmed by uploader for public redistribution and web-game playback. Source: https://www.youtube.com/@Expert-UkrainianHits",
+      "rights": {
+        "licenseId": "UNKNOWN",
+        "licenseVersion": null,
+        "licenseURL": null,
+        "rightsEvidenceURL": "https://www.youtube.com/@Expert-UkrainianHits",
+        "attribution": "\"Дрон пес\" українські хіти 🇺🇦 українська музика by Expert-Ukrainian hits. Rights confirmed by uploader for public redistribution and web-game playback. Source: https://www.youtube.com/@Expert-UkrainianHits",
+        "derivativeChangeNotice": "Exact submitted MP3 bytes retained; no archive changes declared.",
+        "shareAlike": {
+          "required": null,
+          "deliveryLicenseId": null,
+          "deliveryLicenseVersion": null,
+          "deliveryLicenseURL": null
+        },
+        "permissionBasis": "uploader-confirmed-public-redistribution-and-web-playback"
+      },
+      "fileName": "Expert-Ukrainian hits - Дрон пес - українські хіти.mp3",
+      "archiveId": "expert-ukrainian-hits-20260927-00139528",
+      "collection": "\"Дрон пес\" українські хіти 🇺🇦 українська музика",
+      "collections": [
+        "\"Дрон пес\" українські хіти 🇺🇦 українська музика",
+        "Expert-Ukrainian hits",
+        "ФПВ"
+      ],
+      "status": "licensed-preview",
+      "listeningApproval": "not-reviewed",
+      "gameCatalogueAdmission": false,
+      "contentId": "unknown",
+      "recordingModeEligible": false,
+      "default": false,
+      "audio": {
+        "path": "objects/00139528c586b94a332b2038fce86a5f21f1bab25cd79145a705d6351f02eab6.mp3",
+        "bytes": 1360427,
+        "sha256": "00139528c586b94a332b2038fce86a5f21f1bab25cd79145a705d6351f02eab6"
+      },
+      "aliases": []
+    },
+    {
+      "id": "maestroshadow777.nova-avtorska-pisnya-oy-letily-drony-sbu-new-original-song-oh-the-ssu",
+      "title": "Нова авторська пісня Ой летіли дрони СБУ, New original song Oh, the SSU drones were flying",
+      "artist": "MaestroShadow777",
+      "durationSeconds": 233.685624,
+      "tags": [
+        "ФПВ",
+        "UA",
+        "audition",
+        "listening pending"
+      ],
+      "source": "https://www.youtube.com/@MaestroShadow777KWG",
+      "license": "Unknown — uploader-confirmed rights",
+      "licenseURL": null,
+      "credit": "Нова авторська пісня Ой летіли дрони СБУ, New original song Oh, the SSU drones were flying by MaestroShadow777. Rights confirmed by uploader for public redistribution and web-game playback. Source: https://www.youtube.com/@MaestroShadow777KWG",
+      "rights": {
+        "licenseId": "UNKNOWN",
+        "licenseVersion": null,
+        "licenseURL": null,
+        "rightsEvidenceURL": "https://www.youtube.com/@MaestroShadow777KWG",
+        "attribution": "Нова авторська пісня Ой летіли дрони СБУ, New original song Oh, the SSU drones were flying by MaestroShadow777. Rights confirmed by uploader for public redistribution and web-game playback. Source: https://www.youtube.com/@MaestroShadow777KWG",
+        "derivativeChangeNotice": "Exact submitted MP3 bytes retained; no archive changes declared.",
+        "shareAlike": {
+          "required": null,
+          "deliveryLicenseId": null,
+          "deliveryLicenseVersion": null,
+          "deliveryLicenseURL": null
+        },
+        "permissionBasis": "uploader-confirmed-public-redistribution-and-web-playback"
+      },
+      "fileName": "MaestroShadow777 -  Ой летіли дрони СБУ.mp3",
+      "archiveId": "maestroshadow777-20260927-cfaf7030",
+      "collection": "Нова авторська пісня Ой летіли дрони СБУ, New original song Oh, the SSU drones were flying",
+      "collections": [
+        "Нова авторська пісня Ой летіли дрони СБУ, New original song Oh, the SSU drones were flying",
+        "MaestroShadow777",
+        "ФПВ"
+      ],
+      "status": "licensed-preview",
+      "listeningApproval": "not-reviewed",
+      "gameCatalogueAdmission": false,
+      "contentId": "unknown",
+      "recordingModeEligible": false,
+      "default": false,
+      "audio": {
+        "path": "objects/cfaf70305e6f9356f89b3696c7e30e746965275d592066f3108dc35edd8c1a1a.mp3",
+        "bytes": 3985678,
+        "sha256": "cfaf70305e6f9356f89b3696c7e30e746965275d592066f3108dc35edd8c1a1a"
+      },
+      "aliases": []
+    },
+    {
+      "id": "neuronenko.neuronenko-ukrayinskyy-fpv-dron-pisnya-pro-ukrayinskykh-heroyiv-i-nysh",
+      "title": "Neuronenko — Український FPV-дрон | Пісня про українських героїв і нищення ворога | Патріотичний хіт",
+      "artist": "Neuronenko",
+      "durationSeconds": 214.018322,
+      "tags": [
+        "ФПВ",
+        "UA",
+        "audition",
+        "listening pending"
+      ],
+      "source": "https://www.youtube.com/@Neuronenko",
+      "license": "Unknown — uploader-confirmed rights",
+      "licenseURL": null,
+      "credit": "Neuronenko — Український FPV-дрон | Пісня про українських героїв і нищення ворога | Патріотичний хіт by Neuronenko. Rights confirmed by uploader for public redistribution and web-game playback. Source: https://www.youtube.com/@Neuronenko",
+      "rights": {
+        "licenseId": "UNKNOWN",
+        "licenseVersion": null,
+        "licenseURL": null,
+        "rightsEvidenceURL": "https://www.youtube.com/@Neuronenko",
+        "attribution": "Neuronenko — Український FPV-дрон | Пісня про українських героїв і нищення ворога | Патріотичний хіт by Neuronenko. Rights confirmed by uploader for public redistribution and web-game playback. Source: https://www.youtube.com/@Neuronenko",
+        "derivativeChangeNotice": "Exact submitted MP3 bytes retained; no archive changes declared.",
+        "shareAlike": {
+          "required": null,
+          "deliveryLicenseId": null,
+          "deliveryLicenseVersion": null,
+          "deliveryLicenseURL": null
+        },
+        "permissionBasis": "uploader-confirmed-public-redistribution-and-web-playback"
+      },
+      "fileName": "Neuronenko — Український FPV-дрон.mp3",
+      "archiveId": "neuronenko-20260927-bc0a38df",
+      "collection": "Neuronenko — Український FPV-дрон | Пісня про українських героїв і нищення ворога | Патріотичний хіт",
+      "collections": [
+        "Neuronenko — Український FPV-дрон | Пісня про українських героїв і нищення ворога | Патріотичний хіт",
+        "Neuronenko",
+        "ФПВ"
+      ],
+      "status": "licensed-preview",
+      "listeningApproval": "not-reviewed",
+      "gameCatalogueAdmission": false,
+      "contentId": "unknown",
+      "recordingModeEligible": false,
+      "default": false,
+      "audio": {
+        "path": "objects/bc0a38dfb8228dd25afd469c20b4d0471ba22bd9e3c4140736c8b5b13320d384.mp3",
+        "bytes": 3692480,
+        "sha256": "bc0a38dfb8228dd25afd469c20b4d0471ba22bd9e3c4140736c8b5b13320d384"
+      },
+      "aliases": []
+    },
+    {
+      "id": "postman-dity-razom-z-ivanom-marunychem-ta-oleksandrom-polozhynskym.milyon-na-dron-dity-razom-z-ivanom-marunychem-ta-oleksandrom-polozhyns",
+      "title": "Мільйон на дрон: діти разом з Іваном Маруничем та Олександром Положинським збирають на Перемогу",
+      "artist": "Postman, діти разом з Іваном Маруничем та Олександром Положинським",
+      "durationSeconds": 117.051791,
+      "tags": [
+        "ФПВ",
+        "UA",
+        "audition",
+        "listening pending"
+      ],
+      "source": "https://www.youtube.com/@postmenUA",
+      "license": "Unknown — uploader-confirmed rights",
+      "licenseURL": null,
+      "credit": "Мільйон на дрон: діти разом з Іваном Маруничем та Олександром Положинським збирають на Перемогу by Postman, діти разом з Іваном Маруничем та Олександром Положинським. Rights confirmed by uploader for public redistribution and web-game playback. Source: https://www.youtube.com/@postmenUA",
+      "rights": {
+        "licenseId": "UNKNOWN",
+        "licenseVersion": null,
+        "licenseURL": null,
+        "rightsEvidenceURL": "https://www.youtube.com/@postmenUA",
+        "attribution": "Мільйон на дрон: діти разом з Іваном Маруничем та Олександром Положинським збирають на Перемогу by Postman, діти разом з Іваном Маруничем та Олександром Положинським. Rights confirmed by uploader for public redistribution and web-game playback. Source: https://www.youtube.com/@postmenUA",
+        "derivativeChangeNotice": "Exact submitted MP3 bytes retained; no archive changes declared.",
+        "shareAlike": {
+          "required": null,
+          "deliveryLicenseId": null,
+          "deliveryLicenseVersion": null,
+          "deliveryLicenseURL": null
+        },
+        "permissionBasis": "uploader-confirmed-public-redistribution-and-web-playback"
+      },
+      "fileName": "Postman, діти разом з Іваном Маруничем та Олександром Положинським збирають на Перемогу - Мільйон на дрон.mp3",
+      "archiveId": "postman-20260927-0ebf9e84",
+      "collection": "Мільйон на дрон: діти разом з Іваном Маруничем та Олександром Положинським збирають на Перемогу",
+      "collections": [
+        "Мільйон на дрон: діти разом з Іваном Маруничем та Олександром Положинським збирають на Перемогу",
+        "Postman",
+        "діти разом з Іваном Маруничем та Олександром Положинським",
+        "ФПВ"
+      ],
+      "status": "licensed-preview",
+      "listeningApproval": "not-reviewed",
+      "gameCatalogueAdmission": false,
+      "contentId": "unknown",
+      "recordingModeEligible": false,
+      "default": false,
+      "audio": {
+        "path": "objects/0ebf9e84567743acd38453df6d8ce3d3800987ca7aa13a3374524e24902c3e83.mp3",
+        "bytes": 2179335,
+        "sha256": "0ebf9e84567743acd38453df6d8ce3d3800987ca7aa13a3374524e24902c3e83"
+      },
+      "aliases": []
+    },
+    {
+      "id": "ruslan-nota.oy-letiv-do-orkiv-dron",
+      "title": "Ой летів до орків дрон",
+      "artist": "Ruslan Nota",
+      "durationSeconds": 159.381769,
+      "tags": [
+        "ФПВ",
+        "UA",
+        "audition",
+        "listening pending"
+      ],
+      "source": "https://www.youtube.com/channel/UCE7UN5L5TLd0Y-Vz_ASfllA",
+      "license": "Unknown — uploader-confirmed rights",
+      "licenseURL": null,
+      "credit": "Ой летів до орків дрон by Ruslan Nota. Rights confirmed by uploader for public redistribution and web-game playback. Source: https://www.youtube.com/channel/UCE7UN5L5TLd0Y-Vz_ASfllA",
+      "rights": {
+        "licenseId": "UNKNOWN",
+        "licenseVersion": null,
+        "licenseURL": null,
+        "rightsEvidenceURL": "https://www.youtube.com/channel/UCE7UN5L5TLd0Y-Vz_ASfllA",
+        "attribution": "Ой летів до орків дрон by Ruslan Nota. Rights confirmed by uploader for public redistribution and web-game playback. Source: https://www.youtube.com/channel/UCE7UN5L5TLd0Y-Vz_ASfllA",
+        "derivativeChangeNotice": "Exact submitted MP3 bytes retained; no archive changes declared.",
+        "shareAlike": {
+          "required": null,
+          "deliveryLicenseId": null,
+          "deliveryLicenseVersion": null,
+          "deliveryLicenseURL": null
+        },
+        "permissionBasis": "uploader-confirmed-public-redistribution-and-web-playback"
+      },
+      "fileName": "Ruslan Nota - Ой летів до орків дрон.mp3",
+      "archiveId": "ruslan-nota-20260927-e25a39ca",
+      "collection": "Ой летів до орків дрон",
+      "collections": [
+        "Ой летів до орків дрон",
+        "Ruslan Nota",
+        "ФПВ"
+      ],
+      "status": "licensed-preview",
+      "listeningApproval": "not-reviewed",
+      "gameCatalogueAdmission": false,
+      "contentId": "unknown",
+      "recordingModeEligible": false,
+      "default": false,
+      "audio": {
+        "path": "objects/e25a39ca1833313f09bc9bcbd95e6e9214fa4f38707111f7cc0f2b3c1a1d20c8.mp3",
+        "bytes": 2780789,
+        "sha256": "e25a39ca1833313f09bc9bcbd95e6e9214fa4f38707111f7cc0f2b3c1a1d20c8"
+      },
+      "aliases": []
+    },
+    {
+      "id": "siva.siva-moskalskyy-cherep-pisnya-serhiya-sivachenka",
+      "title": "SIVA - Москальський Череп (пісня Сергія Сіваченка)",
+      "artist": "SIVA",
+      "durationSeconds": 189.080091,
+      "tags": [
+        "ФПВ",
+        "UA",
+        "audition",
+        "listening pending"
+      ],
+      "source": "https://www.youtube.com/@SIVA_UA",
+      "license": "Unknown — uploader-confirmed rights",
+      "licenseURL": null,
+      "credit": "SIVA - Москальський Череп (пісня Сергія Сіваченка) by SIVA. Rights confirmed by uploader for public redistribution and web-game playback. Source: https://www.youtube.com/@SIVA_UA",
+      "rights": {
+        "licenseId": "UNKNOWN",
+        "licenseVersion": null,
+        "licenseURL": null,
+        "rightsEvidenceURL": "https://www.youtube.com/@SIVA_UA",
+        "attribution": "SIVA - Москальський Череп (пісня Сергія Сіваченка) by SIVA. Rights confirmed by uploader for public redistribution and web-game playback. Source: https://www.youtube.com/@SIVA_UA",
+        "derivativeChangeNotice": "Exact submitted MP3 bytes retained; no archive changes declared.",
+        "shareAlike": {
+          "required": null,
+          "deliveryLicenseId": null,
+          "deliveryLicenseVersion": null,
+          "deliveryLicenseURL": null
+        },
+        "permissionBasis": "uploader-confirmed-public-redistribution-and-web-playback"
+      },
+      "fileName": "SIVA - Москальський Череп (пісня Сергія Сіваченка).mp3",
+      "archiveId": "siva-20260927-5f622aad",
+      "collection": "SIVA - Москальський Череп (пісня Сергія Сіваченка)",
+      "collections": [
+        "SIVA - Москальський Череп (пісня Сергія Сіваченка)",
+        "SIVA",
+        "ФПВ"
+      ],
+      "status": "licensed-preview",
+      "listeningApproval": "not-reviewed",
+      "gameCatalogueAdmission": false,
+      "contentId": "unknown",
+      "recordingModeEligible": false,
+      "default": false,
+      "audio": {
+        "path": "objects/5f622aad63e879cfde758aaf14420981dccdea923383d0f9ac8e328c61317dc5.mp3",
+        "bytes": 3168560,
+        "sha256": "5f622aad63e879cfde758aaf14420981dccdea923383d0f9ac8e328c61317dc5"
+      },
+      "aliases": []
+    },
+    {
+      "id": "ukrainian-tik-tok.zakyn-na-donat-donat-bambam-zsudonat-viyskovyyhumor",
+      "title": "Закинь на донат 💸 #донат #бамбам #зсудонат #військовийгумор",
+      "artist": "Ukrainian Tik Tok",
+      "durationSeconds": 15.25551,
+      "tags": [
+        "ФПВ",
+        "UA",
+        "audition",
+        "listening pending"
+      ],
+      "source": "https://www.youtube.com/@ukrainiantiktok",
+      "license": "Unknown — uploader-confirmed rights",
+      "licenseURL": null,
+      "credit": "Закинь на донат 💸 #донат #бамбам #зсудонат #військовийгумор by Ukrainian Tik Tok. Rights confirmed by uploader for public redistribution and web-game playback. Source: https://www.youtube.com/@ukrainiantiktok",
+      "rights": {
+        "licenseId": "UNKNOWN",
+        "licenseVersion": null,
+        "licenseURL": null,
+        "rightsEvidenceURL": "https://www.youtube.com/@ukrainiantiktok",
+        "attribution": "Закинь на донат 💸 #донат #бамбам #зсудонат #військовийгумор by Ukrainian Tik Tok. Rights confirmed by uploader for public redistribution and web-game playback. Source: https://www.youtube.com/@ukrainiantiktok",
+        "derivativeChangeNotice": "Exact submitted MP3 bytes retained; no archive changes declared.",
+        "shareAlike": {
+          "required": null,
+          "deliveryLicenseId": null,
+          "deliveryLicenseVersion": null,
+          "deliveryLicenseURL": null
+        },
+        "permissionBasis": "uploader-confirmed-public-redistribution-and-web-playback"
+      },
+      "fileName": "Ukrainian Tik Tok - Закинь на донат.mp3",
+      "archiveId": "ukrainian-tik-tok-20260927-3d8d157d",
+      "collection": "Закинь на донат 💸 #донат #бамбам #зсудонат #військовийгумор",
+      "collections": [
+        "Закинь на донат 💸 #донат #бамбам #зсудонат #військовийгумор",
+        "Ukrainian Tik Tok",
+        "ФПВ"
+      ],
+      "status": "licensed-preview",
+      "listeningApproval": "not-reviewed",
+      "gameCatalogueAdmission": false,
+      "contentId": "unknown",
+      "recordingModeEligible": false,
+      "default": false,
+      "audio": {
+        "path": "objects/3d8d157da92cc88668f0c661456e4f9239646dbf5a987dce17e010c86558a64b.mp3",
+        "bytes": 340466,
+        "sha256": "3d8d157da92cc88668f0c661456e4f9239646dbf5a987dce17e010c86558a64b"
+      },
+      "aliases": []
+    },
+    {
+      "id": "vitold-ua-band-feat-black-d.vitold-band-feat-black-d-drakaris-muzychnyy-klip-do-video-dron-drakon",
+      "title": "VITOLD Band Feat Black D - Дракаріс. Музичний кліп до відео \"Дрон-Дракон\".",
+      "artist": "VITOLD UA Band Feat Black D",
+      "durationSeconds": 201.340227,
+      "tags": [
+        "ФПВ",
+        "UA",
+        "audition",
+        "listening pending"
+      ],
+      "source": "https://www.youtube.com/@vitold_ua",
+      "license": "Unknown — uploader-confirmed rights",
+      "licenseURL": null,
+      "credit": "VITOLD Band Feat Black D - Дракаріс. Музичний кліп до відео \"Дрон-Дракон\". by VITOLD UA Band Feat Black D. Rights confirmed by uploader for public redistribution and web-game playback. Source: https://www.youtube.com/@vitold_ua",
+      "rights": {
+        "licenseId": "UNKNOWN",
+        "licenseVersion": null,
+        "licenseURL": null,
+        "rightsEvidenceURL": "https://www.youtube.com/@vitold_ua",
+        "attribution": "VITOLD Band Feat Black D - Дракаріс. Музичний кліп до відео \"Дрон-Дракон\". by VITOLD UA Band Feat Black D. Rights confirmed by uploader for public redistribution and web-game playback. Source: https://www.youtube.com/@vitold_ua",
+        "derivativeChangeNotice": "Exact submitted MP3 bytes retained; no archive changes declared.",
+        "shareAlike": {
+          "required": null,
+          "deliveryLicenseId": null,
+          "deliveryLicenseVersion": null,
+          "deliveryLicenseURL": null
+        },
+        "permissionBasis": "uploader-confirmed-public-redistribution-and-web-playback"
+      },
+      "fileName": "VITOLD UA Band Feat Black D - Дракаріс.mp3",
+      "archiveId": "vitold-ua-band-feat-black-d-20260927-ef37e316",
+      "collection": "VITOLD Band Feat Black D - Дракаріс. Музичний кліп до відео \"Дрон-Дракон\".",
+      "collections": [
+        "VITOLD Band Feat Black D - Дракаріс. Музичний кліп до відео \"Дрон-Дракон\".",
+        "VITOLD UA Band Feat Black D",
+        "ФПВ"
+      ],
+      "status": "licensed-preview",
+      "listeningApproval": "not-reviewed",
+      "gameCatalogueAdmission": false,
+      "contentId": "unknown",
+      "recordingModeEligible": false,
+      "default": false,
+      "audio": {
+        "path": "objects/ef37e31610e6fd4723c82319f34cad07c4cbb902a494a1f468bf16990d1ed64a.mp3",
+        "bytes": 3287583,
+        "sha256": "ef37e31610e6fd4723c82319f34cad07c4cbb902a494a1f468bf16990d1ed64a"
+      },
+      "aliases": []
+    },
+    {
+      "id": "zababura.zababura-tsey-dron-tsey-dron-za-motyvamy-pisni-tsey-son-stepana-hihy",
+      "title": "Zababura - Цей дрон, цей дрон (за мотивами пісні \"Цей сон\" Степана Гіги)",
+      "artist": "Zababura",
+      "durationSeconds": 107.48517,
+      "tags": [
+        "ФПВ",
+        "UA",
+        "audition",
+        "listening pending"
+      ],
+      "source": "https://www.youtube.com/@zababura",
+      "license": "Unknown — uploader-confirmed rights",
+      "licenseURL": null,
+      "credit": "Zababura - Цей дрон, цей дрон (за мотивами пісні \"Цей сон\" Степана Гіги) by Zababura. Rights confirmed by uploader for public redistribution and web-game playback. Source: https://www.youtube.com/@zababura",
+      "rights": {
+        "licenseId": "UNKNOWN",
+        "licenseVersion": null,
+        "licenseURL": null,
+        "rightsEvidenceURL": "https://www.youtube.com/@zababura",
+        "attribution": "Zababura - Цей дрон, цей дрон (за мотивами пісні \"Цей сон\" Степана Гіги) by Zababura. Rights confirmed by uploader for public redistribution and web-game playback. Source: https://www.youtube.com/@zababura",
+        "derivativeChangeNotice": "Exact submitted MP3 bytes retained; no archive changes declared.",
+        "shareAlike": {
+          "required": null,
+          "deliveryLicenseId": null,
+          "deliveryLicenseVersion": null,
+          "deliveryLicenseURL": null
+        },
+        "permissionBasis": "uploader-confirmed-public-redistribution-and-web-playback"
+      },
+      "fileName": "Zababura - Цей дрон, цей дрон (за мотивами пісні _Цей сон_ Степана Гіги).mp3",
+      "archiveId": "zababura-20260927-222a3a77",
+      "collection": "Zababura - Цей дрон, цей дрон (за мотивами пісні \"Цей сон\" Степана Гіги)",
+      "collections": [
+        "Zababura - Цей дрон, цей дрон (за мотивами пісні \"Цей сон\" Степана Гіги)",
+        "Zababura",
+        "ФПВ"
+      ],
+      "status": "licensed-preview",
+      "listeningApproval": "not-reviewed",
+      "gameCatalogueAdmission": false,
+      "contentId": "unknown",
+      "recordingModeEligible": false,
+      "default": false,
+      "audio": {
+        "path": "objects/222a3a770ba96401eab824e82b93c8a5d3ed2f7ae02730d83f232cff6e960b3e.mp3",
+        "bytes": 1673895,
+        "sha256": "222a3a770ba96401eab824e82b93c8a5d3ed2f7ae02730d83f232cff6e960b3e"
+      },
+      "aliases": []
+    },
+    {
+      "id": "andriy-matsevko.dron-andriymatsevko-o1t",
+      "title": "Дрон    @АндрійМацевко-о1т",
+      "artist": "Андрій Мацевко",
+      "durationSeconds": 218.685533,
+      "tags": [
+        "ФПВ",
+        "UA",
+        "audition",
+        "listening pending"
+      ],
+      "source": "https://www.youtube.com/@АндрійМацевко-о1т",
+      "license": "Unknown — uploader-confirmed rights",
+      "licenseURL": null,
+      "credit": "Дрон    @АндрійМацевко-о1т by Андрій Мацевко. Rights confirmed by uploader for public redistribution and web-game playback. Source: https://www.youtube.com/@АндрійМацевко-о1т",
+      "rights": {
+        "licenseId": "UNKNOWN",
+        "licenseVersion": null,
+        "licenseURL": null,
+        "rightsEvidenceURL": "https://www.youtube.com/@АндрійМацевко-о1т",
+        "attribution": "Дрон    @АндрійМацевко-о1т by Андрій Мацевко. Rights confirmed by uploader for public redistribution and web-game playback. Source: https://www.youtube.com/@АндрійМацевко-о1т",
+        "derivativeChangeNotice": "Exact submitted MP3 bytes retained; no archive changes declared.",
+        "shareAlike": {
+          "required": null,
+          "deliveryLicenseId": null,
+          "deliveryLicenseVersion": null,
+          "deliveryLicenseURL": null
+        },
+        "permissionBasis": "uploader-confirmed-public-redistribution-and-web-playback"
+      },
+      "fileName": "Андрій Мацевко - Дрон.mp3",
+      "archiveId": "andriy-matsevko-20260927-7af03535",
+      "collection": "Дрон    @АндрійМацевко-о1т",
+      "collections": [
+        "Дрон    @АндрійМацевко-о1т",
+        "Андрій Мацевко",
+        "ФПВ"
+      ],
+      "status": "licensed-preview",
+      "listeningApproval": "not-reviewed",
+      "gameCatalogueAdmission": false,
+      "contentId": "unknown",
+      "recordingModeEligible": false,
+      "default": false,
+      "audio": {
+        "path": "objects/7af03535606e776b446ba77db57a184890b9094d3341b9a30660705c14fcf8e0.mp3",
+        "bytes": 4269235,
+        "sha256": "7af03535606e776b446ba77db57a184890b9094d3341b9a30660705c14fcf8e0"
+      },
+      "aliases": []
+    },
+    {
+      "id": "hurt-dno-medovyy-polyn-mukha-mukhych.hurt-dno-medovyy-polyn-mukha-mukhych-rehi-dron",
+      "title": "гурт дно, медовий полин, муха мухич - регі дрон",
+      "artist": "Гурт Дно, медовий полин, муха мухич",
+      "durationSeconds": 165.140317,
+      "tags": [
+        "ФПВ",
+        "UA",
+        "audition",
+        "listening pending"
+      ],
+      "source": "https://www.youtube.com/@thednoband\n",
+      "license": "Unknown — uploader-confirmed rights",
+      "licenseURL": null,
+      "credit": "гурт дно, медовий полин, муха мухич - регі дрон by Гурт Дно, медовий полин, муха мухич. Rights confirmed by uploader for public redistribution and web-game playback. Source: https://www.youtube.com/@thednoband\n",
+      "rights": {
+        "licenseId": "UNKNOWN",
+        "licenseVersion": null,
+        "licenseURL": null,
+        "rightsEvidenceURL": "https://www.youtube.com/@thednoband\n",
+        "attribution": "гурт дно, медовий полин, муха мухич - регі дрон by Гурт Дно, медовий полин, муха мухич. Rights confirmed by uploader for public redistribution and web-game playback. Source: https://www.youtube.com/@thednoband\n",
+        "derivativeChangeNotice": "Exact submitted MP3 bytes retained; no archive changes declared.",
+        "shareAlike": {
+          "required": null,
+          "deliveryLicenseId": null,
+          "deliveryLicenseVersion": null,
+          "deliveryLicenseURL": null
+        },
+        "permissionBasis": "uploader-confirmed-public-redistribution-and-web-playback"
+      },
+      "fileName": "Гурт Дно, медовий полин, муха мухич - Регі Дрон.mp3",
+      "archiveId": "hurt-dno-20260927-46a99517",
+      "collection": "гурт дно, медовий полин, муха мухич - регі дрон",
+      "collections": [
+        "гурт дно, медовий полин, муха мухич - регі дрон",
+        "Гурт Дно",
+        "медовий полин",
+        "муха мухич",
+        "ФПВ"
+      ],
+      "status": "licensed-preview",
+      "listeningApproval": "not-reviewed",
+      "gameCatalogueAdmission": false,
+      "contentId": "unknown",
+      "recordingModeEligible": false,
+      "default": false,
+      "audio": {
+        "path": "objects/46a99517674d545cb85ba5400b3adc3e7f88ebf79caa79d4c2aa7e7bd9cccba8.mp3",
+        "bytes": 2586200,
+        "sha256": "46a99517674d545cb85ba5400b3adc3e7f88ebf79caa79d4c2aa7e7bd9cccba8"
+      },
+      "aliases": []
+    },
+    {
+      "id": "dyadya-sirozha.pisni-dyadi-sirozhy-drony-mahichni-drony-hratsiyni-pochatok-kintsya-st",
+      "title": "Пісні дяді Сірожи. Дрони магічні дрони граційні. Початок кінця стратегічній авіації",
+      "artist": "Дядя Сірожа",
+      "durationSeconds": 149.304308,
+      "tags": [
+        "ФПВ",
+        "UA",
+        "audition",
+        "listening pending"
+      ],
+      "source": "https://www.youtube.com/@ДядяСірожаЯ",
+      "license": "Unknown — uploader-confirmed rights",
+      "licenseURL": null,
+      "credit": "Пісні дяді Сірожи. Дрони магічні дрони граційні. Початок кінця стратегічній авіації by Дядя Сірожа. Rights confirmed by uploader for public redistribution and web-game playback. Source: https://www.youtube.com/@ДядяСірожаЯ",
+      "rights": {
+        "licenseId": "UNKNOWN",
+        "licenseVersion": null,
+        "licenseURL": null,
+        "rightsEvidenceURL": "https://www.youtube.com/@ДядяСірожаЯ",
+        "attribution": "Пісні дяді Сірожи. Дрони магічні дрони граційні. Початок кінця стратегічній авіації by Дядя Сірожа. Rights confirmed by uploader for public redistribution and web-game playback. Source: https://www.youtube.com/@ДядяСірожаЯ",
+        "derivativeChangeNotice": "Exact submitted MP3 bytes retained; no archive changes declared.",
+        "shareAlike": {
+          "required": null,
+          "deliveryLicenseId": null,
+          "deliveryLicenseVersion": null,
+          "deliveryLicenseURL": null
+        },
+        "permissionBasis": "uploader-confirmed-public-redistribution-and-web-playback"
+      },
+      "fileName": "Дядя Сірожа - Дрони магічні дрони граційні. Початок кінця стратегічній авіації. Пісні дяді Сірожи.mp3",
+      "archiveId": "dyadya-sirozha-20260927-9555184a",
+      "collection": "Пісні дяді Сірожи. Дрони магічні дрони граційні. Початок кінця стратегічній авіації",
+      "collections": [
+        "Пісні дяді Сірожи. Дрони магічні дрони граційні. Початок кінця стратегічній авіації",
+        "Дядя Сірожа",
+        "ФПВ"
+      ],
+      "status": "licensed-preview",
+      "listeningApproval": "not-reviewed",
+      "gameCatalogueAdmission": false,
+      "contentId": "unknown",
+      "recordingModeEligible": false,
+      "default": false,
+      "audio": {
+        "path": "objects/9555184abb2a5430227b45410340911b1bdd18966d0ab7f3d4037f440092a09e.mp3",
+        "bytes": 2648923,
+        "sha256": "9555184abb2a5430227b45410340911b1bdd18966d0ab7f3d4037f440092a09e"
+      },
+      "aliases": []
+    },
+    {
+      "id": "zabavka-i-dmytryk.zabavka-i-dmytryk-dronshchyk-home-video",
+      "title": "Забавка і Дмитрик - Дронщик (home video)",
+      "artist": "Забавка і Дмитрик",
+      "durationSeconds": 57.167528,
+      "tags": [
+        "ФПВ",
+        "UA",
+        "audition",
+        "listening pending"
+      ],
+      "source": "https://www.youtube.com/@zabavka103",
+      "license": "Unknown — uploader-confirmed rights",
+      "licenseURL": null,
+      "credit": "Забавка і Дмитрик - Дронщик (home video) by Забавка і Дмитрик. Rights confirmed by uploader for public redistribution and web-game playback. Source: https://www.youtube.com/@zabavka103",
+      "rights": {
+        "licenseId": "UNKNOWN",
+        "licenseVersion": null,
+        "licenseURL": null,
+        "rightsEvidenceURL": "https://www.youtube.com/@zabavka103",
+        "attribution": "Забавка і Дмитрик - Дронщик (home video) by Забавка і Дмитрик. Rights confirmed by uploader for public redistribution and web-game playback. Source: https://www.youtube.com/@zabavka103",
+        "derivativeChangeNotice": "Exact submitted MP3 bytes retained; no archive changes declared.",
+        "shareAlike": {
+          "required": null,
+          "deliveryLicenseId": null,
+          "deliveryLicenseVersion": null,
+          "deliveryLicenseURL": null
+        },
+        "permissionBasis": "uploader-confirmed-public-redistribution-and-web-playback"
+      },
+      "fileName": "Забавка і Дмитрик - Дронщик.mp3",
+      "archiveId": "zabavka-i-dmytryk-20260927-1e8a3540",
+      "collection": "Забавка і Дмитрик - Дронщик (home video)",
+      "collections": [
+        "Забавка і Дмитрик - Дронщик (home video)",
+        "Забавка і Дмитрик",
+        "ФПВ"
+      ],
+      "status": "licensed-preview",
+      "listeningApproval": "not-reviewed",
+      "gameCatalogueAdmission": false,
+      "contentId": "unknown",
+      "recordingModeEligible": false,
+      "default": false,
+      "audio": {
+        "path": "objects/1e8a3540686dd112920bb939bb8650d5f2dca08a3a609f3f5bd185b388aba08b.mp3",
+        "bytes": 1027835,
+        "sha256": "1e8a3540686dd112920bb939bb8650d5f2dca08a3a609f3f5bd185b388aba08b"
+      },
+      "aliases": []
+    },
+    {
+      "id": "ivan-hanzera.vesela-pisenka-ukrayinskoho-drona-prem-yera-2024-ivan-hanzera",
+      "title": "Весела пісенька українського дрона. Прем'єра 2024. Іван Ганзера.",
+      "artist": "Іван Ганзера",
+      "durationSeconds": 114.985215,
+      "tags": [
+        "ФПВ",
+        "UA",
+        "audition",
+        "listening pending"
+      ],
+      "source": "https://www.youtube.com/@ivanganzeramusic",
+      "license": "Unknown — uploader-confirmed rights",
+      "licenseURL": null,
+      "credit": "Весела пісенька українського дрона. Прем'єра 2024. Іван Ганзера. by Іван Ганзера. Rights confirmed by uploader for public redistribution and web-game playback. Source: https://www.youtube.com/@ivanganzeramusic",
+      "rights": {
+        "licenseId": "UNKNOWN",
+        "licenseVersion": null,
+        "licenseURL": null,
+        "rightsEvidenceURL": "https://www.youtube.com/@ivanganzeramusic",
+        "attribution": "Весела пісенька українського дрона. Прем'єра 2024. Іван Ганзера. by Іван Ганзера. Rights confirmed by uploader for public redistribution and web-game playback. Source: https://www.youtube.com/@ivanganzeramusic",
+        "derivativeChangeNotice": "Exact submitted MP3 bytes retained; no archive changes declared.",
+        "shareAlike": {
+          "required": null,
+          "deliveryLicenseId": null,
+          "deliveryLicenseVersion": null,
+          "deliveryLicenseURL": null
+        },
+        "permissionBasis": "uploader-confirmed-public-redistribution-and-web-playback"
+      },
+      "fileName": "Іван Ганзера - Весела пісенька українського дрона.mp3",
+      "archiveId": "ivan-hanzera-20260927-56ccb8cf",
+      "collection": "Весела пісенька українського дрона. Прем'єра 2024. Іван Ганзера.",
+      "collections": [
+        "Весела пісенька українського дрона. Прем'єра 2024. Іван Ганзера.",
+        "Іван Ганзера",
+        "ФПВ"
+      ],
+      "status": "licensed-preview",
+      "listeningApproval": "not-reviewed",
+      "gameCatalogueAdmission": false,
+      "contentId": "unknown",
+      "recordingModeEligible": false,
+      "default": false,
+      "audio": {
+        "path": "objects/56ccb8cf806d141b891f1febe44e3261227ddcf010a4dba172fc94be51c37b49.mp3",
+        "bytes": 1983489,
+        "sha256": "56ccb8cf806d141b891f1febe44e3261227ddcf010a4dba172fc94be51c37b49"
+      },
+      "aliases": []
+    },
+    {
+      "id": "madyar.usyudy-de-ne-bachu-i-bachu-khrobakiv-znymkuyut-ptakhy-madyara",
+      "title": "Усюди, де не бачу, і-бачу хробаків. Знимкують Птахи Мадяра.",
+      "artist": "МАДЯР",
+      "durationSeconds": 159.172789,
+      "tags": [
+        "ФПВ",
+        "UA",
+        "audition",
+        "listening pending"
+      ],
+      "source": "https://www.youtube.com/@MAGYARBIRDS",
+      "license": "Unknown — uploader-confirmed rights",
+      "licenseURL": null,
+      "credit": "Усюди, де не бачу, і-бачу хробаків. Знимкують Птахи Мадяра. by МАДЯР. Rights confirmed by uploader for public redistribution and web-game playback. Source: https://www.youtube.com/@MAGYARBIRDS",
+      "rights": {
+        "licenseId": "UNKNOWN",
+        "licenseVersion": null,
+        "licenseURL": null,
+        "rightsEvidenceURL": "https://www.youtube.com/@MAGYARBIRDS",
+        "attribution": "Усюди, де не бачу, і-бачу хробаків. Знимкують Птахи Мадяра. by МАДЯР. Rights confirmed by uploader for public redistribution and web-game playback. Source: https://www.youtube.com/@MAGYARBIRDS",
+        "derivativeChangeNotice": "Exact submitted MP3 bytes retained; no archive changes declared.",
+        "shareAlike": {
+          "required": null,
+          "deliveryLicenseId": null,
+          "deliveryLicenseVersion": null,
+          "deliveryLicenseURL": null
+        },
+        "permissionBasis": "uploader-confirmed-public-redistribution-and-web-playback"
+      },
+      "fileName": "МАДЯР - Усюди, де не бачу, і-бачу хробаків. Знимкують Птахи Мадяра.mp3",
+      "archiveId": "madyar-20260927-6c8699e9",
+      "collection": "Усюди, де не бачу, і-бачу хробаків. Знимкують Птахи Мадяра.",
+      "collections": [
+        "Усюди, де не бачу, і-бачу хробаків. Знимкують Птахи Мадяра.",
+        "МАДЯР",
+        "ФПВ"
+      ],
+      "status": "licensed-preview",
+      "listeningApproval": "not-reviewed",
+      "gameCatalogueAdmission": false,
+      "contentId": "unknown",
+      "recordingModeEligible": false,
+      "default": false,
+      "audio": {
+        "path": "objects/6c8699e9cbf469c18e73031a62b72461c1e9c44eda406e1eb88619900d557c4e.mp3",
+        "bytes": 2588397,
+        "sha256": "6c8699e9cbf469c18e73031a62b72461c1e9c44eda406e1eb88619900d557c4e"
+      },
+      "aliases": []
+    },
+    {
+      "id": "madyar.stalevyy-ptakh-tekst-muzyka-bloger-414-bryhada-ptakhy-madyara",
+      "title": "«Сталевий Птах». текст&музика Bloger (414 бригада «Птахи Мадяра»)",
+      "artist": "МАДЯР",
+      "durationSeconds": 258.902494,
+      "tags": [
+        "ФПВ",
+        "UA",
+        "audition",
+        "listening pending"
+      ],
+      "source": "https://www.youtube.com/@MAGYARBIRDS",
+      "license": "Unknown — uploader-confirmed rights",
+      "licenseURL": null,
+      "credit": "«Сталевий Птах». текст&музика Bloger (414 бригада «Птахи Мадяра») by МАДЯР. Rights confirmed by uploader for public redistribution and web-game playback. Source: https://www.youtube.com/@MAGYARBIRDS",
+      "rights": {
+        "licenseId": "UNKNOWN",
+        "licenseVersion": null,
+        "licenseURL": null,
+        "rightsEvidenceURL": "https://www.youtube.com/@MAGYARBIRDS",
+        "attribution": "«Сталевий Птах». текст&музика Bloger (414 бригада «Птахи Мадяра») by МАДЯР. Rights confirmed by uploader for public redistribution and web-game playback. Source: https://www.youtube.com/@MAGYARBIRDS",
+        "derivativeChangeNotice": "Exact submitted MP3 bytes retained; no archive changes declared.",
+        "shareAlike": {
+          "required": null,
+          "deliveryLicenseId": null,
+          "deliveryLicenseVersion": null,
+          "deliveryLicenseURL": null
+        },
+        "permissionBasis": "uploader-confirmed-public-redistribution-and-web-playback"
+      },
+      "fileName": "МАДЯР, Bloger - Сталевий Птах - текст&музика Bloger (414 бригада «Птахи Мадяра»).mp3",
+      "archiveId": "madyar-20260927-5d8e57ca",
+      "collection": "«Сталевий Птах». текст&музика Bloger (414 бригада «Птахи Мадяра»)",
+      "collections": [
+        "«Сталевий Птах». текст&музика Bloger (414 бригада «Птахи Мадяра»)",
+        "МАДЯР",
+        "ФПВ"
+      ],
+      "status": "licensed-preview",
+      "listeningApproval": "not-reviewed",
+      "gameCatalogueAdmission": false,
+      "contentId": "unknown",
+      "recordingModeEligible": false,
+      "default": false,
+      "audio": {
+        "path": "objects/5d8e57ca42b50ab463504a68cde5907f9eebcd767df18ca9b6017a782d3e2d43.mp3",
+        "bytes": 3949399,
+        "sha256": "5d8e57ca42b50ab463504a68cde5907f9eebcd767df18ca9b6017a782d3e2d43"
+      },
+      "aliases": []
+    },
+    {
+      "id": "proklyatyy-tretya-shturmova.proklyatyy-tretya-shturmova-sportyvni-povitryani-roboty-proyekt-epokha",
+      "title": "ПРОКЛЯТИЙ ***, Третя Штурмова — Спортивні повітряні роботи (проєкт ЕПОХА)",
+      "artist": "ПРОКЛЯТИЙ ***, Третя Штурмова",
+      "durationSeconds": 185.364898,
+      "tags": [
+        "ФПВ",
+        "UA",
+        "audition",
+        "listening pending"
+      ],
+      "source": "https://www.youtube.com/@proklyatiy_huy",
+      "license": "Unknown — uploader-confirmed rights",
+      "licenseURL": null,
+      "credit": "ПРОКЛЯТИЙ ***, Третя Штурмова — Спортивні повітряні роботи (проєкт ЕПОХА) by ПРОКЛЯТИЙ ***, Третя Штурмова. Rights confirmed by uploader for public redistribution and web-game playback. Source: https://www.youtube.com/@proklyatiy_huy",
+      "rights": {
+        "licenseId": "UNKNOWN",
+        "licenseVersion": null,
+        "licenseURL": null,
+        "rightsEvidenceURL": "https://www.youtube.com/@proklyatiy_huy",
+        "attribution": "ПРОКЛЯТИЙ ***, Третя Штурмова — Спортивні повітряні роботи (проєкт ЕПОХА) by ПРОКЛЯТИЙ ***, Третя Штурмова. Rights confirmed by uploader for public redistribution and web-game playback. Source: https://www.youtube.com/@proklyatiy_huy",
+        "derivativeChangeNotice": "Exact submitted MP3 bytes retained; no archive changes declared.",
+        "shareAlike": {
+          "required": null,
+          "deliveryLicenseId": null,
+          "deliveryLicenseVersion": null,
+          "deliveryLicenseURL": null
+        },
+        "permissionBasis": "uploader-confirmed-public-redistribution-and-web-playback"
+      },
+      "fileName": "ПРОКЛЯТИЙ *** - Третя Штурмова - Спортивні повітряні роботи (проєкт ЕПОХА).mp3",
+      "archiveId": "proklyatyy-20260927-0b92127d",
+      "collection": "ПРОКЛЯТИЙ ***, Третя Штурмова — Спортивні повітряні роботи (проєкт ЕПОХА)",
+      "collections": [
+        "ПРОКЛЯТИЙ ***, Третя Штурмова — Спортивні повітряні роботи (проєкт ЕПОХА)",
+        "ПРОКЛЯТИЙ ***",
+        "Третя Штурмова",
+        "ФПВ"
+      ],
+      "status": "licensed-preview",
+      "listeningApproval": "not-reviewed",
+      "gameCatalogueAdmission": false,
+      "contentId": "unknown",
+      "recordingModeEligible": false,
+      "default": false,
+      "audio": {
+        "path": "objects/0b92127dd20223f0644b9b2b4812812fb841674a36841e4a2b0eb2b0e12d408c.mp3",
+        "bytes": 2926619,
+        "sha256": "0b92127dd20223f0644b9b2b4812812fb841674a36841e4a2b0eb2b0e12d408c"
+      },
+      "aliases": []
+    },
+    {
+      "id": "sarhiy-prytula-ta-misha-krupin.yi-ty-snyu-24-7-misha-krupin-ta-fond-prytuly",
+      "title": "Ї**ти **сню 24/7 | Міша Крупін та Фонд Притули",
+      "artist": "Саргій Притула та Міша Крупін",
+      "durationSeconds": 135.743855,
+      "tags": [
+        "ФПВ",
+        "UA",
+        "audition",
+        "listening pending"
+      ],
+      "source": "https://www.youtube.com/@Prytula\n",
+      "license": "Unknown — uploader-confirmed rights",
+      "licenseURL": null,
+      "credit": "Ї**ти **сню 24/7 | Міша Крупін та Фонд Притули by Саргій Притула та Міша Крупін. Rights confirmed by uploader for public redistribution and web-game playback. Source: https://www.youtube.com/@Prytula\n",
+      "rights": {
+        "licenseId": "UNKNOWN",
+        "licenseVersion": null,
+        "licenseURL": null,
+        "rightsEvidenceURL": "https://www.youtube.com/@Prytula\n",
+        "attribution": "Ї**ти **сню 24/7 | Міша Крупін та Фонд Притули by Саргій Притула та Міша Крупін. Rights confirmed by uploader for public redistribution and web-game playback. Source: https://www.youtube.com/@Prytula\n",
+        "derivativeChangeNotice": "Exact submitted MP3 bytes retained; no archive changes declared.",
+        "shareAlike": {
+          "required": null,
+          "deliveryLicenseId": null,
+          "deliveryLicenseVersion": null,
+          "deliveryLicenseURL": null
+        },
+        "permissionBasis": "uploader-confirmed-public-redistribution-and-web-playback"
+      },
+      "fileName": "Саргій Притула та Міша Крупін - Ї_ти _сню 24_7 _  Фонд Притули.mp3",
+      "archiveId": "sarhiy-prytula-ta-misha-krupin-20260927-3d981d47",
+      "collection": "Ї**ти **сню 24/7 | Міша Крупін та Фонд Притули",
+      "collections": [
+        "Ї**ти **сню 24/7 | Міша Крупін та Фонд Притули",
+        "Саргій Притула та Міша Крупін",
+        "ФПВ"
+      ],
+      "status": "licensed-preview",
+      "listeningApproval": "not-reviewed",
+      "gameCatalogueAdmission": false,
+      "contentId": "unknown",
+      "recordingModeEligible": false,
+      "default": false,
+      "audio": {
+        "path": "objects/3d981d479f4d5447a6806ed3ee7709b8a408d213ca8a8ae6a8b1b342461322c1.mp3",
+        "bytes": 2259668,
+        "sha256": "3d981d479f4d5447a6806ed3ee7709b8a408d213ca8a8ae6a8b1b342461322c1"
+      },
+      "aliases": []
+    },
+    {
+      "id": "surenzh.akhilles",
+      "title": "Ахіллес",
+      "artist": "Суренж",
+      "durationSeconds": 151.928163,
+      "tags": [
+        "ФПВ",
+        "UA",
+        "audition",
+        "listening pending"
+      ],
+      "source": "https://www.youtube.com/channel/UCWMXS83QUgIvzbTbsXjdnbQ",
+      "license": "Unknown — uploader-confirmed rights",
+      "licenseURL": null,
+      "credit": "Ахіллес by Суренж. Rights confirmed by uploader for public redistribution and web-game playback. Source: https://www.youtube.com/channel/UCWMXS83QUgIvzbTbsXjdnbQ",
+      "rights": {
+        "licenseId": "UNKNOWN",
+        "licenseVersion": null,
+        "licenseURL": null,
+        "rightsEvidenceURL": "https://www.youtube.com/channel/UCWMXS83QUgIvzbTbsXjdnbQ",
+        "attribution": "Ахіллес by Суренж. Rights confirmed by uploader for public redistribution and web-game playback. Source: https://www.youtube.com/channel/UCWMXS83QUgIvzbTbsXjdnbQ",
+        "derivativeChangeNotice": "Exact submitted MP3 bytes retained; no archive changes declared.",
+        "shareAlike": {
+          "required": null,
+          "deliveryLicenseId": null,
+          "deliveryLicenseVersion": null,
+          "deliveryLicenseURL": null
+        },
+        "permissionBasis": "uploader-confirmed-public-redistribution-and-web-playback"
+      },
+      "fileName": "Суренж - Ахіллес.mp3",
+      "archiveId": "surenzh-20260927-cdba5db4",
+      "collection": "Ахіллес",
+      "collections": [
+        "Ахіллес",
+        "Суренж",
+        "ФПВ"
+      ],
+      "status": "licensed-preview",
+      "listeningApproval": "not-reviewed",
+      "gameCatalogueAdmission": false,
+      "contentId": "unknown",
+      "recordingModeEligible": false,
+      "default": false,
+      "audio": {
+        "path": "objects/cdba5db44c8417af7271bec25909ab1f0e40944ca7b530ed9c064aa3d7fcd3ed.mp3",
+        "bytes": 2625385,
+        "sha256": "cdba5db44c8417af7271bec25909ab1f0e40944ca7b530ed9c064aa3d7fcd3ed"
+      },
+      "aliases": []
+    },
+    {
+      "id": "ukrayinski-pisni-pisni-ua.pisnya-pro-dron-babka-yozhka",
+      "title": "Пісня про дрон - Бабка Йожка",
+      "artist": "Українські пісні - Pisni.ua",
+      "durationSeconds": 143.894059,
+      "tags": [
+        "ФПВ",
+        "UA",
+        "audition",
+        "listening pending"
+      ],
+      "source": "https://www.youtube.com/@-Pisniua",
+      "license": "Unknown — uploader-confirmed rights",
+      "licenseURL": null,
+      "credit": "Пісня про дрон - Бабка Йожка by Українські пісні - Pisni.ua. Rights confirmed by uploader for public redistribution and web-game playback. Source: https://www.youtube.com/@-Pisniua",
+      "rights": {
+        "licenseId": "UNKNOWN",
+        "licenseVersion": null,
+        "licenseURL": null,
+        "rightsEvidenceURL": "https://www.youtube.com/@-Pisniua",
+        "attribution": "Пісня про дрон - Бабка Йожка by Українські пісні - Pisni.ua. Rights confirmed by uploader for public redistribution and web-game playback. Source: https://www.youtube.com/@-Pisniua",
+        "derivativeChangeNotice": "Exact submitted MP3 bytes retained; no archive changes declared.",
+        "shareAlike": {
+          "required": null,
+          "deliveryLicenseId": null,
+          "deliveryLicenseVersion": null,
+          "deliveryLicenseURL": null
+        },
+        "permissionBasis": "uploader-confirmed-public-redistribution-and-web-playback"
+      },
+      "fileName": "Українські пісні - Pisni.ua - Пісня про дрон - Бабка Йожка.mp3",
+      "archiveId": "ukrayinski-pisni-pisni-ua-20260927-09bbee88",
+      "collection": "Пісня про дрон - Бабка Йожка",
+      "collections": [
+        "Пісня про дрон - Бабка Йожка",
+        "Українські пісні - Pisni.ua",
+        "ФПВ"
+      ],
+      "status": "licensed-preview",
+      "listeningApproval": "not-reviewed",
+      "gameCatalogueAdmission": false,
+      "contentId": "unknown",
+      "recordingModeEligible": false,
+      "default": false,
+      "audio": {
+        "path": "objects/09bbee881a6e655ca2c6edb49378502be95b37117d72a7a0232f44c1aaa98f0e.mp3",
+        "bytes": 2420684,
+        "sha256": "09bbee881a6e655ca2c6edb49378502be95b37117d72a7a0232f44c1aaa98f0e"
+      },
+      "aliases": []
+    },
+    {
+      "id": "khvostati-lovelasy.drony-bdzholy-ofitsiynyy-klip-ukrayinska-satyra-pro-viynu-khvostati-lo",
+      "title": "ДРОНИ БДЖОЛИ – офіційний кліп | Українська сатира про війну | Хвостаті Ловеласи",
+      "artist": "Хвостаті Ловеласи",
+      "durationSeconds": 164.281179,
+      "tags": [
+        "ФПВ",
+        "UA",
+        "audition",
+        "listening pending"
+      ],
+      "source": "https://www.youtube.com/@KhvostatiLovelasy\n",
+      "license": "Unknown — uploader-confirmed rights",
+      "licenseURL": null,
+      "credit": "ДРОНИ БДЖОЛИ – офіційний кліп | Українська сатира про війну | Хвостаті Ловеласи by Хвостаті Ловеласи. Rights confirmed by uploader for public redistribution and web-game playback. Source: https://www.youtube.com/@KhvostatiLovelasy\n",
+      "rights": {
+        "licenseId": "UNKNOWN",
+        "licenseVersion": null,
+        "licenseURL": null,
+        "rightsEvidenceURL": "https://www.youtube.com/@KhvostatiLovelasy\n",
+        "attribution": "ДРОНИ БДЖОЛИ – офіційний кліп | Українська сатира про війну | Хвостаті Ловеласи by Хвостаті Ловеласи. Rights confirmed by uploader for public redistribution and web-game playback. Source: https://www.youtube.com/@KhvostatiLovelasy\n",
+        "derivativeChangeNotice": "Exact submitted MP3 bytes retained; no archive changes declared.",
+        "shareAlike": {
+          "required": null,
+          "deliveryLicenseId": null,
+          "deliveryLicenseVersion": null,
+          "deliveryLicenseURL": null
+        },
+        "permissionBasis": "uploader-confirmed-public-redistribution-and-web-playback"
+      },
+      "fileName": "Хвостаті Ловеласи - ДРОНИ БДЖОЛИ. Українська сатира про війну.mp3",
+      "archiveId": "khvostati-lovelasy-20260927-93ba351f",
+      "collection": "ДРОНИ БДЖОЛИ – офіційний кліп | Українська сатира про війну | Хвостаті Ловеласи",
+      "collections": [
+        "ДРОНИ БДЖОЛИ – офіційний кліп | Українська сатира про війну | Хвостаті Ловеласи",
+        "Хвостаті Ловеласи",
+        "ФПВ"
+      ],
+      "status": "licensed-preview",
+      "listeningApproval": "not-reviewed",
+      "gameCatalogueAdmission": false,
+      "contentId": "unknown",
+      "recordingModeEligible": false,
+      "default": false,
+      "audio": {
+        "path": "objects/93ba351fb0cdafde13e33f30bc73e9ae357bb9e16ce94da25768ef839e450a38.mp3",
+        "bytes": 3041176,
+        "sha256": "93ba351fb0cdafde13e33f30bc73e9ae357bb9e16ce94da25768ef839e450a38"
+      },
+      "aliases": []
+    },
+    {
+      "id": "tsybrr.klip-rusoriz",
+      "title": "Кліп  \"RUSORIZ\"",
+      "artist": "Цибрр",
+      "durationSeconds": 181.440726,
+      "tags": [
+        "ФПВ",
+        "UA",
+        "audition",
+        "listening pending"
+      ],
+      "source": "https://www.youtube.com/@tsybr",
+      "license": "Unknown — uploader-confirmed rights",
+      "licenseURL": null,
+      "credit": "Кліп  \"RUSORIZ\" by Цибрр. Rights confirmed by uploader for public redistribution and web-game playback. Source: https://www.youtube.com/@tsybr",
+      "rights": {
+        "licenseId": "UNKNOWN",
+        "licenseVersion": null,
+        "licenseURL": null,
+        "rightsEvidenceURL": "https://www.youtube.com/@tsybr",
+        "attribution": "Кліп  \"RUSORIZ\" by Цибрр. Rights confirmed by uploader for public redistribution and web-game playback. Source: https://www.youtube.com/@tsybr",
+        "derivativeChangeNotice": "Exact submitted MP3 bytes retained; no archive changes declared.",
+        "shareAlike": {
+          "required": null,
+          "deliveryLicenseId": null,
+          "deliveryLicenseVersion": null,
+          "deliveryLicenseURL": null
+        },
+        "permissionBasis": "uploader-confirmed-public-redistribution-and-web-playback"
+      },
+      "fileName": "Цибрр... - RUSORIZ - Svitlana Khursenko  Співає - SUNO (ШІ).mp3",
+      "archiveId": "tsybrr-20260927-b86f77c8",
+      "collection": "Кліп  \"RUSORIZ\"",
+      "collections": [
+        "Кліп  \"RUSORIZ\"",
+        "Цибрр",
+        "ФПВ"
+      ],
+      "status": "licensed-preview",
+      "listeningApproval": "not-reviewed",
+      "gameCatalogueAdmission": false,
+      "contentId": "unknown",
+      "recordingModeEligible": false,
+      "default": false,
+      "audio": {
+        "path": "objects/b86f77c8d106596fcbc24e42d58a502b0c7b1576c83b57cd5b889b62a42be4a6.mp3",
+        "bytes": 2836832,
+        "sha256": "b86f77c8d106596fcbc24e42d58a502b0c7b1576c83b57cd5b889b62a42be4a6"
+      },
+      "aliases": []
+    }
+  ]
+}

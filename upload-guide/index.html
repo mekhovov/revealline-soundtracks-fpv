@@ -1,0 +1,12 @@
+<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Add FPV soundtracks</title><link rel="stylesheet" href="../style.css"></head><body><main>
+<p><a href="../">← FPV player</a></p><h1>Add FPV music</h1>
+<p>This is a separate, explicitly selected collection. Unknown licence labels stay unknown; publication grants no open licence or game-default approval.</p>
+<ol><li>Open <a href="../#add-music">Add music</a> and select MP3 files or stable hosted MP3 URLs.</li>
+<li>Enter artist, title, source, styles, collections and exact licence; confirm recording-specific publication rights.</li>
+<li>Download the prepared <code>.rlintake</code> package.</li>
+<li>From your clean <code>revealline-soundtracks-fpv</code> checkout, run:</li></ol>
+<pre><code>node intake/add-music.mjs "/absolute/path/package.rlintake" --open-pr</code></pre>
+<p>The command uploads exact hash-addressed audio, opens a PR and checks metadata. Audio becomes public before catalogue review. Merge only after checks and review; Pages deploys automatically.</p>
+<p><a href="../UPLOAD_GUIDE.md">Complete commands, hosted S3 example and requirements</a> · <a href="https://github.com/mekhovov/revealline-soundtracks-fpv/blob/main/UPLOAD_GUIDE.md">Readable guide on GitHub</a></p>
+<p>Keep your originals. GitHub Pages cannot safely hold GitHub credentials, so opening the authenticated PR still uses one local command.</p>
+</main></body></html>
