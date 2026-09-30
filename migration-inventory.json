@@ -1,0 +1,594 @@
+{
+  "format": "revealline-fpv-migration.v1",
+  "sourceRepository": "mekhovov/revealline-soundtracks",
+  "sourceRevision": "592364a67277744f795af787fc46b31e003fe02c",
+  "sourceCatalogueSha256": "c746c7da0940684186f5c3277396b47c5c14868f865b4e4656fa432177cf2019",
+  "destinationRepository": "mekhovov/revealline-soundtracks-fpv",
+  "releaseTag": "audio-fpv-migration-20261001",
+  "recordings": [
+    {
+      "id": "trench-orderly.soundtrack",
+      "sha256": "8ddb7eb4f274fa64e1ccc8f438f6483d80b755a04cc903079fd13474db11f0c7",
+      "bytes": 2851069,
+      "sourceReleaseTag": "audio-foundation-20260927",
+      "sourceURL": "https://github.com/mekhovov/revealline-soundtracks/releases/download/audio-foundation-20260927/8ddb7eb4f274fa64e1ccc8f438f6483d80b755a04cc903079fd13474db11f0c7.mp3",
+      "destinationPath": "objects/8ddb7eb4f274fa64e1ccc8f438f6483d80b755a04cc903079fd13474db11f0c7.mp3"
+    },
+    {
+      "id": "trench-orderly.drones-hunter",
+      "sha256": "5e7b33426088ade0a9345102d3ceb1ec38c43c09535e2288c6e1e032e1cee5a0",
+      "bytes": 2070360,
+      "sourceReleaseTag": "audio-foundation-20260927",
+      "sourceURL": "https://github.com/mekhovov/revealline-soundtracks/releases/download/audio-foundation-20260927/5e7b33426088ade0a9345102d3ceb1ec38c43c09535e2288c6e1e032e1cee5a0.mp3",
+      "destinationPath": "objects/5e7b33426088ade0a9345102d3ceb1ec38c43c09535e2288c6e1e032e1cee5a0.mp3"
+    },
+    {
+      "id": "trench-orderly.vampire",
+      "sha256": "9d7e478a3682783da745f96b6c44864c2639a468bce7a24e8f5a8e7c6bf70e77",
+      "bytes": 2771102,
+      "sourceReleaseTag": "audio-foundation-20260927",
+      "sourceURL": "https://github.com/mekhovov/revealline-soundtracks/releases/download/audio-foundation-20260927/9d7e478a3682783da745f96b6c44864c2639a468bce7a24e8f5a8e7c6bf70e77.mp3",
+      "destinationPath": "objects/9d7e478a3682783da745f96b6c44864c2639a468bce7a24e8f5a8e7c6bf70e77.mp3"
+    },
+    {
+      "id": "trench-orderly.soundtrack.2",
+      "sha256": "1d2614956debbbd54ce30bca449315f7771e84ac487d525333e23630ed54d9e3",
+      "bytes": 2817204,
+      "sourceReleaseTag": "audio-foundation-20260927",
+      "sourceURL": "https://github.com/mekhovov/revealline-soundtracks/releases/download/audio-foundation-20260927/1d2614956debbbd54ce30bca449315f7771e84ac487d525333e23630ed54d9e3.mp3",
+      "destinationPath": "objects/1d2614956debbbd54ce30bca449315f7771e84ac487d525333e23630ed54d9e3.mp3"
+    },
+    {
+      "id": "trench-orderly.soundtrack.3",
+      "sha256": "9eef10e0b20b4ef35341fd9f906a615a9f94c327ec7e57d25c939b13b9ec98f9",
+      "bytes": 3314294,
+      "sourceReleaseTag": "audio-foundation-20260927",
+      "sourceURL": "https://github.com/mekhovov/revealline-soundtracks/releases/download/audio-foundation-20260927/9eef10e0b20b4ef35341fd9f906a615a9f94c327ec7e57d25c939b13b9ec98f9.mp3",
+      "destinationPath": "objects/9eef10e0b20b4ef35341fd9f906a615a9f94c327ec7e57d25c939b13b9ec98f9.mp3"
+    },
+    {
+      "id": "trench-orderly.soundtrack.4",
+      "sha256": "515f5806573a0737f3c609b48895a09137289e1510e673b66ecca72c574f7aa2",
+      "bytes": 2947481,
+      "sourceReleaseTag": "audio-foundation-20260927",
+      "sourceURL": "https://github.com/mekhovov/revealline-soundtracks/releases/download/audio-foundation-20260927/515f5806573a0737f3c609b48895a09137289e1510e673b66ecca72c574f7aa2.mp3",
+      "destinationPath": "objects/515f5806573a0737f3c609b48895a09137289e1510e673b66ecca72c574f7aa2.mp3"
+    },
+    {
+      "id": "trench-orderly.soundtrack.5",
+      "sha256": "f8d1c2797031fdf2f673c798b0bb19b0ff0a0ba72212e9d8f577c5b625db0c6e",
+      "bytes": 2693052,
+      "sourceReleaseTag": "audio-foundation-20260927",
+      "sourceURL": "https://github.com/mekhovov/revealline-soundtracks/releases/download/audio-foundation-20260927/f8d1c2797031fdf2f673c798b0bb19b0ff0a0ba72212e9d8f577c5b625db0c6e.mp3",
+      "destinationPath": "objects/f8d1c2797031fdf2f673c798b0bb19b0ff0a0ba72212e9d8f577c5b625db0c6e.mp3"
+    },
+    {
+      "id": "probass-hardi.probass-hardi-drone",
+      "sha256": "de54b41d16ff268fd61663a7d885efee321b25fcf5157bf9dbc6332d1f84a69c",
+      "bytes": 3219003,
+      "sourceReleaseTag": "audio-probass-hardi-20260927",
+      "sourceURL": "https://github.com/mekhovov/revealline-soundtracks/releases/download/audio-probass-hardi-20260927/de54b41d16ff268fd61663a7d885efee321b25fcf5157bf9dbc6332d1f84a69c.mp3",
+      "destinationPath": "objects/de54b41d16ff268fd61663a7d885efee321b25fcf5157bf9dbc6332d1f84a69c.mp3"
+    },
+    {
+      "id": "probass-hardi.singing-drones",
+      "sha256": "22b22397afb79f27beb3af592a7e9c078b65c02df1b57865aeefb2a754d6e87a",
+      "bytes": 1827181,
+      "sourceReleaseTag": "audio-probass-hardi-20260927",
+      "sourceURL": "https://github.com/mekhovov/revealline-soundtracks/releases/download/audio-probass-hardi-20260927/22b22397afb79f27beb3af592a7e9c078b65c02df1b57865aeefb2a754d6e87a.mp3",
+      "destinationPath": "objects/22b22397afb79f27beb3af592a7e9c078b65c02df1b57865aeefb2a754d6e87a.mp3"
+    },
+    {
+      "id": "ribson.ribson-fpv",
+      "sha256": "bd3c7a30c774c1265cc5a45b89f6c874291d01769bc5a010a039833928c54ae6",
+      "bytes": 3854407,
+      "sourceReleaseTag": "audio-ribson-20260927",
+      "sourceURL": "https://github.com/mekhovov/revealline-soundtracks/releases/download/audio-ribson-20260927/bd3c7a30c774c1265cc5a45b89f6c874291d01769bc5a010a039833928c54ae6.mp3",
+      "destinationPath": "objects/bd3c7a30c774c1265cc5a45b89f6c874291d01769bc5a010a039833928c54ae6.mp3"
+    },
+    {
+      "id": "ribson.ribson",
+      "sha256": "17185c9266ed947e97ce954986eacdf2da36c836528945af2e41db0e7a5982f2",
+      "bytes": 3742554,
+      "sourceReleaseTag": "audio-ribson-20260927",
+      "sourceURL": "https://github.com/mekhovov/revealline-soundtracks/releases/download/audio-ribson-20260927/17185c9266ed947e97ce954986eacdf2da36c836528945af2e41db0e7a5982f2.mp3",
+      "destinationPath": "objects/17185c9266ed947e97ce954986eacdf2da36c836528945af2e41db0e7a5982f2.mp3"
+    },
+    {
+      "id": "tarko.tarko-fpv-official-video",
+      "sha256": "500f1c35200fa3f5e89d5125770a7a64f55078e6c542530d5cda27386bf90b1f",
+      "bytes": 3230410,
+      "sourceReleaseTag": "audio-tarko-20260927",
+      "sourceURL": "https://github.com/mekhovov/revealline-soundtracks/releases/download/audio-tarko-20260927/500f1c35200fa3f5e89d5125770a7a64f55078e6c542530d5cda27386bf90b1f.mp3",
+      "destinationPath": "objects/500f1c35200fa3f5e89d5125770a7a64f55078e6c542530d5cda27386bf90b1f.mp3"
+    },
+    {
+      "id": "tarko.fpv",
+      "sha256": "4f70b5eccd5d055badc2a520e4e22c1d7019446486924cdd6347545a1f458d65",
+      "bytes": 3147678,
+      "sourceReleaseTag": "audio-tarko-20260927",
+      "sourceURL": "https://github.com/mekhovov/revealline-soundtracks/releases/download/audio-tarko-20260927/4f70b5eccd5d055badc2a520e4e22c1d7019446486924cdd6347545a1f458d65.mp3",
+      "destinationPath": "objects/4f70b5eccd5d055badc2a520e4e22c1d7019446486924cdd6347545a1f458d65.mp3"
+    },
+    {
+      "id": "the-bloger-ua.the-bloger-ua-official-video",
+      "sha256": "bef1cece660fe28d3bcfcb0e11f7e1adfd47bb7f56948b836560056123a00094",
+      "bytes": 2250538,
+      "sourceReleaseTag": "audio-the-bloger-ua-20260927",
+      "sourceURL": "https://github.com/mekhovov/revealline-soundtracks/releases/download/audio-the-bloger-ua-20260927/bef1cece660fe28d3bcfcb0e11f7e1adfd47bb7f56948b836560056123a00094.mp3",
+      "destinationPath": "objects/bef1cece660fe28d3bcfcb0e11f7e1adfd47bb7f56948b836560056123a00094.mp3"
+    },
+    {
+      "id": "the-bloger-ua.the-bloger-ua-fpv",
+      "sha256": "a108d139434b5cc6254cc25718ddf5059733e4d05d334ccabf3bedce87c68e71",
+      "bytes": 2586467,
+      "sourceReleaseTag": "audio-the-bloger-ua-20260927",
+      "sourceURL": "https://github.com/mekhovov/revealline-soundtracks/releases/download/audio-the-bloger-ua-20260927/a108d139434b5cc6254cc25718ddf5059733e4d05d334ccabf3bedce87c68e71.mp3",
+      "destinationPath": "objects/a108d139434b5cc6254cc25718ddf5059733e4d05d334ccabf3bedce87c68e71.mp3"
+    },
+    {
+      "id": "the-bloger-ua.the-bloger-ua-official-music-video",
+      "sha256": "4a0d62a1a78201a923f112dc0e695ac5537ae1444a96b4665fab62976c853dd7",
+      "bytes": 4092272,
+      "sourceReleaseTag": "audio-the-bloger-ua-20260927",
+      "sourceURL": "https://github.com/mekhovov/revealline-soundtracks/releases/download/audio-the-bloger-ua-20260927/4a0d62a1a78201a923f112dc0e695ac5537ae1444a96b4665fab62976c853dd7.mp3",
+      "destinationPath": "objects/4a0d62a1a78201a923f112dc0e695ac5537ae1444a96b4665fab62976c853dd7.mp3"
+    },
+    {
+      "id": "the-bloger-ua.the-bloger-ua-official-music-video.2",
+      "sha256": "f12db6a6b9b12cfe55f47fd8f7643a37a2cab275918a0eb5870a4806d43934dd",
+      "bytes": 3008964,
+      "sourceReleaseTag": "audio-the-bloger-ua-20260927",
+      "sourceURL": "https://github.com/mekhovov/revealline-soundtracks/releases/download/audio-the-bloger-ua-20260927/f12db6a6b9b12cfe55f47fd8f7643a37a2cab275918a0eb5870a4806d43934dd.mp3",
+      "destinationPath": "objects/f12db6a6b9b12cfe55f47fd8f7643a37a2cab275918a0eb5870a4806d43934dd.mp3"
+    },
+    {
+      "id": "the-bloger-ua.the-bloger-ua-2026-fpv",
+      "sha256": "561e17ea45775729d4c164f62c9c9188fa75e18c14749c87e354d76028d59d0c",
+      "bytes": 3260192,
+      "sourceReleaseTag": "audio-the-bloger-ua-20260927",
+      "sourceURL": "https://github.com/mekhovov/revealline-soundtracks/releases/download/audio-the-bloger-ua-20260927/561e17ea45775729d4c164f62c9c9188fa75e18c14749c87e354d76028d59d0c.mp3",
+      "destinationPath": "objects/561e17ea45775729d4c164f62c9c9188fa75e18c14749c87e354d76028d59d0c.mp3"
+    },
+    {
+      "id": "the-bloger-ua.the-bloger-ua",
+      "sha256": "28468f6e00c8cff1e8932cc3942a5f66b2d6dde33642b9016d62bc3dd3e8e9b8",
+      "bytes": 4630848,
+      "sourceReleaseTag": "audio-the-bloger-ua-20260927",
+      "sourceURL": "https://github.com/mekhovov/revealline-soundtracks/releases/download/audio-the-bloger-ua-20260927/28468f6e00c8cff1e8932cc3942a5f66b2d6dde33642b9016d62bc3dd3e8e9b8.mp3",
+      "destinationPath": "objects/28468f6e00c8cff1e8932cc3942a5f66b2d6dde33642b9016d62bc3dd3e8e9b8.mp3"
+    },
+    {
+      "id": "the-bloger-ua.the-bloger-ua-official-music-video.3",
+      "sha256": "49f1008bd27695434a717695b4bcc30bbab3e85f306bdb2b79462135db1760cc",
+      "bytes": 4060647,
+      "sourceReleaseTag": "audio-the-bloger-ua-20260927",
+      "sourceURL": "https://github.com/mekhovov/revealline-soundtracks/releases/download/audio-the-bloger-ua-20260927/49f1008bd27695434a717695b4bcc30bbab3e85f306bdb2b79462135db1760cc.mp3",
+      "destinationPath": "objects/49f1008bd27695434a717695b4bcc30bbab3e85f306bdb2b79462135db1760cc.mp3"
+    },
+    {
+      "id": "the-bloger-ua.the-bloger-ua-official-music-video.4",
+      "sha256": "328ef348415efca85f5323f380559ed42ab6b1904464f0331b9c6ec1fbac4802",
+      "bytes": 3601638,
+      "sourceReleaseTag": "audio-the-bloger-ua-20260927",
+      "sourceURL": "https://github.com/mekhovov/revealline-soundtracks/releases/download/audio-the-bloger-ua-20260927/328ef348415efca85f5323f380559ed42ab6b1904464f0331b9c6ec1fbac4802.mp3",
+      "destinationPath": "objects/328ef348415efca85f5323f380559ed42ab6b1904464f0331b9c6ec1fbac4802.mp3"
+    },
+    {
+      "id": "s.s",
+      "sha256": "ed464d7cad5793b7c0197331644c52af6b614ee98e193ab7e30544790a35bdd9",
+      "bytes": 2463072,
+      "sourceReleaseTag": "audio-s-20260927",
+      "sourceURL": "https://github.com/mekhovov/revealline-soundtracks/releases/download/audio-s-20260927/ed464d7cad5793b7c0197331644c52af6b614ee98e193ab7e30544790a35bdd9.mp3",
+      "destinationPath": "objects/ed464d7cad5793b7c0197331644c52af6b614ee98e193ab7e30544790a35bdd9.mp3"
+    },
+    {
+      "id": "s.s.2",
+      "sha256": "c73191d9e1a388fc8d0a42031e95d6722848c9a53e1ba585f32e32fc3e78cab8",
+      "bytes": 2064046,
+      "sourceReleaseTag": "audio-s-20260927",
+      "sourceURL": "https://github.com/mekhovov/revealline-soundtracks/releases/download/audio-s-20260927/c73191d9e1a388fc8d0a42031e95d6722848c9a53e1ba585f32e32fc3e78cab8.mp3",
+      "destinationPath": "objects/c73191d9e1a388fc8d0a42031e95d6722848c9a53e1ba585f32e32fc3e78cab8.mp3"
+    },
+    {
+      "id": "soundtrack.414",
+      "sha256": "0462b8ef82a8a9f86f20c2d36b191c9827a139185b87cd455346e576bc1af4fd",
+      "bytes": 3788242,
+      "sourceReleaseTag": "audio-soundtrack-20260927",
+      "sourceURL": "https://github.com/mekhovov/revealline-soundtracks/releases/download/audio-soundtrack-20260927/0462b8ef82a8a9f86f20c2d36b191c9827a139185b87cd455346e576bc1af4fd.mp3",
+      "destinationPath": "objects/0462b8ef82a8a9f86f20c2d36b191c9827a139185b87cd455346e576bc1af4fd.mp3"
+    },
+    {
+      "id": "soundtrack.soundtrack",
+      "sha256": "5069168cc6e90c16c7765afb56fbce180e8144b63775ee2e0d839de4b85a80fe",
+      "bytes": 3562982,
+      "sourceReleaseTag": "audio-soundtrack-20260927",
+      "sourceURL": "https://github.com/mekhovov/revealline-soundtracks/releases/download/audio-soundtrack-20260927/5069168cc6e90c16c7765afb56fbce180e8144b63775ee2e0d839de4b85a80fe.mp3",
+      "destinationPath": "objects/5069168cc6e90c16c7765afb56fbce180e8144b63775ee2e0d839de4b85a80fe.mp3"
+    },
+    {
+      "id": "soundtrack.bloger-414",
+      "sha256": "48b4cfb0075837a93fd0703dc28fbc19157f1d69e5ef69abed8ce0e833607f30",
+      "bytes": 1731778,
+      "sourceReleaseTag": "audio-soundtrack-20260927",
+      "sourceURL": "https://github.com/mekhovov/revealline-soundtracks/releases/download/audio-soundtrack-20260927/48b4cfb0075837a93fd0703dc28fbc19157f1d69e5ef69abed8ce0e833607f30.mp3",
+      "destinationPath": "objects/48b4cfb0075837a93fd0703dc28fbc19157f1d69e5ef69abed8ce0e833607f30.mp3"
+    },
+    {
+      "id": "soundtrack.soundtrack.2",
+      "sha256": "9cf9912bbd80d3e304e555f45a33a94dc9cd0b8924e4bc4771e659e133422cc8",
+      "bytes": 1800709,
+      "sourceReleaseTag": "audio-soundtrack-20260927",
+      "sourceURL": "https://github.com/mekhovov/revealline-soundtracks/releases/download/audio-soundtrack-20260927/9cf9912bbd80d3e304e555f45a33a94dc9cd0b8924e4bc4771e659e133422cc8.mp3",
+      "destinationPath": "objects/9cf9912bbd80d3e304e555f45a33a94dc9cd0b8924e4bc4771e659e133422cc8.mp3"
+    },
+    {
+      "id": "mos.mos-kloun",
+      "sha256": "0093e7e90c9f7d771707c0920f3a61abc8070cda6ca42da4b11054c61268b10c",
+      "bytes": 3003695,
+      "sourceReleaseTag": "audio-mos-20260927-0093e7e9",
+      "sourceURL": "https://github.com/mekhovov/revealline-soundtracks/releases/download/audio-mos-20260927-0093e7e9/0093e7e90c9f7d771707c0920f3a61abc8070cda6ca42da4b11054c61268b10c.mp3",
+      "destinationPath": "objects/0093e7e90c9f7d771707c0920f3a61abc8070cda6ca42da4b11054c61268b10c.mp3"
+    },
+    {
+      "id": "neyronnyy-hupach.neyronnyy-hupach-litaly-litaly-polka",
+      "sha256": "0e70cd808403487bce3b3898a3798099fd9b7b1e4477937603c816e7f3591b9c",
+      "bytes": 2484053,
+      "sourceReleaseTag": "audio-neyronnyy-hupach-20260927-0e70cd80",
+      "sourceURL": "https://github.com/mekhovov/revealline-soundtracks/releases/download/audio-neyronnyy-hupach-20260927-0e70cd80/0e70cd808403487bce3b3898a3798099fd9b7b1e4477937603c816e7f3591b9c.mp3",
+      "destinationPath": "objects/0e70cd808403487bce3b3898a3798099fd9b7b1e4477937603c816e7f3591b9c.mp3"
+    },
+    {
+      "id": "neyronnyy-hupach.neyronnyy-hupach-litaly-litaly-ii",
+      "sha256": "a7326eabe93d54a2d8606e978517034ba242fe30d39973fb24deea49c44c733d",
+      "bytes": 2708134,
+      "sourceReleaseTag": "audio-neyronnyy-hupach-20260927-0e70cd80",
+      "sourceURL": "https://github.com/mekhovov/revealline-soundtracks/releases/download/audio-neyronnyy-hupach-20260927-0e70cd80/a7326eabe93d54a2d8606e978517034ba242fe30d39973fb24deea49c44c733d.mp3",
+      "destinationPath": "objects/a7326eabe93d54a2d8606e978517034ba242fe30d39973fb24deea49c44c733d.mp3"
+    },
+    {
+      "id": "neyronnyy-hupach.neyronnyy-hupach-litaly-litaly",
+      "sha256": "c98d235cb99ff5d4fb471c2b8377f135c9b7a82f1ec91a7c4df632c2aede59b6",
+      "bytes": 1870781,
+      "sourceReleaseTag": "audio-neyronnyy-hupach-20260927-0e70cd80",
+      "sourceURL": "https://github.com/mekhovov/revealline-soundtracks/releases/download/audio-neyronnyy-hupach-20260927-0e70cd80/c98d235cb99ff5d4fb471c2b8377f135c9b7a82f1ec91a7c4df632c2aede59b6.mp3",
+      "destinationPath": "objects/c98d235cb99ff5d4fb471c2b8377f135c9b7a82f1ec91a7c4df632c2aede59b6.mp3"
+    },
+    {
+      "id": "neyronnyy-hupach.neyronnyy-hupach-pisenka-madyara-z-multfilmu-pro-barmaleyiv",
+      "sha256": "7fc1d588e5027bd4a1df5f7ff9b37d128a528300878e288b16a7da38c0f25ac9",
+      "bytes": 1392123,
+      "sourceReleaseTag": "audio-neyronnyy-hupach-20260927-0e70cd80",
+      "sourceURL": "https://github.com/mekhovov/revealline-soundtracks/releases/download/audio-neyronnyy-hupach-20260927-0e70cd80/7fc1d588e5027bd4a1df5f7ff9b37d128a528300878e288b16a7da38c0f25ac9.mp3",
+      "destinationPath": "objects/7fc1d588e5027bd4a1df5f7ff9b37d128a528300878e288b16a7da38c0f25ac9.mp3"
+    },
+    {
+      "id": "neyronnyy-hupach.neyronnyy-hupach-povitryana-tryvoha",
+      "sha256": "a45cb366d97648fa810a535dd29024cd45b929299b388d66d8007fd84795c49d",
+      "bytes": 3053566,
+      "sourceReleaseTag": "audio-neyronnyy-hupach-20260927-0e70cd80",
+      "sourceURL": "https://github.com/mekhovov/revealline-soundtracks/releases/download/audio-neyronnyy-hupach-20260927-0e70cd80/a45cb366d97648fa810a535dd29024cd45b929299b388d66d8007fd84795c49d.mp3",
+      "destinationPath": "objects/a45cb366d97648fa810a535dd29024cd45b929299b388d66d8007fd84795c49d.mp3"
+    },
+    {
+      "id": "neyronnyy-hupach.neyronnyy-hupach-khrobaky-rozshyrena-dzhaha-dzhaha",
+      "sha256": "bbc8d3e40202d66388cabc8c3e416cf08af0b7b8531531361704323ba85b748c",
+      "bytes": 1369404,
+      "sourceReleaseTag": "audio-neyronnyy-hupach-20260927-0e70cd80",
+      "sourceURL": "https://github.com/mekhovov/revealline-soundtracks/releases/download/audio-neyronnyy-hupach-20260927-0e70cd80/bbc8d3e40202d66388cabc8c3e416cf08af0b7b8531531361704323ba85b748c.mp3",
+      "destinationPath": "objects/bbc8d3e40202d66388cabc8c3e416cf08af0b7b8531531361704323ba85b748c.mp3"
+    },
+    {
+      "id": "nytso-potvorno.nytso-potvorno-rusni-pizda",
+      "sha256": "edad4597c38ca22d295658d4cbe23bcf50399f0c16244b850a9383fe939124d1",
+      "bytes": 4079611,
+      "sourceReleaseTag": "audio-nytso-potvorno-20260927-edad4597",
+      "sourceURL": "https://github.com/mekhovov/revealline-soundtracks/releases/download/audio-nytso-potvorno-20260927-edad4597/edad4597c38ca22d295658d4cbe23bcf50399f0c16244b850a9383fe939124d1.mp3",
+      "destinationPath": "objects/edad4597c38ca22d295658d4cbe23bcf50399f0c16244b850a9383fe939124d1.mp3"
+    },
+    {
+      "id": "pivnich.pivnich-fpv",
+      "sha256": "9641f728119b657b46d2e7b668e0d34d511fee75447cc133652cf98106992357",
+      "bytes": 2848859,
+      "sourceReleaseTag": "audio-pivnich-20260927-9641f728",
+      "sourceURL": "https://github.com/mekhovov/revealline-soundtracks/releases/download/audio-pivnich-20260927-9641f728/9641f728119b657b46d2e7b668e0d34d511fee75447cc133652cf98106992357.mp3",
+      "destinationPath": "objects/9641f728119b657b46d2e7b668e0d34d511fee75447cc133652cf98106992357.mp3"
+    },
+    {
+      "id": "pisnya-dnya.boyovyy-p1-sun-pisnya-dnya-povna-versiya",
+      "sha256": "bb25de89589df1a6623e80f71bc19137abe26b1b14796b3ff75af1a63d96cbd0",
+      "bytes": 3980495,
+      "sourceReleaseTag": "audio-pisnya-dnya-20260927-bb25de89",
+      "sourceURL": "https://github.com/mekhovov/revealline-soundtracks/releases/download/audio-pisnya-dnya-20260927-bb25de89/bb25de89589df1a6623e80f71bc19137abe26b1b14796b3ff75af1a63d96cbd0.mp3",
+      "destinationPath": "objects/bb25de89589df1a6623e80f71bc19137abe26b1b14796b3ff75af1a63d96cbd0.mp3"
+    },
+    {
+      "id": "pisnya-dnya.na-krok-poperedu-himn-syl-bezpilotnykh-system-sbs-pisnya-dnya-povna-ve",
+      "sha256": "a9c490400466be36b63133248b81910c5028ed297ab59f1a8e06609e421da469",
+      "bytes": 3903859,
+      "sourceReleaseTag": "audio-pisnya-dnya-20260927-bb25de89",
+      "sourceURL": "https://github.com/mekhovov/revealline-soundtracks/releases/download/audio-pisnya-dnya-20260927-bb25de89/a9c490400466be36b63133248b81910c5028ed297ab59f1a8e06609e421da469.mp3",
+      "destinationPath": "objects/a9c490400466be36b63133248b81910c5028ed297ab59f1a8e06609e421da469.mp3"
+    },
+    {
+      "id": "pisnya-dnya.pavutyna-malyuka-pisnya-dnya-povna-versiya",
+      "sha256": "674925a9446876e6bd6a56e6019b854072e263b7975c3f2a59725f0fc10ea917",
+      "bytes": 3099933,
+      "sourceReleaseTag": "audio-pisnya-dnya-20260927-bb25de89",
+      "sourceURL": "https://github.com/mekhovov/revealline-soundtracks/releases/download/audio-pisnya-dnya-20260927-bb25de89/674925a9446876e6bd6a56e6019b854072e263b7975c3f2a59725f0fc10ea917.mp3",
+      "destinationPath": "objects/674925a9446876e6bd6a56e6019b854072e263b7975c3f2a59725f0fc10ea917.mp3"
+    },
+    {
+      "id": "pisnya-dnya.retsept-bavovny-vidpovid-tym-khto-smiyavsya-z-nashoho-leho-pisnya-dnya",
+      "sha256": "c63b1118e49911fbf4a0091ea54867817c5dd6ff0a3f0877481ba1544ea8a7d3",
+      "bytes": 4889833,
+      "sourceReleaseTag": "audio-pisnya-dnya-20260927-bb25de89",
+      "sourceURL": "https://github.com/mekhovov/revealline-soundtracks/releases/download/audio-pisnya-dnya-20260927-bb25de89/c63b1118e49911fbf4a0091ea54867817c5dd6ff0a3f0877481ba1544ea8a7d3.mp3",
+      "destinationPath": "objects/c63b1118e49911fbf4a0091ea54867817c5dd6ff0a3f0877481ba1544ea8a7d3.mp3"
+    },
+    {
+      "id": "pisnya-dnya.shou-madyara-pisnya-dnya-povna-versiya",
+      "sha256": "4befd36da5e444577da89a12e58914695bcaaaf703a2ef788e3a675b2324f2a4",
+      "bytes": 5037982,
+      "sourceReleaseTag": "audio-pisnya-dnya-20260927-bb25de89",
+      "sourceURL": "https://github.com/mekhovov/revealline-soundtracks/releases/download/audio-pisnya-dnya-20260927-bb25de89/4befd36da5e444577da89a12e58914695bcaaaf703a2ef788e3a675b2324f2a4.mp3",
+      "destinationPath": "objects/4befd36da5e444577da89a12e58914695bcaaaf703a2ef788e3a675b2324f2a4.mp3"
+    },
+    {
+      "id": "prodyusyer-valyentin.prodyusyer-valyentin-i-hurt-mama-zlipy-snyezhku-z-pisneyu-zamoryly-mos",
+      "sha256": "78d37bea0b64d2ee79a7818a737e98bd491d4bdcc8154e9e7e2edf0552c1bfd8",
+      "bytes": 2897664,
+      "sourceReleaseTag": "audio-prodyusyer-valyentin-20260927-78d37bea",
+      "sourceURL": "https://github.com/mekhovov/revealline-soundtracks/releases/download/audio-prodyusyer-valyentin-20260927-78d37bea/78d37bea0b64d2ee79a7818a737e98bd491d4bdcc8154e9e7e2edf0552c1bfd8.mp3",
+      "destinationPath": "objects/78d37bea0b64d2ee79a7818a737e98bd491d4bdcc8154e9e7e2edf0552c1bfd8.mp3"
+    },
+    {
+      "id": "prodyusyer-valyentin.prodyuser-valyentiv-i-hurt-imeni-vitalika-z-novoyu-pisneyu-bila-lada-d",
+      "sha256": "7d85028cd248b4b990f653d7a7432b4d6b89ab919efd1bbe7b32a4e3f41abb63",
+      "bytes": 3152073,
+      "sourceReleaseTag": "audio-prodyusyer-valyentin-20260927-78d37bea",
+      "sourceURL": "https://github.com/mekhovov/revealline-soundtracks/releases/download/audio-prodyusyer-valyentin-20260927-78d37bea/7d85028cd248b4b990f653d7a7432b4d6b89ab919efd1bbe7b32a4e3f41abb63.mp3",
+      "destinationPath": "objects/7d85028cd248b4b990f653d7a7432b4d6b89ab919efd1bbe7b32a4e3f41abb63.mp3"
+    },
+    {
+      "id": "prodyusyer-valyentin.prodyusyer-valyentin-ta-hurt-bavovna-bavovna-prezentuyus-tresh-surzhyk",
+      "sha256": "d4c98f81662ac285e0c51bac2a4b3851d2c8d78b881df84c9cfdca5641b97239",
+      "bytes": 2262358,
+      "sourceReleaseTag": "audio-prodyusyer-valyentin-20260927-78d37bea",
+      "sourceURL": "https://github.com/mekhovov/revealline-soundtracks/releases/download/audio-prodyusyer-valyentin-20260927-78d37bea/d4c98f81662ac285e0c51bac2a4b3851d2c8d78b881df84c9cfdca5641b97239.mp3",
+      "destinationPath": "objects/d4c98f81662ac285e0c51bac2a4b3851d2c8d78b881df84c9cfdca5641b97239.mp3"
+    },
+    {
+      "id": "telebachennya-toronto.nytso-potvorno-feat-telebachennya-toronto-fpv-letyt-rusakiv-bombyt-pre",
+      "sha256": "417eea94faf4114996886dbcad58e158667df0dd94c497d847eabaf5fc64a9ba",
+      "bytes": 1923633,
+      "sourceReleaseTag": "audio-telebachennya-toronto-20260927-417eea94",
+      "sourceURL": "https://github.com/mekhovov/revealline-soundtracks/releases/download/audio-telebachennya-toronto-20260927-417eea94/417eea94faf4114996886dbcad58e158667df0dd94c497d847eabaf5fc64a9ba.mp3",
+      "destinationPath": "objects/417eea94faf4114996886dbcad58e158667df0dd94c497d847eabaf5fc64a9ba.mp3"
+    },
+    {
+      "id": "telebachennya-toronto.shaleniy-fpv-versiya-nytso-potvorno-haytana-cover",
+      "sha256": "50869ac99f181aa46a0a8f0da99216bd45d342dc5fd5e9c8deba2c6f31c41555",
+      "bytes": 2407272,
+      "sourceReleaseTag": "audio-telebachennya-toronto-20260927-417eea94",
+      "sourceURL": "https://github.com/mekhovov/revealline-soundtracks/releases/download/audio-telebachennya-toronto-20260927-417eea94/50869ac99f181aa46a0a8f0da99216bd45d342dc5fd5e9c8deba2c6f31c41555.mp3",
+      "destinationPath": "objects/50869ac99f181aa46a0a8f0da99216bd45d342dc5fd5e9c8deba2c6f31c41555.mp3"
+    },
+    {
+      "id": "yuriy-hromovyy.la-la-la-letyt-miy-dron-bamper-yanovych-hromovyy-tymoshenko-baydak-lyk",
+      "sha256": "e2b921d96d021eb8199309a5cd7baed82e5ad2405673f16ee43b0366332d317a",
+      "bytes": 1081178,
+      "sourceReleaseTag": "audio-yuriy-hromovyy-20260927-e2b921d9",
+      "sourceURL": "https://github.com/mekhovov/revealline-soundtracks/releases/download/audio-yuriy-hromovyy-20260927-e2b921d9/e2b921d96d021eb8199309a5cd7baed82e5ad2405673f16ee43b0366332d317a.mp3",
+      "destinationPath": "objects/e2b921d96d021eb8199309a5cd7baed82e5ad2405673f16ee43b0366332d317a.mp3"
+    },
+    {
+      "id": "414-ptakhy-madyara.414-ptakhy-madyara-lehendarni-stalevi-ptakhy-proty-khrobakiv",
+      "sha256": "1b2bf1f95d104f09b7a8ff0c176d40604210e7b4387ee5478d8b751af862ae03",
+      "bytes": 4232151,
+      "sourceReleaseTag": "audio-414-ptakhy-madyara-20260927-1b2bf1f9",
+      "sourceURL": "https://github.com/mekhovov/revealline-soundtracks/releases/download/audio-414-ptakhy-madyara-20260927-1b2bf1f9/1b2bf1f95d104f09b7a8ff0c176d40604210e7b4387ee5478d8b751af862ae03.mp3",
+      "destinationPath": "objects/1b2bf1f95d104f09b7a8ff0c176d40604210e7b4387ee5478d8b751af862ae03.mp3"
+    },
+    {
+      "id": "a-m-ukrainian.ai-cover-fpv-dron-sonet",
+      "sha256": "45812cca6e1bf70fbf5f1df5f9c104730c9a88a89b26c284d83437d14c985b18",
+      "bytes": 2297760,
+      "sourceReleaseTag": "audio-a-m-ukrainian-20260927-45812cca",
+      "sourceURL": "https://github.com/mekhovov/revealline-soundtracks/releases/download/audio-a-m-ukrainian-20260927-45812cca/45812cca6e1bf70fbf5f1df5f9c104730c9a88a89b26c284d83437d14c985b18.mp3",
+      "destinationPath": "objects/45812cca6e1bf70fbf5f1df5f9c104730c9a88a89b26c284d83437d14c985b18.mp3"
+    },
+    {
+      "id": "alexbust-co.operator-fpv",
+      "sha256": "3935a1314f133f4b4e3029f27329e52eff72245e0961787cbdc2e48ad01b0783",
+      "bytes": 3205232,
+      "sourceReleaseTag": "audio-alexbust-co-20260927-3935a131",
+      "sourceURL": "https://github.com/mekhovov/revealline-soundtracks/releases/download/audio-alexbust-co-20260927-3935a131/3935a1314f133f4b4e3029f27329e52eff72245e0961787cbdc2e48ad01b0783.mp3",
+      "destinationPath": "objects/3935a1314f133f4b4e3029f27329e52eff72245e0961787cbdc2e48ad01b0783.mp3"
+    },
+    {
+      "id": "dushevniy.operator-fpv-drona-radio-edit",
+      "sha256": "e3de791418e27e1b0414ff0ff1973e94c86507a9ecfb3c8037a81e9f212cfac1",
+      "bytes": 1738417,
+      "sourceReleaseTag": "audio-dushevniy-20260927-e3de7914",
+      "sourceURL": "https://github.com/mekhovov/revealline-soundtracks/releases/download/audio-dushevniy-20260927-e3de7914/e3de791418e27e1b0414ff0ff1973e94c86507a9ecfb3c8037a81e9f212cfac1.mp3",
+      "destinationPath": "objects/e3de791418e27e1b0414ff0ff1973e94c86507a9ecfb3c8037a81e9f212cfac1.mp3"
+    },
+    {
+      "id": "expert-ukrainian-hits.dron-pes-ukrayinski-khity-ukrayinska-muzyka",
+      "sha256": "00139528c586b94a332b2038fce86a5f21f1bab25cd79145a705d6351f02eab6",
+      "bytes": 1360427,
+      "sourceReleaseTag": "audio-expert-ukrainian-hits-20260927-00139528",
+      "sourceURL": "https://github.com/mekhovov/revealline-soundtracks/releases/download/audio-expert-ukrainian-hits-20260927-00139528/00139528c586b94a332b2038fce86a5f21f1bab25cd79145a705d6351f02eab6.mp3",
+      "destinationPath": "objects/00139528c586b94a332b2038fce86a5f21f1bab25cd79145a705d6351f02eab6.mp3"
+    },
+    {
+      "id": "maestroshadow777.nova-avtorska-pisnya-oy-letily-drony-sbu-new-original-song-oh-the-ssu",
+      "sha256": "cfaf70305e6f9356f89b3696c7e30e746965275d592066f3108dc35edd8c1a1a",
+      "bytes": 3985678,
+      "sourceReleaseTag": "audio-maestroshadow777-20260927-cfaf7030",
+      "sourceURL": "https://github.com/mekhovov/revealline-soundtracks/releases/download/audio-maestroshadow777-20260927-cfaf7030/cfaf70305e6f9356f89b3696c7e30e746965275d592066f3108dc35edd8c1a1a.mp3",
+      "destinationPath": "objects/cfaf70305e6f9356f89b3696c7e30e746965275d592066f3108dc35edd8c1a1a.mp3"
+    },
+    {
+      "id": "neuronenko.neuronenko-ukrayinskyy-fpv-dron-pisnya-pro-ukrayinskykh-heroyiv-i-nysh",
+      "sha256": "bc0a38dfb8228dd25afd469c20b4d0471ba22bd9e3c4140736c8b5b13320d384",
+      "bytes": 3692480,
+      "sourceReleaseTag": "audio-neuronenko-20260927-bc0a38df",
+      "sourceURL": "https://github.com/mekhovov/revealline-soundtracks/releases/download/audio-neuronenko-20260927-bc0a38df/bc0a38dfb8228dd25afd469c20b4d0471ba22bd9e3c4140736c8b5b13320d384.mp3",
+      "destinationPath": "objects/bc0a38dfb8228dd25afd469c20b4d0471ba22bd9e3c4140736c8b5b13320d384.mp3"
+    },
+    {
+      "id": "postman-dity-razom-z-ivanom-marunychem-ta-oleksandrom-polozhynskym.milyon-na-dron-dity-razom-z-ivanom-marunychem-ta-oleksandrom-polozhyns",
+      "sha256": "0ebf9e84567743acd38453df6d8ce3d3800987ca7aa13a3374524e24902c3e83",
+      "bytes": 2179335,
+      "sourceReleaseTag": "audio-postman-20260927-0ebf9e84",
+      "sourceURL": "https://github.com/mekhovov/revealline-soundtracks/releases/download/audio-postman-20260927-0ebf9e84/0ebf9e84567743acd38453df6d8ce3d3800987ca7aa13a3374524e24902c3e83.mp3",
+      "destinationPath": "objects/0ebf9e84567743acd38453df6d8ce3d3800987ca7aa13a3374524e24902c3e83.mp3"
+    },
+    {
+      "id": "ruslan-nota.oy-letiv-do-orkiv-dron",
+      "sha256": "e25a39ca1833313f09bc9bcbd95e6e9214fa4f38707111f7cc0f2b3c1a1d20c8",
+      "bytes": 2780789,
+      "sourceReleaseTag": "audio-ruslan-nota-20260927-e25a39ca",
+      "sourceURL": "https://github.com/mekhovov/revealline-soundtracks/releases/download/audio-ruslan-nota-20260927-e25a39ca/e25a39ca1833313f09bc9bcbd95e6e9214fa4f38707111f7cc0f2b3c1a1d20c8.mp3",
+      "destinationPath": "objects/e25a39ca1833313f09bc9bcbd95e6e9214fa4f38707111f7cc0f2b3c1a1d20c8.mp3"
+    },
+    {
+      "id": "siva.siva-moskalskyy-cherep-pisnya-serhiya-sivachenka",
+      "sha256": "5f622aad63e879cfde758aaf14420981dccdea923383d0f9ac8e328c61317dc5",
+      "bytes": 3168560,
+      "sourceReleaseTag": "audio-siva-20260927-5f622aad",
+      "sourceURL": "https://github.com/mekhovov/revealline-soundtracks/releases/download/audio-siva-20260927-5f622aad/5f622aad63e879cfde758aaf14420981dccdea923383d0f9ac8e328c61317dc5.mp3",
+      "destinationPath": "objects/5f622aad63e879cfde758aaf14420981dccdea923383d0f9ac8e328c61317dc5.mp3"
+    },
+    {
+      "id": "ukrainian-tik-tok.zakyn-na-donat-donat-bambam-zsudonat-viyskovyyhumor",
+      "sha256": "3d8d157da92cc88668f0c661456e4f9239646dbf5a987dce17e010c86558a64b",
+      "bytes": 340466,
+      "sourceReleaseTag": "audio-ukrainian-tik-tok-20260927-3d8d157d",
+      "sourceURL": "https://github.com/mekhovov/revealline-soundtracks/releases/download/audio-ukrainian-tik-tok-20260927-3d8d157d/3d8d157da92cc88668f0c661456e4f9239646dbf5a987dce17e010c86558a64b.mp3",
+      "destinationPath": "objects/3d8d157da92cc88668f0c661456e4f9239646dbf5a987dce17e010c86558a64b.mp3"
+    },
+    {
+      "id": "vitold-ua-band-feat-black-d.vitold-band-feat-black-d-drakaris-muzychnyy-klip-do-video-dron-drakon",
+      "sha256": "ef37e31610e6fd4723c82319f34cad07c4cbb902a494a1f468bf16990d1ed64a",
+      "bytes": 3287583,
+      "sourceReleaseTag": "audio-vitold-ua-band-feat-black-d-20260927-ef37e316",
+      "sourceURL": "https://github.com/mekhovov/revealline-soundtracks/releases/download/audio-vitold-ua-band-feat-black-d-20260927-ef37e316/ef37e31610e6fd4723c82319f34cad07c4cbb902a494a1f468bf16990d1ed64a.mp3",
+      "destinationPath": "objects/ef37e31610e6fd4723c82319f34cad07c4cbb902a494a1f468bf16990d1ed64a.mp3"
+    },
+    {
+      "id": "zababura.zababura-tsey-dron-tsey-dron-za-motyvamy-pisni-tsey-son-stepana-hihy",
+      "sha256": "222a3a770ba96401eab824e82b93c8a5d3ed2f7ae02730d83f232cff6e960b3e",
+      "bytes": 1673895,
+      "sourceReleaseTag": "audio-zababura-20260927-222a3a77",
+      "sourceURL": "https://github.com/mekhovov/revealline-soundtracks/releases/download/audio-zababura-20260927-222a3a77/222a3a770ba96401eab824e82b93c8a5d3ed2f7ae02730d83f232cff6e960b3e.mp3",
+      "destinationPath": "objects/222a3a770ba96401eab824e82b93c8a5d3ed2f7ae02730d83f232cff6e960b3e.mp3"
+    },
+    {
+      "id": "andriy-matsevko.dron-andriymatsevko-o1t",
+      "sha256": "7af03535606e776b446ba77db57a184890b9094d3341b9a30660705c14fcf8e0",
+      "bytes": 4269235,
+      "sourceReleaseTag": "audio-andriy-matsevko-20260927-7af03535",
+      "sourceURL": "https://github.com/mekhovov/revealline-soundtracks/releases/download/audio-andriy-matsevko-20260927-7af03535/7af03535606e776b446ba77db57a184890b9094d3341b9a30660705c14fcf8e0.mp3",
+      "destinationPath": "objects/7af03535606e776b446ba77db57a184890b9094d3341b9a30660705c14fcf8e0.mp3"
+    },
+    {
+      "id": "hurt-dno-medovyy-polyn-mukha-mukhych.hurt-dno-medovyy-polyn-mukha-mukhych-rehi-dron",
+      "sha256": "46a99517674d545cb85ba5400b3adc3e7f88ebf79caa79d4c2aa7e7bd9cccba8",
+      "bytes": 2586200,
+      "sourceReleaseTag": "audio-hurt-dno-20260927-46a99517",
+      "sourceURL": "https://github.com/mekhovov/revealline-soundtracks/releases/download/audio-hurt-dno-20260927-46a99517/46a99517674d545cb85ba5400b3adc3e7f88ebf79caa79d4c2aa7e7bd9cccba8.mp3",
+      "destinationPath": "objects/46a99517674d545cb85ba5400b3adc3e7f88ebf79caa79d4c2aa7e7bd9cccba8.mp3"
+    },
+    {
+      "id": "dyadya-sirozha.pisni-dyadi-sirozhy-drony-mahichni-drony-hratsiyni-pochatok-kintsya-st",
+      "sha256": "9555184abb2a5430227b45410340911b1bdd18966d0ab7f3d4037f440092a09e",
+      "bytes": 2648923,
+      "sourceReleaseTag": "audio-dyadya-sirozha-20260927-9555184a",
+      "sourceURL": "https://github.com/mekhovov/revealline-soundtracks/releases/download/audio-dyadya-sirozha-20260927-9555184a/9555184abb2a5430227b45410340911b1bdd18966d0ab7f3d4037f440092a09e.mp3",
+      "destinationPath": "objects/9555184abb2a5430227b45410340911b1bdd18966d0ab7f3d4037f440092a09e.mp3"
+    },
+    {
+      "id": "zabavka-i-dmytryk.zabavka-i-dmytryk-dronshchyk-home-video",
+      "sha256": "1e8a3540686dd112920bb939bb8650d5f2dca08a3a609f3f5bd185b388aba08b",
+      "bytes": 1027835,
+      "sourceReleaseTag": "audio-zabavka-i-dmytryk-20260927-1e8a3540",
+      "sourceURL": "https://github.com/mekhovov/revealline-soundtracks/releases/download/audio-zabavka-i-dmytryk-20260927-1e8a3540/1e8a3540686dd112920bb939bb8650d5f2dca08a3a609f3f5bd185b388aba08b.mp3",
+      "destinationPath": "objects/1e8a3540686dd112920bb939bb8650d5f2dca08a3a609f3f5bd185b388aba08b.mp3"
+    },
+    {
+      "id": "ivan-hanzera.vesela-pisenka-ukrayinskoho-drona-prem-yera-2024-ivan-hanzera",
+      "sha256": "56ccb8cf806d141b891f1febe44e3261227ddcf010a4dba172fc94be51c37b49",
+      "bytes": 1983489,
+      "sourceReleaseTag": "audio-ivan-hanzera-20260927-56ccb8cf",
+      "sourceURL": "https://github.com/mekhovov/revealline-soundtracks/releases/download/audio-ivan-hanzera-20260927-56ccb8cf/56ccb8cf806d141b891f1febe44e3261227ddcf010a4dba172fc94be51c37b49.mp3",
+      "destinationPath": "objects/56ccb8cf806d141b891f1febe44e3261227ddcf010a4dba172fc94be51c37b49.mp3"
+    },
+    {
+      "id": "madyar.usyudy-de-ne-bachu-i-bachu-khrobakiv-znymkuyut-ptakhy-madyara",
+      "sha256": "6c8699e9cbf469c18e73031a62b72461c1e9c44eda406e1eb88619900d557c4e",
+      "bytes": 2588397,
+      "sourceReleaseTag": "audio-madyar-20260927-6c8699e9",
+      "sourceURL": "https://github.com/mekhovov/revealline-soundtracks/releases/download/audio-madyar-20260927-6c8699e9/6c8699e9cbf469c18e73031a62b72461c1e9c44eda406e1eb88619900d557c4e.mp3",
+      "destinationPath": "objects/6c8699e9cbf469c18e73031a62b72461c1e9c44eda406e1eb88619900d557c4e.mp3"
+    },
+    {
+      "id": "madyar.stalevyy-ptakh-tekst-muzyka-bloger-414-bryhada-ptakhy-madyara",
+      "sha256": "5d8e57ca42b50ab463504a68cde5907f9eebcd767df18ca9b6017a782d3e2d43",
+      "bytes": 3949399,
+      "sourceReleaseTag": "audio-madyar-20260927-5d8e57ca",
+      "sourceURL": "https://github.com/mekhovov/revealline-soundtracks/releases/download/audio-madyar-20260927-5d8e57ca/5d8e57ca42b50ab463504a68cde5907f9eebcd767df18ca9b6017a782d3e2d43.mp3",
+      "destinationPath": "objects/5d8e57ca42b50ab463504a68cde5907f9eebcd767df18ca9b6017a782d3e2d43.mp3"
+    },
+    {
+      "id": "proklyatyy-tretya-shturmova.proklyatyy-tretya-shturmova-sportyvni-povitryani-roboty-proyekt-epokha",
+      "sha256": "0b92127dd20223f0644b9b2b4812812fb841674a36841e4a2b0eb2b0e12d408c",
+      "bytes": 2926619,
+      "sourceReleaseTag": "audio-proklyatyy-20260927-0b92127d",
+      "sourceURL": "https://github.com/mekhovov/revealline-soundtracks/releases/download/audio-proklyatyy-20260927-0b92127d/0b92127dd20223f0644b9b2b4812812fb841674a36841e4a2b0eb2b0e12d408c.mp3",
+      "destinationPath": "objects/0b92127dd20223f0644b9b2b4812812fb841674a36841e4a2b0eb2b0e12d408c.mp3"
+    },
+    {
+      "id": "sarhiy-prytula-ta-misha-krupin.yi-ty-snyu-24-7-misha-krupin-ta-fond-prytuly",
+      "sha256": "3d981d479f4d5447a6806ed3ee7709b8a408d213ca8a8ae6a8b1b342461322c1",
+      "bytes": 2259668,
+      "sourceReleaseTag": "audio-sarhiy-prytula-ta-misha-krupin-20260927-3d981d47",
+      "sourceURL": "https://github.com/mekhovov/revealline-soundtracks/releases/download/audio-sarhiy-prytula-ta-misha-krupin-20260927-3d981d47/3d981d479f4d5447a6806ed3ee7709b8a408d213ca8a8ae6a8b1b342461322c1.mp3",
+      "destinationPath": "objects/3d981d479f4d5447a6806ed3ee7709b8a408d213ca8a8ae6a8b1b342461322c1.mp3"
+    },
+    {
+      "id": "surenzh.akhilles",
+      "sha256": "cdba5db44c8417af7271bec25909ab1f0e40944ca7b530ed9c064aa3d7fcd3ed",
+      "bytes": 2625385,
+      "sourceReleaseTag": "audio-surenzh-20260927-cdba5db4",
+      "sourceURL": "https://github.com/mekhovov/revealline-soundtracks/releases/download/audio-surenzh-20260927-cdba5db4/cdba5db44c8417af7271bec25909ab1f0e40944ca7b530ed9c064aa3d7fcd3ed.mp3",
+      "destinationPath": "objects/cdba5db44c8417af7271bec25909ab1f0e40944ca7b530ed9c064aa3d7fcd3ed.mp3"
+    },
+    {
+      "id": "ukrayinski-pisni-pisni-ua.pisnya-pro-dron-babka-yozhka",
+      "sha256": "09bbee881a6e655ca2c6edb49378502be95b37117d72a7a0232f44c1aaa98f0e",
+      "bytes": 2420684,
+      "sourceReleaseTag": "audio-ukrayinski-pisni-pisni-ua-20260927-09bbee88",
+      "sourceURL": "https://github.com/mekhovov/revealline-soundtracks/releases/download/audio-ukrayinski-pisni-pisni-ua-20260927-09bbee88/09bbee881a6e655ca2c6edb49378502be95b37117d72a7a0232f44c1aaa98f0e.mp3",
+      "destinationPath": "objects/09bbee881a6e655ca2c6edb49378502be95b37117d72a7a0232f44c1aaa98f0e.mp3"
+    },
+    {
+      "id": "khvostati-lovelasy.drony-bdzholy-ofitsiynyy-klip-ukrayinska-satyra-pro-viynu-khvostati-lo",
+      "sha256": "93ba351fb0cdafde13e33f30bc73e9ae357bb9e16ce94da25768ef839e450a38",
+      "bytes": 3041176,
+      "sourceReleaseTag": "audio-khvostati-lovelasy-20260927-93ba351f",
+      "sourceURL": "https://github.com/mekhovov/revealline-soundtracks/releases/download/audio-khvostati-lovelasy-20260927-93ba351f/93ba351fb0cdafde13e33f30bc73e9ae357bb9e16ce94da25768ef839e450a38.mp3",
+      "destinationPath": "objects/93ba351fb0cdafde13e33f30bc73e9ae357bb9e16ce94da25768ef839e450a38.mp3"
+    },
+    {
+      "id": "tsybrr.klip-rusoriz",
+      "sha256": "b86f77c8d106596fcbc24e42d58a502b0c7b1576c83b57cd5b889b62a42be4a6",
+      "bytes": 2836832,
+      "sourceReleaseTag": "audio-tsybrr-20260927-b86f77c8",
+      "sourceURL": "https://github.com/mekhovov/revealline-soundtracks/releases/download/audio-tsybrr-20260927-b86f77c8/b86f77c8d106596fcbc24e42d58a502b0c7b1576c83b57cd5b889b62a42be4a6.mp3",
+      "destinationPath": "objects/b86f77c8d106596fcbc24e42d58a502b0c7b1576c83b57cd5b889b62a42be4a6.mp3"
+    }
+  ]
+}
