@@ -67,3 +67,21 @@ jobs:
       - name: Deploy the independently verified FPV Pages artifact
         id: deployment
         uses: actions/deploy-pages@v4
+  public-acceptance:
+    timeout-minutes: 20
+    if: github.event_name == 'push' && github.ref == 'refs/heads/main' && github.repository == 'mekhovov/revealline-soundtracks-fpv'
+    needs: deploy
+    runs-on: ubuntu-24.04
+    permissions:
+      contents: read
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22.22.2
+      - name: Verify every public migrated object without storing audio
+        run: node intake/verify-public.mjs > fpv-public-verification.json
+      - uses: actions/upload-artifact@v4
+        with:
+          name: fpv-public-verification
+          path: fpv-public-verification.json
