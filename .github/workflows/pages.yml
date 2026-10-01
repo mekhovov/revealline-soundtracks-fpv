@@ -11,7 +11,7 @@ concurrency:
 jobs:
   copy-audio:
     timeout-minutes: 30
-    if: github.event_name == 'push' && github.repository == 'mekhovov/revealline-soundtracks-fpv' && github.actor == 'mekhovov'
+    if: github.event_name == 'push' && github.repository == 'mekhovov/revealline-soundtracks-fpv'
     runs-on: ubuntu-24.04
     permissions:
       contents: write
