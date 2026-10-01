@@ -12,6 +12,7 @@ const root = path.dirname(fileURLToPath(import.meta.url));
 const HASH = /^[a-f0-9]{64}$/;
 const OBJECT = /^objects\/([a-f0-9]{64})\.mp3$/;
 const PUBLIC_FILES = [".nojekyll", "README.md", "UPLOAD_GUIDE.md", "CREDITS.md",
+  "access-entry.mjs", "access-gate.css", "access-gate.mjs",
   "catalogue.json", "batches.json", "audio-volumes.json", "external-deliveries.json",
   "migration-inventory.json", "index.html", "upload-guide/index.html", "style.css",
   "archive-config.mjs", "licensing-policy.mjs", "review-policy.mjs", "player.mjs",
