@@ -8,6 +8,21 @@
       "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
     },
     {
+      "path": "access-entry.mjs",
+      "bytes": 152,
+      "sha256": "581f980b29c3443fc15d47a5a38b0725374914ea9c063f354096c94b5e11c63d"
+    },
+    {
+      "path": "access-gate.css",
+      "bytes": 1763,
+      "sha256": "a275bd057f78c6a5bf8f0747485aac01532ef0d2f807db7ac31e9f4561336160"
+    },
+    {
+      "path": "access-gate.mjs",
+      "bytes": 4718,
+      "sha256": "cf38c8fc0504ef02ff51bba93992971142affc19de820d7a0a99a3c6a1310be3"
+    },
+    {
       "path": "archive-config.mjs",
       "bytes": 458,
       "sha256": "bedd41047e1d266d4aaf32e06a571f2b78ecc4e6bf59c46d04d47720b6d0253a"
@@ -44,8 +59,8 @@
     },
     {
       "path": "index.html",
-      "bytes": 12753,
-      "sha256": "f83cb7d9ceecd1089bc1737bd3692c2e0478fd4db3254f1b0a55552d40419de6"
+      "bytes": 13170,
+      "sha256": "83b8328a8b7c09dea57d074936eb92ebefb9a5f0880d08e9af3247f85eb2bcf9"
     },
     {
       "path": "intake-browser.mjs",
@@ -479,8 +494,8 @@
     },
     {
       "path": "upload-guide/index.html",
-      "bytes": 1491,
-      "sha256": "aa3d0afa5029c2cd891189dc214e12778f144c0ef56d7d9f1fa759a7d359eb47"
+      "bytes": 1975,
+      "sha256": "15b72200fbb7ec05547cc04b4326a5e27f9f922239ea889c455770ca1493b0b5"
     }
   ]
 }
