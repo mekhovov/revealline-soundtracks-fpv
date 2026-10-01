@@ -131,10 +131,10 @@ test("hosted copy publishes only an exact complete volume and is idempotent with
   assert.deepEqual(bad.calls, ["list", "view"]);
 });
 
-test("public PRs are read-only; only owner push copies audio and only main deploys", async () => {
+test("public PRs are read-only; only repository pushes copy audio and only main deploys", async () => {
   const workflow = await readFile(".github/workflows/pages.yml", "utf8");
   assert.match(workflow, /permissions:\n  contents: read/);
-  assert.match(workflow, /github.event_name == 'push'.*github.repository == 'mekhovov\/revealline-soundtracks-fpv'.*github.actor == 'mekhovov'/);
+  assert.match(workflow, /github.event_name == 'push'.*github.repository == 'mekhovov\/revealline-soundtracks-fpv'/);
   assert.doesNotMatch(workflow, /pull_request_target/);
   const verification = workflow.split("  verify:")[1].split("  deploy:")[0];
   assert.doesNotMatch(verification, /contents: write|GH_TOKEN/);
